@@ -1,0 +1,62 @@
+fine_label utterance
+Explore_Param the mass was 0.24 with the diameter at 70, but with the diameter at 45 it was 0.17
+Prov_Info With c=60 and dc=20 I get FOS=8
+Underst_Dep Is 45 mm bore diameter working better for you? I was getting better results at 40
+Acc_Info Sounds good
+Sugg_Info Who has the FOS of .57? we need to work on increasing that
+Enq_Info we're only trying to keep FOS over 2 right?
+Prov_Info mass 1.49, fos 2.47
+Explore_Param I was looking at what factor of safety/ weight range is excellent and trying to get the lowest mass with a factor of safety around 2
+Prov_Info thickness of I-section = 3
+Underst_Dep crankshaft is like 30
+Prov_Info My mass varies between 0-0.12 so let me know if you need me to adjust anything
+Enq_Info is your mass and fos
+Prov_Info just updated my broadcast. Mass of mine is 1.49
+Enq_Info Do you have a value for the bore diameter?
+Enq_Info what was the flywheel thickness used?
+Underst_Dep all my fos values are in the hundreds, i suspect it depends a lot on c
+Enq_Info What value works best for your simulation?
+Request_Help Wanna do me a favor and broadcast the value of 45
+Prov_Info tf = 10 mm; ds = 25 mm;
+Prov_Info i'm not the only one that is changing
+Sugg_Info How appreciable is the change in mass if you prioritize FOS?
+Acc_Info It appears our engine design currently is excellent
+Sugg_Info You probably want to check with the piston
+Prov_Info Right now I have a total mass of 1.49 and FOS of 4.55 which appears to be good via rubric
+Prov_Info Right now I have a total mass of 1.49 and FOS of 4.55 which appears to be good via rubric
+Enq_Info what's your fos?
+Acc_Info okay right now we're at very good
+Monitoring_Obj Can you put yours back to before when it was excellent? I think theres some dependency that makes it go bad
+Acc_Info possibly, let me check
+Prov_Info Hello rod designer. The crankshaft doesn't depend directly on your system, but please tell me if anything that I do affects you.
+Sugg_Info Try and minimize your mass but keep fos above 2
+Enq_Info How low can you go on the piston bore diameter?
+Sugg_Info I do not think it has any effect
+Request_Help update the broadcast
+Prov_Info no because it went down to fair, the mass went up a lot
+Sugg_Info I think its the piston
+Enq_Info your mass is 25.98?
+Explore_Param just reduced thickness to reduce mass, increased fos a bit
+Enq_Info you're in charge of the crankshaft bearing offset, right?
+Enq_Info what
+Prov_Info it depends heavily on piston diameter
+Prov_Info Right now I have a total mass of 1.49 and FOS of 4.55 which appears to be good via rubric
+Prov_Info r2 = 0.5, r3 = 0.2, and at D = 40 this gives m = 0.12 and fos = 3.44
+Enq_Info is your mass high?
+Acc_Info Great! So your values are fully optimized
+Acc_Info me too
+Acc_Info thank you!
+Prov_Info Think I optimized my part with m = .52 and FOS = 2.01
+Prov_Info cool, I havent changed anything from excellent 
+Prov_Info mine is 3
+Sugg_Info Basically, if we can each keep our part factor of safety above 2 while minimizing mass, we'll be golden.
+Prov_Info I don't know what has changed. Ill rebroadcast what I had when we were good.
+Prov_Info current broadcasted is 25.98. fos is still over 2
+Prov_Info I re-simulated with the others' updated values and got a slightly lower mass and fos of 3
+Monitoring_Obj that depends on what the thickness of the piston is for me, if I keep it the same and decrease it the mass goes down but so does the factor of safety, I'm trying to get it around 2 w/ lowest mass
+Enq_Info ?
+Acc_Info yes i will broadcast it
+Prov_Info That is what my document specifies. I will keep c low unless the piston needs it to be higher
+Enq_Info our mass seems to be going up, are you using the original values?
+Acc_Info Yup thats my bad
+Prov_Info I have both my values fully optimized

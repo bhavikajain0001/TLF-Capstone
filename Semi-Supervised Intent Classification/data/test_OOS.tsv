@@ -1,0 +1,2405 @@
+fine_label utterance
+OOS were at good lets leave it
+OOS I have not decided yet. What would help you most?
+OOS according to the thing on the screen it says very good
+OOS 40 inches.
+OOS what mass are you getting?
+OOS yes
+OOS 5.2
+OOS Have you chosen a crankshaft bearing offset?
+OOS how can you maximize fos and we can work around that maybe?
+OOS I don't know if I can get a FOS over 1 with that diameter
+OOS what are your values currently at?
+OOS my bad lol the range of mass is like 0 ~ 0.1 ish
+OOS haven't changed anything on my ene
+OOS thickness of I-section ratio of conrad length to crank length
+OOS Who is the fly wheel designer ?
+OOS if I reduce piston FOS overall fos goes down a lot
+OOS Ok, don't think that's relevant for me
+OOS what is your FOS
+OOS I think you need to change your c value
+OOS But that also bumped up my mass like 0.3
+OOS ahh gotcha
+OOS And the mass for my component is 0.55
+OOS it want us talk to each other so it changes to poor sometimes
+OOS go for it
+OOS Yes
+OOS or maybe 80
+OOS group - what does your design depend on, and how does it change m and fos?
+OOS mines at 3.84
+OOS yes, that was what I was thinking
+OOS Is there a tf that works best for you?
+OOS are we content with very good?
+OOS my bad, thanks 
+OOS Okay
+OOS we can make some spare weight elsewhere
+OOS group: one change at a time! let crankshaft change and then he/she can let us know!
+OOS Hold where you are
+OOS awesome! go team
+OOS oh shoot didnt realize when u hit check for broadcast it updates
+OOS retweet
+OOS I think the other designers have way too high fos's
+OOS How are we looking with FS?
+OOS my mass is 0.52
+OOS You?
+OOS that works for me too
+OOS 2.31
+OOS Does a larger thickness negatively affect fos or mass?
+OOS piston-pin length to piston diameter ratio and piston-pin inner diameter to pin outer diameter ratio
+OOS Same
+OOS (piston head)
+OOS Are your values finalized? I see we are at excellent now.
+OOS what you need and what you have
+OOS I didnt change anything
+OOS that wasnt me
+OOS Group: I will decrease mine now
+OOS we got it!
+OOS good working with ya even though we didnt get to talk much
+OOS what are your ds and tf?
+OOS t_f = 12.0 and d_s = 60.0
+OOS no I do not think it does, I was able to get my FOS up above 3.4 though
+OOS based on the current values, it should say excellent
+OOS flywheel says they have an FOS of 3286 apparently?
+OOS Basically unless the bore diameter changes I found my sweet spot.
+OOS Sorry, mass 25.69, fos 1.45
+OOS Is there anything you can reduce to cut mass but keep the FOS just above 2?
+OOS were good
+OOS Flywheel guy is also in on it
+OOS What does it change for you?
+OOS wonderful system, this is.
+OOS If I do the lowest mass I can then FOS goes down by a lot
+OOS what variables are you considering?
+OOS good?
+OOS i'll look and see if there are any
+OOS i haven't either
+OOS my current fos is 1.35, connecting rod designedr has 7.69, what do you have?
+OOS that's okay, FOS is still close to 2
+OOS We once had an excellent quality though
+OOS George?
+OOS Ok, right now my r2 is 0.5 and r3 is 0.2. Is that what you need?
+OOS Do you have a value for piston bore diameter?
+OOS Where exactly do i check that?
+OOS I think the previous dimensions had us at a "very good"
+OOS That might be worth it. Maybe tell the others you're doing that
+OOS ok im gonna change the conrod a little to see if i can get it to work. If not Ill just change it back and we'll take Very Good. No one change anything else
+OOS How does crankshaft-pin diameter affect your mass and FOS?
+OOS I'm the low FOS of 2.01, can you cut any more mass out
+OOS yeah min is 2.77
+OOS it just said very good
+OOS sounds good
+OOS lol ya slight L but were still hanging on
+OOS we are at excellent now
+OOS X X _ ; _ O _ ; _ O _
+OOS mine is 2.09
+OOS are you changing things
+OOS I have it low as possible
+OOS Yeah let me bump up the rod thickness
+OOS OK STOP
+OOS we need to get below 3 kg for the FOS to really matter at this point
+OOS Just did max, 105!
+OOS Can you try and minimize your bearing offset? I'm getting the best results for a bearing offset of 60
+OOS since we have five members, and the excellent mass is 2, then let's first pick a mass value around 0.4 together
+OOS only (c) affects my Fos.  Butmy Fos is in the range of thousands so I don't think it matters too much.
+OOS whats your fos
+OOS OK STOP
+OOS my part is a lot of the total weight
+OOS someone changed it again
+OOS q5: is it a windshield wiper
+OOS Whats your current diameter?
+OOS Are you changing your broadcast values a lot
+OOS 5625
+OOS Yeah i have the connecting rod at minimum thickness
+OOS i think that will raise my FOS and lower weight
+OOS kmaybe not
+OOS i'm trying to minimize the mass of crankshaft and factor of safety
+OOS *anyone has lower FOS change when mass dec?
+OOS I have the best broadcast available for my thing
+OOS my mass is 3.13 (the lowest option) and FOS is 0.58
+OOS ok we are good
+OOS nah dont do that
+OOS My quality is at good right now, not sure if it shows the same thing for everyone  Send
+OOS what piston bore diameter are you using?
+OOS Yeah, I saw that. Wondering if it's the crankshaft
+OOS what's your current value?
+OOS 82.5 is good
+OOS What is your FS
+OOS mass 1.83 and  fos 1.92
+OOS are those variables L and r?
+OOS Does 2.09 affect mass significantly?
+OOS What piston diameter are you using that works well?
+OOS Looks like our FOS went up
+OOS can u adjust ur thing to accomidate that?
+OOS lowest mass is at D=40
+OOS totally unsure what 4 simulations you mean
+OOS I havnt changed anything
+OOS What is your piston bore diameter right now
+OOS Im going to reduce piston D to 75 to see what happens
+OOS Ok, i was just wondering if any of my parameters need to be entered into your catalog to get the correct mass and fos values
+OOS new c is broadcast
+OOS great
+OOS Ok. We need to try to decrease mass
+OOS We're good
+OOS were in good range rn
+OOS yes but i didnt broadcast
+OOS what is your mass?
+OOS Try to optimize your FoS to mass ratio in the mean time. I think that's how we'll be able to get good numbers
+OOS *and gets called out for it*
+OOS okay
+OOS Design variables: ratio of piston-pin length to piston diameter
+OOS but then
+OOS mine is 0.1 so idk why our mass is so high
+OOS same
+OOS we got it, don't change things
+OOS but I can slightly increase mass to get 2.63 FOS
+OOS See if you can bump that up
+OOS i think i need to change then
+OOS grp-im done
+OOS Hey what do you have control over?
+OOS what's your mass and FOS
+OOS no
+OOS yes
+OOS sounds good ill do 45
+OOS hey try changing the diameter to 90
+OOS are you changing the variables?
+OOS and keep D lower
+OOS yeah that is what im using
+OOS ms:1.17 fs:2.0
+OOS can you lower the r values
+OOS Go fast theyre giving out the money
+OOS but D has alot of impact on weight so i ude thickness to improve FOS
+OOS wait what did you change?
+OOS Isn't a factor of safety of 2 considered outstanding, most of mine are in the hundreds.
+OOS !
+OOS at 0.1
+OOS 1.64
+OOS it requires piston bore diameter, any range from 75 to 105
+OOS mine is currently m=0.02 and FOS=0.22 but my max FOS is 0.24
+OOS Are there any parameters from the flywheel that affect your factor of safety or mass of your sub system?
+OOS okie
+OOS Do you have any parameters that depend on the piston pin?
+OOS we are in excellent!
+OOS FOS coz that's minimum
+OOS Don't touch anything. We're in EXCELLENT
+OOS Or rather, what affects it
+OOS can we submit now?
+OOS the only dimension that I have access to that was different then was the piston bore diameter
+OOS Broadcast the latest values
+OOS still maxed at 1.23
+OOS Right now I am using 5mm
+OOS for c?
+OOS It's been good working with Yall
+OOS we are currently at very good. are anyones values different from what they were when we were at excellent?
+OOS Oh ok. Because we went back to poor
+OOS Need anything from me?
+OOS is your current value exactly 90?
+OOS can we try and see the final values if the bore diameter is 75?
+OOS Don't think so
+OOS Have you been changing the piston and seeing how the piston-pin can be changed?
+OOS I'm trying to do that as well
+OOS ok mine is the largest. Im gonna decrease
+OOS I can sacrifice some fos if it will take off a lot of mass
+OOS interesting
+OOS ok it went up to 300 rn
+OOS I have lowest mass output selected currently
+OOS No idea
+OOS yeah i think his fos usually gets 0.05
+OOS fos is bad
+OOS bore diameter flywheel shaft diameter and flywheel thickness
+OOS you can change it and change it back if it gets worse
+OOS ive already mentally prepared to be disappointed
+OOS Cool
+OOS Thank you
+OOS 60
+OOS what factors does your sheet that you depend on that come from other people?
+OOS I have my best broadcast for the available thing
+OOS I think the crankshaft person is the one throwing the values all around
+OOS everyone try to lower the fos  to 2 but above 2
+OOS Who changed it
+OOS Anything you need from me yet
+OOS I agree. My part increases in weight linearly and increases in FOS exponentially so its probably better to maximize it. Do you have a part that increases in FOS only linearly? you can see it on the graphs
+OOS did oyu change?
+OOS looks like we're done?
+OOS I can't change it from here because it will lower mass, but it will also reduce factor of safety
+OOS yep
+OOS we can both move. i have to tell teh others also becuase they depend on it
+OOS So, I can increase FOS by alot but my part would weigh, so I could
+OOS ok that's good
+OOS 1.35 i mean
+OOS we are currently at very good. are anyones values different from what they were when we were at excellent?
+OOS what r do you have for the pin?
+OOS Not from what I understand
+OOS gg team
+OOS 2.03FOS is about the fos we can do and still be very good / excellent. we need to drop the mass
+OOS Have you updated the global broadcast in a while?
+OOS flywheel - update the group when you change!
+OOS I have D at 40
+OOS might be piston
+OOS hmm
+OOS Hi how is it going?
+OOS back at80
+OOS New plan. All of us are going to max FOS, and then worry about mass
+OOS GROUP: ok I see piston-pin, that works too
+OOS yep i got it
+OOS any preference on the piston bore diameter?
+OOS Easy $20 :D
+OOS mine depends on yours but my mass has not increased above 2
+OOS the flywheel apparently only has a mass of 1.27
+OOS no nothing affects me
+OOS what are you FS/Ms at rn?
+OOS It seems like the flywheel could be kept at a lower mass without hurting fos. Maybe close to .6?
+OOS i have 2.0 so I have the lowest fos
+OOS try working more with FS if you can. Ours is so low
+OOS yes
+OOS do you need anything from me?
+OOS what fos are you broadcasting?
+OOS we're at good
+OOS k, maybe not then
+OOS Okay, lowest ms i can get is like 5.42
+OOS Have you changed your values any?
+OOS Alrighty. Just updated it
+OOS what was the diameter you use?
+OOS Great - we're getting close.  I'm trying to figure out who keeps changing their broadcasted values
+OOS i haven't updated
+OOS I havn't changed it since the beginning
+OOS What are the weight and FOS ranges for your part? Mine are .12 to 3.85 kg, 2  to 60 for FOS. Sending to everyone
+OOS 61.91
+OOS ok mine is like .5-1 so im trying to change fos more
+OOS im going to try to see what decreasing my mass slighlty does
+OOS I think it's at 2 right now
+OOS i have no clue whats happening with that. my mass is too low to have an impact
+OOS I'm at 2.77 now, all my numbers are at their minimum 
+OOS sure
+OOS ok good. I would just assume your part has the most mass
+OOS with piston d = 75, bearing 150, flywheel 12 and shaft 60, we have a FS .12 above 2, but our mass is just a little high
+OOS only need a fos of 2
+OOS okay nice
+OOS Do you need info from me
+OOS we're at excellent
+OOS What's your flywheel shaft diameter and thickness of flywheel?
+OOS Let me know if you need me to decrease mass, I can decrease by 0.5 but my FOS goes down by 2
+OOS what is your mas and fos?
+OOS gotcha
+OOS I'm good too
+OOS I changed something but it didn't affect my mass at all
+OOS check with the others
+OOS yes
+OOS and how so?
+OOS It might be a good idea to send the message to all members at once to emulate a group chat.I have communicated the same with the others.
+OOS D is the diameter of the piston, and T is the thickness of the head
+OOS 0.91
+OOS Mine is in the range of thousands.  So i guess I don't have to worry about it? only the smallest matters right
+OOS who many rounds do we getr?
+OOS No i changed the thickness but Im about to decrease the bore diameter because the piston pin designer wants to
+OOS so If i maximize both my design variables
+OOS Amazing
+OOS i switched it back to 45
+OOS Do you know how changing D effects your numbers?
+OOS it looks like my factor of safety is the lowest at 2.03, so if you need to make yours lighter and reduce the factor of safety, that would be ideal
+OOS nope
+OOS Someone just screwed it up. Now we're in very good
+OOS are you making any changes ?
+OOS Our dimensions line up at least
+OOS Ok do you have a set variable? In your chart
+OOS Ok, mine is only .5. Idk how fos works but mine goes above 5k
+OOS mine is 0.45 to 4.43kg, 1.46 to 31.19 for FOS
+OOS what's your mass ?
+OOS yo bro
+OOS i could change so that it have fos of 2 but weights 2 kg lighter
+OOS My mass is like 1mm thick away from being its minimal value
+OOS it's 5625 but my part has a weird fos
+OOS D= 47.4 or 40 for me
+OOS without going above D = 42
+OOS 0.13
+OOS no worries
+OOS we can try smaller mass
+OOS does the bore diameter D effect ur numbers?
+OOS I have t1, L, and r
+OOS what is your mass rn
+OOS GROUP: let me alter some things real quick
+OOS Group- only piston engineer edits
+OOS I think 75 is the best right now
+OOS Is higher or lower D better for you?
+OOS mass shot up, we back to very good did you change
+OOS cool. not touching anything
+OOS 11.3
+OOS We at fair. Good enough?
+OOS mine is only mass dependent as FOS is very high
+OOS wait in the complete range?
+OOS (i think)
+OOS Are you able to increase our factor of safety at all? I can cut a bit of weight but would have to sacrifce FOS
+OOS Also, does me increasing c help you at all?
+OOS which do you need
+OOS ok
+OOS our mass still needs to go down so try and lower that as much as possible
+OOS It's 3.41
+OOS I believe we all have lowest masses setup now. Make sure to check for broadcasts. We'll take it from there.
+OOS ok im gonna try to get us to exellent dont change
+OOS No
+OOS can you change it just to see
+OOS i think ive optimized my part
+OOS we would want to reduce weight without reducing fs
+OOS Whichever gets you the highest
+OOS What's your FoS?
+OOS Mass: 1.75 FOS:6.07
+OOS Im at 2nd lowest mass
+OOS I'm going to need to know the crankshaft bearing offset when you have it
+OOS Do you have any parameters that depend on the connecting rod?
+OOS the one all the way on top under global is for our whole team
+OOS Looks like were close again now
+OOS Who changed it
+OOS ?
+OOS yes
+OOS were in good range rn
+OOS from crankshaft: crankshaftmy design variables: c (bearing support offset), dc (crank-pin diameter))) crankshaftrequire: piston bore diameter (D), flywheel shaft diameter (ds), flywheel thickness (tf))
+OOS I can increase the FOS, but it almost isn't worth it with how much weight is added on
+OOS what are yourmass/fos
+OOS it was 2.79 then made a couple changes and now it 1.25
+OOS what's your fos
+OOS Yea i believe so. what is it?
+OOS Broadcast your most up to date values so we know where we're at, if you haven't done so already.
+OOS Hey, how are your masses and FS looking? Ranges?
+OOS What is the bearing support offset you are using?
+OOS Perfect!
+OOS he and i talked
+OOS REFRESH IT, ITS LOWER THAN 2 RIGHT NOW
+OOS Just broadcasted it, looks like 55 for D was a good choice
+OOS did you get your mass down?
+OOS did you try playing around with bearing offset ?
+OOS there are rounds?
+OOS agreed but isnt the factor of safety shown above that of the part with the lowest fos?
+OOS Im at 0.1 rn with a fos of 2.52
+OOS Who is broadcasting 0.69 right now?
+OOS and ratio of piston pin inner diameter to outer diameter
+OOS (D) piston bore
+OOS I got my mass down to 0.10 i think that is as low as i can go and the factor of safety is still 2.77
+OOS our mass is already 10kg too high
+OOS we may reduce D just a hair because of the given LD ratio if it helps connecting rod reduce mass
+OOS What's your system mass and FOS?
+OOS me either
+OOS something changed we were closer
+OOS No only the inner piston bore diameter
+OOS hey what changes in mass have you noticed (if any) when you change the bearing support offset?
+OOS Large. 3852.93
+OOS 4706.67, I've reduced my mass as far as possible
+OOS i need to determine a piston diamter first because i think that is most important of my two variables
+OOS group - what design variable do you not control that your design depends on
+OOS i can increase by 1 pound and fos also goes up by 1 which is a lot, can anyone lose a lot of mass with a small decrease in fos?
+OOS We got very good
+OOS our quality just went way down, did you change anything?
+OOS D = 40 works best for me if you can make that work
+OOS what up
+OOS So for my part, the FOS are always very high, so I would be lowing the mass, if your part has low fos please don't hesitate to increase mass
+OOS So I think my subsytem is heaviest so I need to drop weight as much as possible, while other lighter subsystems make up for increased FOS
+OOS Yo
+OOS alright thank you
+OOS Hey, is there any chance you could choose the setting that has the highest FOS and broadcast it?
+OOS your FOS is in the thousands????
+OOS Then its probably crankshaft that has to minimize somehow
+OOS I do not believe so
+OOS okay I'll keep lowering it
+OOS Would the diameter of the piston-pin effect your design at all?
+OOS m=3.48
+OOS okay it shows us at very good, not excellent
+OOS If that's the same as the thickness of the connecting rod, then I'm currently at 2 mm
+OOS th, D, m, fos
+OOS I have the lowest mass configuration (0.55), and the highest FOS (5625) setup currently. Unsure why the overall stats are poor at the moment. 
+OOS Can you send me your mass?
+OOS More than 2 is excellent
+OOS nope. thanks.
+OOS group: can we all try broadcasting settings that are in the middle of our ranges?
+OOS Will do I wrote them down
+OOS GROUP: crankshaft done, fos is great, mass needs just a little bit to bring into Very Good. piston goes next
+OOS what is the lowest mass you got while keeping FOS above 2?
+OOS haha
+OOS group - same with piston-pin
+OOS Could you try decreasing it again? I'm trying to raise my FOS more since my mass is so small
+OOS on it
+OOS flyweel is good too
+OOS I just got my mass down to 0.11
+OOS Nope, only need one thing from the piston
+OOS What's the best crankshaft offset?
+OOS Someone needs to broadcast their best mass so itll go down
+OOS do we just sit here now?
+OOS Try to optimize your FoS to mass ratio in the mean time. I think that's how we'll be able to get good numbers
+OOS yes save those values and we can try to get excellent
+OOS ?
+OOS Well you've got the crankshaft, it should be the heaviest
+OOS yeah
+OOS I have control over D
+OOS so someone is a little confused
+OOS connect 4
+OOS lmk what you think
+OOS 1
+OOS yes. d from 20 to 15
+OOS Ok
+OOS yup thats working!
+OOS I think we need a larger shaft diameter and smaller thickness
+OOS Yo
+OOS Are you able to increase our factor of safety at all? I can cut a bit of weight but would have to sacrifce FOS
+OOS Someone picked an FS of 0.51
+OOS Me neither. I think it was flywheel?
+OOS I have the piston set to near lowest mass (m=0.69 and fos = 3.84) sending this to everyone
+OOS I choose the part with lowest mass and FOS above 2
+OOS you need to change your current broadcast
+OOS its 1.52 with that
+OOS Are you currently changing values?
+OOS Yea I believe so.
+OOS I also have that dimension
+OOS No i changed th piston head thickness but not the diameter
+OOS What levels of mass are you dealing with?
+OOS how do I broadcast?
+OOS i havent changed anything
+OOS What's the updated mass for the crankshaft?
+OOS Are you good with the results?
+OOS nevermind, back at excellent now.
+OOS our weight is too high
+OOS I have control of thickness of I-section, conrod length and the crank length
+OOS was your fos less than 1 now
+OOS _|X|_
+OOS its 80 rn
+OOS ok looks like you have the biggest % of mass in our system
+OOS thats what they were at when we had excellent
+OOS our value is really good right now
+OOS I am also not trying to change the design form here.
+OOS what are your numbers
+OOS unless it drastically changes the mass
+OOS yeah that was because of mass i think and i decreased it by .01 so probably not me
+OOS What are the the piston bore diameter are we making?
+OOS group- does anyone depend on tf, ds
+OOS got em
+OOS I was asked to keep my parameters constant
+OOS i can do 40 easy
+OOS mass 1.24 & FOS 2.01, but if bore diameter was reduced to 40 it could be m= 1.15 and FOS = 1.79
+OOS ok got one
+OOS We're done
+OOS shows it as broadcasting for me
+OOS What is our piston Bore?
+OOS whats the best fos you've had?
+OOS i asked
+OOS im not surprised,he has a pretty big head
+OOS group: who wants to go next?
+OOS Ok. Our FOS isn't too bad right now so that's probably a good place to be at the moment
+OOS now poor
+OOS Don't change anything
+OOS has anyone gotten a simulation besides poor as the results?
+OOS got 0.1kg and Fos = 2.77
+OOS mine is m=0.69 and fos = 3.84
+OOS piston head thickness and piston bore diameter
+OOS if i go all the way to min weight is cuts fos and only shaves .03kg
+OOS Is 70 the best value for bore design or have you not messed with it yet?
+OOS What is your third field you fill out to run simulations?
+OOS done!
+OOS okay, i havent updated in awhile
+OOS ill set piston bore diameter to max and we can iterate from there
+OOS says very good
+OOS group: how much does your part currently weigh
+OOS Right now I have D=85
+OOS my fos is too high to change anything so i kept mine at lowest m
+OOS I have my best broadcast for the available thing
+OOS our quality just went way down, so if you changed anything try to change it back
+OOS Awesome, thank you
+OOS can you bring FOS down? it only needs to be 2
+OOS 2.77 for a diameter of 40
+OOS Don't touch anything. We're in EXCELLENT
+OOS what do you need
+OOS ratio for piston pin inner diameter to outer diameter
+OOS The diameter is now at 40.
+OOS updated mass to .46, fos to 10.7
+OOS Cause I've been running simulations using the minimum piston diameter
+OOS Ok. it seems like this engine keeps getting heavier so i'm gonna make the piston smaller to change that
+OOS nope
+OOS we are at excellent agian
+OOS *Do you guys just want to keep this setting and change one at a time?
+OOS what factors of the crank shaft?
+OOS If I hold my variables same, the lower the diameter, the lower the Ms and fos
+OOS yeah unless someone knows how to increase factor of safety without increasing mass significantly
+OOS everyone try to lower the fos  to 2 but above 2
+OOS i control Ti and r1
+OOS We are good, he said his FOS went up when I changed it down to 45
+OOS Our fos just dropped again
+OOS ok sweet
+OOS our weight is the high bit
+OOS as i increase it I can increase FOS some
+OOS Ok thank you.
+OOS Did you broadcast anything recently?
+OOS broadcasting 2.85 with a mass of 1.36
+OOS I am designing the piston. i control the piston diameter and head thickness.
+OOS is that your ideal dim?
+OOS I am checking a few things so values may be weird for a minute
+OOS Hell to the yeah
+OOS lets decrease mass
+OOS what have you been in control of?
+OOS i dont want to mess it up
+OOS Do I have any variables that affect your result?
+OOS our value is really good right now and the 1.71 and 4.55 are my current values
+OOS aight did you broadcast anything?
+OOS I havent updated anything
+OOS Diameter and thickness
+OOS no I don't need either
+OOS I'm confident I'm at my optimal setting. No others even close.
+OOS no problem
+OOS not me, at lowest weight possible
+OOS No, that does not affect it either
+OOS I'm gonna try to keep the conrod-crank ratio down
+OOS you need values from me?
+OOS it still doesnt
+OOS try putting it on the high end to see if that impacts our fos significantly
+OOS that massive dip did not come from piston
+OOS maybe lower if needed
+OOS You'll need to broadcast that. The most recent broadcast value we have is 80.
+OOS they said they ddnt
+OOS Hi, looks like we should increase the factor of safety. What factor of safety do you have for the piston
+OOS Ok
+OOS What is your current mass?
+OOS Yeah me too, just told everyone to calm down a little3
+OOS sweet
+OOS and FOS is very low
+OOS do you need my thickness to increase?
+OOS Is it safe to say we are only tweaking ds and D at this point? I have partial control over ds. What do you have?
+OOS piston-pin is not responding
+OOS it just keeps flipping so someone is touching something
+OOS 75-105
+OOS that wasnt me
+OOS piston
+OOS diameter is 25 mm
+OOS 18.63 and fos = 2.06
+OOS 1.27
+OOS huh I would ask a TA then,
+OOS yeah Im doing that after every sim, we're already in the very good range
+OOS what are your values
+OOS okay
+OOS crankshaft offset*
+OOS yeah that's what I thought
+OOS ok no one anything
+OOS what do you control!
+OOS sounds good, flywheel now needs to check theirs i think
+OOS is your objectives different?
+OOS Our FOS just dropped a ton
+OOS Lets all maximize our fos and try to cut mass instead
+OOS my mass is 1.12
+OOS End experiment, nice worK!
+OOS u mean 80?
+OOS I mean Fs only needs to be greater than 2
+OOS I can try, that is the limit tho
+OOS crankshaft guy has fos of 0.57 we should see what he needs.
+OOS and yes I'm broadcasting that
+OOS What are you broadcasting?\
+OOS Okay, so your FS are in a slightly higher order
+OOS i dont think so
+OOS the piston is the part that affects all the others as no one elses affects me so im staying at my set values
+OOS 0.1 and 2.55
+OOS 2.77 is my minimum mass and fos I'm afraid
+OOS Ok my mass is down to 0.83 and my FOS is 5.82
+OOS what is your pin diameter?
+OOS maybe everyone fos= 2 is too low...
+OOS Thanks. If 40mm doesn't work let's see if we can meet in the middle somewhere
+OOS Ok, our FOS is good now, so I think we should keep it there. Now, we need to find a way to reduce mass.
+OOS m = 0.12 with f at 3.44
+OOS I agree. I am still at the same place I was at when we had excellent. I have not changed my variables. I was just saying that I cannot help in bringing down the mass any further
+OOS something changed we were closer
+OOS How much mass?
+OOS ok
+OOS my lowest mass is 0.12, im currently at 0.37
+OOS we are 1.94 over mass rn
+OOS I'm seeing 1.75
+OOS wait can you explain again
+OOS Good point, 40 is the lower limit
+OOS let me know if you need to go any lower
+OOS If that is true you would be right by saying have everyone pick the lowest mass with FS less then 2
+OOS my thickness and diameter is almost at the bott
+OOS GROUP: crankshaft done, fos is great, mass needs just a little bit to bring into Very Good. piston goes next
+OOS ayyyyyy
+OOS sounds good
+OOS I dont no
+OOS What are your initial ideas for bearing offset?
+OOS i'm not
+OOS Ah okay, gotcha
+OOS are you changing stuff?
+OOS okay can di
+OOS okay so I think i need a smaller Piston Bore diameter
+OOS as long as you dont dramatically decrease your Fs because i think most oif it is coming from you
+OOS Agreed. 3.05
+OOS thats getting better, Im working w the piston to find the best D and will let you konw when we do
+OOS wait so I asked piston to lower his mass. So now my fos is lowered to 70, 
+OOS we are looking at the values in pink on the upper right side. We want a FOS just above 2 and weight below 35
+OOS connecting rod thickness (t1) and connecting rod length ratio (r1)
+OOS 12 kg? damn
+OOS The mass increased a lot
+OOS check for broadcast
+OOS Ok, any luck getting it back to excellent?
+OOS the one guy did not respond to my message
+OOS Yes
+OOS No, I do not believe so
+OOS just did
+OOS My weight is around 0.1 so I can't change it much?
+OOS did you change?
+OOS one second
+OOS for ds tf and stuff
+OOS based on the current values, it should say excellent
+OOS anyway to reduce mass while keeping fos above 2?
+OOS mass as low as possible
+OOS agreed
+OOS the other parts weigh 0.1,0.06,0.52 and 0.99
+OOS m_s : 10.4;   fos_s : 7.37;
+OOS Does it look to you like we're meeting the global requirements now?
+OOS yeah but that increase weight by .5 gram is that worth it for you
+OOS if im not stupid
+OOS It seems like the crankshaft is what is limiting us right now, in terms of mass and fos
+OOS The min FS between us all is the one that is broadcasted right now
+OOS just barely above 2
+OOS someone touched it
+OOS i did it
+OOS What kind of bore diameter are you thinking?
+OOS what is the bore diameter?
+OOS Do you know who controls those factors?
+OOS how much does that effect your numbers
+OOS is that your mass or FOS value
+OOS i havent changed or broadcasted anything since making my variables their minimum
+OOS I'm not entirely sure. No matter what inputs I have, my mass and fos aren't changing and it;s a bit confusing
+OOS let me know if you need anything from me
+OOS should I try to lean toward FS since my masses are about 1 to 4 and FS ranges are .5 to 3 ish?
+OOS they were the minimum of both
+OOS TA is saying time is up
+OOS oops, wrong value, my bad
+OOS You?
+OOS *increaseing
+OOS Is there anything I can do to help you?
+OOS I'm on second lowest diameter at the moment
+OOS and crank pin diameter
+OOS try flyweel thickness as 12.0 and shaft diameter as 60.0
+OOS oh mine says 11
+OOS Yeah I just saw that. and our weight is massive
+OOS Do you need info from me
+OOS Me too
+OOS I hit up the piston but they never got back to me
+OOS sounds good, ill do 45
+OOS sorry, I just need D as well
+OOS i didnt move
+OOS mass:2.12 FOS: 7.02 right now
+OOS maybe everyone fos= 2 is too low...
+OOS we are at very good again as of 12;53
+OOS Hello, Do you need any parameters from me? 
+OOS right, but what is the third blank you fill out to run simulations? Do you have one?
+OOS i dont think it actually changes the FOS
+OOS I have the piston bore diameter set to 47.5 currently
+OOS What's your current FOS?
+OOS 1.14
+OOS doe increasing D give you better weight?
+OOS It looks like our engine design is excellent then. And yes that works with my design requirements
+OOS Please do
+OOS larger piston bore increases both m and fos
+OOS Piston bore diameter?
+OOS What is your range for diameter?
+OOS nice
+OOS sure
+OOS What are your design variables?
+OOS my mass increases significantly with a small change in bore diameter
+OOS record your current value
+OOS I think it's all coming from crankshaft. He doesnt seem to know whats going on
+OOS yeah
+OOS what are your values currently at?
+OOS yep...
+OOS Right now its at 90
+OOS have you heard anything from flywheel or crankshaft?
+OOS Make sure you dont drop too much mass though
+OOS Yeah
+OOS we are very close to gettin gabove FOS =2 , but see if you have any combinations that have a fos right above 2 but the lowest possibole mass
+OOS large D helps me,my mass is at .05, and my fos_s is 2.03, not sure i can get much better
+OOS My FS is around 2. Some parts may just have different ranges
+OOS how you doing
+OOS Yea flywheel is the problem
+OOS What is your current FOS?
+OOS 0.1/2.77
+OOS so thats nice
+OOS tf of 10 is the best for mass
+OOS WE are GOOD
+OOS It just changed back to good
+OOS wait*
+OOS I'm going to try and get my diameter valu down for the crank pin to save on mass, we're not doing too bad with fos
+OOS AMAZING FOS
+OOS stop changing
+OOS I'm seeing a system wide fos of 0.5
+OOS nice
+OOS It might be the flywheel or crankshaft folks
+OOS hello
+OOS 1.38
+OOS what is your mass currently?
+OOS okay
+OOS do you think increase fos of lighter componet while decreasing fos of my part will work?
+OOS GOOD
+OOS I cant decrease the weight without decreasing the facto of safety below 2
+OOS currently at mass 47.81, FOS 2.32
+OOS piston is in charge of the diameter
+OOS i just reduced my mass
+OOS we got it
+OOS I can control t1 and r1, let me know if you would like me to change it to see how it effects your numbers.
+OOS it just went back to "poor"
+OOS So we can keep it low
+OOS We're good
+OOS Well it's between 40 and 70 so maybe like 55 to start? I'll run some simulations
+OOS Ok. I just updated my settings to be m=0.02 and FOS=0.22
+OOS does your design depend on the crankshaft?
+OOS hmm
+OOS ok guys looks good
+OOS who are you
+OOS What can you change that increases your FOS?
+OOS can we make it better?
+OOS oh okay my handout said piston pin diameter should be displayed but isnt
+OOS whenever some of you change parameters my weight and FS changes
+OOS m_s : 14.55;   fos_s : 9.04;
+OOS What's your fos?
+OOS back at 80
+OOS because the overall mass and FOS are changing drastically - they were good a little bit ago, now they're horrible lol
+OOS try bore diamter of 40
+OOS we are at very good
+OOS Anything else I can help optimse?
+OOS I'm at mass = 1.01, and fos = 2.03
+OOS agreed
+OOS thats the smallest weight and it gives part level fos of 4.55
+OOS 0.52
+OOS ms=0.52 fos=1215
+OOS bad change, not me
+OOS "Select a design to broadcast"
+OOS any preference on the piston bore diameter
+OOS I can chang the diameter
+OOS no
+OOS No I have not
+OOS I need to find the optimum value for that. Assume it to be 25 for now
+OOS D ds and tf
+OOS 3.03
+OOS We meet the FS requirement, but we lack in the mass department. Let's reduce mass.
+OOS do you by any chance know if it was because of your parameters?
+OOS Thanks
+OOS nobody change anythibn
+OOS do you know if you can reduce mass?
+OOS I don't control that aspect it affects my value but I don't control it
+OOS Do you need anything from me?
+OOS basically c = 85  and dc =15
+OOS how do i know it wasnt you??
+OOS we reached good
+OOS my fos is 0.24
+OOS Hello
+OOS What did you guys get
+OOS my part maintains FOS=2.06
+OOS hmm
+OOS if we could decrease for another 2 kg we should get excellent
+OOS what are your input params besides the bore diam?
+OOS in the table with the simulations is what we get from our own parts
+OOS Yeah, I have not changed anything yet but found out that someone has the same parameter as me.
+OOS do you depend on t1 or r1?
+OOS What is your primary goal in this simulation?
+OOS mine says Very Good
+OOS terrible
+OOS ms: 1.71, fos: 4.55
+OOS what is yours?
+OOS did you get very good simulation?
+OOS same
+OOS Increasing the diameter will increase both factor of safety as well as the mass
+OOS fake
+OOS yeah same
+OOS As D gets lower, my ms gets way to high
+OOS What's your sub-system mass now?
+OOS masses in the hundreths
+OOS Yeah I agree. I'll see what they can do
+OOS Has the crankshaft got back to you about their FOS?
+OOS nice, mine is a lower D gives lower mass and fos doesnt rly change
+OOS oof
+OOS $2 missed
+OOS Okay cool, maybe reach out to the other designers about what you have and what you need?
+OOS any good values for the piston bore D?
+OOS That is when I also use maximum piston bore diameter which is not under my control
+OOS what is your current FOS?
+OOS lower increases my mass and FOS
+OOS Have you changed bore diameter at all?
+OOS whats your mass
+OOS do you need to know any flywheel variables?
+OOS (To all): "Very Good" is fine with me
+OOS Flywheel Thickness and Flywheel Shaft Diameter
+OOS ok
+OOS the fos went up from 4821 to 5625
+OOS increase in either variable causes both the mass and FOS to go up
+OOS sorry team just realized i wasn't broadcasting mine
+OOS FOS just went down
+OOS we need to decrease the mass
+OOS one sec
+OOS what are your values now?
+OOS we were at excellent but now its very good
+OOS It might be a good idea to send the message to all members at once to emulate a group chat.I have communicated the same with the others.
+OOS Ok, and your mass is pretty small, so it isn't a big deal. Mine is currently 27.44, so I'm trying to reduce it
+OOS Just did. I think that made it heavier
+OOS know whats our next challenge
+OOS right now we need to focus on mass
+OOS i see
+OOS 60 mm
+OOS I believe we all have lowest masses setup now. Make sure to check for broadcasts. We'll take it from there.
+OOS Our FOS just got very low. Any idea which part it is?
+OOS group - does anyones part depend on the connecting rod? (t1 or r1) (thickness or length)
+OOS Mass 5.2 FOS 3.91
+OOS ya'' should chat about that
+OOS gg team
+OOS you need to broadcast your simulation results. after simulating, you hit broadcast results and then you select the simulation number you want to broadcast and it will add it to the global results
+OOS 12 is the best I got
+OOS we had "good" at one point didnt we?
+OOS alright we're at very good, I say lets leave it at this
+OOS 2
+OOS the thickness(t_I) ranges from 5 to 15 mm, and ratio(r1) ranges from 5 to 5
+OOS duh
+OOS and what are your numbers when you do that
+OOS try and use 60 for C
+OOS Isn't a factor of safety of 2 considered outstanding, most of mine are in the hundreds.
+OOS No, I'm at 3.23. Trying to drop that a bit and lower my mass. I'm at 2.11 for mass.
+OOS Make sure youre broadcasting the right dimensions. I think someone is not
+OOS grp-im done
+OOS what variables affect your decisions
+OOS and piston  diameter will affect my performance quality
+OOS I did it do you see it?
+OOS our mass just went up 20kg...
+OOS The conrod said you should change it so they can see how it affects their numbers
+OOS so we need to work together for c
+OOS That is my highest fos value
+OOS if you can lower mass while keeping fos>2, try to
+OOS do those have names or are they just called that, I think you might control something I'm not seeing for some reason
+OOS You need to coordinate with crankshaft to reduce his.her mass, crankshaft is the heaviest part
+OOS c=60, dc=15
+OOS yes
+OOS are you in control of the shafdt dimaeter if so what is it and its thickness
+OOS How is your design coming along, do you need any data from me?
+OOS whats your current FOS ?
+OOS right now its 40 yes
+OOS ok we're close
+OOS thickness, ratio of length of rod to length of crank and piston bore diameter
+OOS What are your design variables?
+OOS My mass is as low as possible. We cant all have the minimum mass
+OOS just remember what you have now
+OOS Flywheel i think i found an optimal solution - crankshaft said the same
+OOS now3.05
+OOS I just updated it to that. I'll let the other people know
+OOS I don't know how to find that info
+OOS No I'm using the crankshaft bearing offset
+OOS I currently have the lightest mass and it is still too much.
+OOS okay. my mass doesn't change that much so i can change to 20
+OOS Who changed it
+OOS ds = 50
+OOS Same here, the total simulation was very good for two seconds and that someone completely messed it up
+OOS Someone needs to broadcast their best mass so itll go down
+OOS not me
+OOS its too low to have the impact it is having
+OOS someone just broadcasted somethhing different and raised our mass to 3.25
+OOS Oh I see, yea I'll work on that now
+OOS Hey, I need value of crankshaft bearing offset
+OOS We're a little above the mass but otherwise good
+OOS decrease mass
+OOS Is that value working for you or would it work better if D was larger
+OOS difference of about 0.1
+OOS we still need to reduce mass by a lot
+OOS X X O ; O O _ ; X O _
+OOS Not too bad, not excited for the lab
+OOS my FS is the minimum at 2.10 so anything we can do to reduce mass and stay above that FS is the last step
+OOS 1.3 and mass is too high
+OOS ds is 20
+OOS keep it up and we'll trim from there
+OOS 3.05
+OOS I'll send a message too see if they'll respond
+OOS ?
+OOS 58
+OOS whats your fos? mine is 2.09, piston is 2.09 as well
+OOS Ok that doesn't affect mine
+OOS Let's update eveyone with new m and FOS whenever we make changes
+OOS Not sure yet.
+OOS or global?
+OOS Yep, values finalized
+OOS I think the flywheel is changing
+OOS bearing support offest
+OOS i can increase fos by 1.2 piston (Me)if someone can decrease their mass by .9
+OOS 2.04
+OOS what diameter should i use. i can have a good factor of safety with a diameter of 97.5
+OOS I think your part is ok to be heavier
+OOS yes save those values and we can try to get excellent
+OOS Don't worry, you're a pistonpin you can do anything
+OOS nice!
+OOS did it.  need to drop more mass
+OOS ok somehow we now have way too much mass
+OOS .06 and 2.62
+OOS What's your current FOS?
+OOS not yet, might change to thickness 12 diameter 40 because my FOS is huge
+OOS Are you still using 80 for your diameter?
+OOS 2
+OOS trying to max fos and min weight of the piston
+OOS idk...
+OOS What requirements do you have on the Piston bore diameter?
+OOS piston pin has theirs at 1.23 and says that's their highest option
+OOS ok
+OOS our mass just went up 20kg...
+OOS What mass ranges do you have the option of?
+OOS Alright, b/c we have the given parameter LDr = 1.2 and I have control of D
+OOS What's your system mass and FOS?
+OOS Ms= 1.15, FOS 2.29.Next option is 2.29,
+OOS I'm not sure how this works tbh haha
+OOS Did you make any change after it was at very good?
+OOS Update it I'm at excellent now
+OOS oh the round number is the simulation number
+OOS I'm jumping between (0.7,0.7) and (0.7,0.8) for my values - the first option gives a higher factor of safety at the cost of a higher mass
+OOS Do you need any info from me?
+OOS Minimizing bore diameter helps my stuff too
+OOS good work
+OOS i dont htink piston did either
+OOS BTW, shaved my mass down a tad. m = 0.52 now
+OOS hello
+OOS OK
+OOS 170 is working for me
+OOS I just dont know why our FS is so low
+OOS There?
+OOS So I decreased weight, and kept same FOS
+OOS whats dc
+OOS Yes, my most recent design is what is broadcasted
+OOS great - please leave it there
+OOS i am interested in the crankshaft bearing offset by another designer
+OOS btw our mass is still big, the piston pin only contribute roughly only 0.1 kg of mass
+OOS Just did
+OOS current broadcast includes the smallest values that i have access to
+OOS No i don't think so
+OOS like i kinda dgaf about 375 anymore
+OOS (Copy/pasting to everyone): We could try having everyone put their system to maximum FOS, and then slowly decreasing factors to recuce mass
+OOS sorry 225 first
+OOS So we do not have piston pin and crankshaft engineers?
+OOS It would be nice if we had a group chat so we didn't have to blindly flail about, not knowing who has been told what yet
+OOS we got it!
+OOS oh 60 is good
+OOS Think I optimized my part with m = .52 and FOS = 2.01
+OOS ok and i think mine is only related to piston pin guy
+OOS yeah
+OOS Yeah i figured that out when mine was lowest lol
+OOS group: can we all try broadcasting settings that are in the middle of our ranges?
+OOS Awesome same here
+OOS Hey, do you happen to have a value for the crank shaft diameter?
+OOS mass
+OOS no - must be someone else I guess?
+OOS 20.86
+OOS what's your current bore diameter
+OOS no
+OOS we have our fos up, just need to reduce the mass
+OOS can you get it above 2?\
+OOS Nice.
+OOS I'm at the 4th lowest weight I can be at out of 25 options
+OOS smallest
+OOS When I use maximum values, the mass is 36.38 and f is 22.95.
+OOS I think i have my ideal broadcast
+OOS _|O|O
+OOS Put your values to your lowest mass and highest FOS right now please!  I want to get an overall view of where we are
+OOS itll say your current mass, find the one thats 3 kg lower and then find the fos
+OOS i broadcasted my best
+OOS no they remain the same
+OOS Let me decrease my thickness a bit
+OOS hello
+OOS great, done then
+OOS (bearing support offset and crank pin diameter)(bearing support offset and crank pin diameter)
+OOS Projected outputs
+OOS excellent?
+OOS crankshaft is talking, but he/she depends on flywheel
+OOS so don't think I need to make the diameter bigger unless another subsystem does
+OOS ok i get fos of 5 and ms of 7
+OOS ahh, its changed for me
+OOS i havent really started yet
+OOS Okay no longer good on FOS
+OOS ya we just lowered it all the way, how are your numbers
+OOS yeah
+OOS Does the thickness of the piston head effect your part at all?
+OOS I dont think we were supposed to finish that quick
+OOS Recheck your broadcast. it just went to poor
+OOS Diameter = 40mm
+OOS My FOS is 1.11
+OOS and FOS is very low
+OOS lmk what you think
+OOS so do you have variable called r2 and r3?
+OOS Are you currently changing values?
+OOS pistom-pin designer says increase the diameter
+OOS ok I have mass: 3.05, FOS 2.02
+OOS no clue
+OOS what about thickness of flywheel?
+OOS They are t_I and r_1.
+OOS Great Work
+OOS Can you do that? Right now its at 50
+OOS What is your mass?
+OOS ok decrease mass as much as possible, I cant decrease much more
+OOS group: I can make piston head thickness 10.5, and diameter 90
+OOS Need anything from me?
+OOS Have you broadcasted your most recent design?
+OOS ya, seems like we have agreement on that
+OOS We need to have the heavy parts drop mass
+OOS 4706
+OOS what variables do you control?
+OOS Hi, I'm working on the piston-pin design what parameters are you changing for your design?
+OOS I've kept my numbers steady for a while
+OOS It just updated
+OOS someone is changing stuff
+OOS yo we got excellent
+OOS mass is 0.52, FOS is 2.01, and one of my values is minimized. not sure how much more I can optimize currently
+OOS Crankshaft asked for bore diameter. Thats all
+OOS exactly
+OOS Ive gotten mine to the lowest weight while still having a FS of 2
+OOS With my current design, mass is 0.52 and Fs is 2.0
+OOS GROUP: flywheel next, please try to get mass down without going under fos of 2
+OOS are all the values you get assuming you maximize the variables out of your control?
+OOS my mass is 1.12 which is the lowest value, and my FOS is (legit) 4706.97
+OOS group: one change at a time! let crankshaft change and then he/she can let us know!
+OOS dont change it theyre changing it back
+OOS ok i did
+OOS the c and dc i currently have yields best fos which is 2.283 but it's not the lightest
+OOS ok im gonna change the conrod a little to see if i can get it to work. If not Ill just change it back and we'll take Very Good. No one change anything else
+OOS sitting at 2.77
+OOS Can we try something as a group- look at the projected outputs column, not the variables you control. Can everyone try to select the inputs that get the LOWEST mass output?
+OOS all i do is fall asleep in that class tho
+OOS MASS: 25.95, FOS 2.27
+OOS Mine still says fair (m=2.96, FOS=1.73).  I can increase mass by 0.28, but increase FOS by 2.63.  Someone would need to decrease the mass by at least .28 tho
+OOS one is Input piston-pin length to piston diameter ratio
+OOS okay
+OOS 2.31
+OOS (to everyone) Due to the small mass of my part I increased to max weight (0.05) and mas FOS (0.51)
+OOS For sure.
+OOS so I lowered the diameter and it brought the fs back down
+OOS cool, let us know if we should change the bore diameter
+OOS Factor of safety is 5000??
+OOS Aim for FOS to be above 2 while minimizing mass
+OOS We need an FS of 1.5
+OOS Has yours updated yet?
+OOS What do your fos numbers look like?
+OOS the piston wont respond to me
+OOS Okay. We're probably at the best we can do. Will talk to other designerd.
+OOS Ok
+OOS i jjust changed one thing and it brought mass down little, try to change your numbers slightly maybe?
+OOS ours just does donuts as of rn
+OOS Any idea if the piston diameter should change?
+OOS yes
+OOS Did you just change something?
+OOS dont move
+OOS flywheel is 0.52 currently
+OOS tandy
+OOS Keep your FOS above 2
+OOS My FOS is currently maxed out at 1.23 but I'm trying to raise it more since my mass is so small
+OOS ok i can adjust the flywheel thickness and shaft diameter
+OOS For the 4 simulations shown above does yours have projected outputs being 1: ms: 21.88, 2: ms: 30.51, 3: ms: 49.03?
+OOS I think you and I have the most influence over total mass. What is your current mass and FOS?
+OOS What's the FOS of your current selection? I'm trying to figure out what part has the most influnce over FOS
+OOS Do you need any information from me?
+OOS okay let's tell everyone to stop changing stuff rn
+OOS Which FS are you broadcasting
+OOS im at 2.36 for fos
+OOS Are you broadcasting 2.77
+OOS Are you ending the experiment
+OOS but stil m=3.48
+OOS i made my connector rod to crank length ratio 4
+OOS What do you need from me?
+OOS does a larger diameter increase your mass? or decrease it?
+OOS group: nobody depends on what i change. so ill edit last.
+OOS mine is 1.48
+OOS who moved we are at poor now
+OOS try 51  for t and 50 for ds
+OOS i  believe at least one member's part is too heavy
+OOS thats great, im at 0.1,2.62
+OOS Ok, I will try that now
+OOS DONT CHANGE
+OOS that wasnt me
+OOS nice
+OOS Connecting rod says they are at FOS = 2.77
+OOS what what happened? We had our FOS above 2..
+OOS We need just a hair less mass
+OOS what flywheel factors affect the bearing offset? as in changing the flywheel thickness/diameter?
+OOS All my sims seem to have it at 40 rn
+OOS any ideas to get bumped up
+OOS do you have the flywheel shaft diameter
+OOS 2.03FOS is about the fos we can do and still be very good / excellent. we need to drop the mass
+OOS what variable do you control?
+OOS If you make it bigger, mass goes up and fos as well?
+OOS awesome fos
+OOS your variables affect the other measurements
+OOS _|_|o
+OOS can you try broadcasting it since we are over 12 kg
+OOS So is there any tradeoff at all?
+OOS ok i have the fos at 2.85 and m as 6.26
+OOS we are at very good right now
+OOS Now Im at good. weights a bit high but FOS is right on
+OOS to 15
+OOS if you lower D I can raise the FOS with ds
+OOS woof woof
+OOS group: who's next?
+OOS What are your design variables?
+OOS Hello, what variables do you have control over?
+OOS true. what's your mass?
+OOS pass it on
+OOS But weight is 25
+OOS maybe we need to be secret
+OOS So I think my subsytem is heaviest so I need to drop weight as much as possible, while other lighter subsystems make up for increased FOS
+OOS oops sorry for the repeat
+OOS ok
+OOS No
+OOS im at 60
+OOS mass 27.44
+OOS crankshaft weighs the most i think
+OOS what is your fos?
+OOS why?
+OOS yeah
+OOS higher D is better FOS, and worse (higher) mass
+OOS what are your mass/fos
+OOS Hey, I need to know what PISTON BORE DIAMETER you are planning to use for my calculations
+OOS I'm confident I'm at my optimal setting. No others even close.
+OOS mm
+OOS Hey so what changes have you made so far to the piston design?
+OOS what range of fos #s are you getting? mine are in the hundreds so it's not the limiting system
+OOS Are you broadcasting that?
+OOS My current Settings are: m=0.01 and FOS=0.14
+OOS have you figure out how D effects ur numbers
+OOS hi, what are your working on?
+OOS you can go
+OOS trying to max fos and min weight
+OOS Cause we're still really high on weight
+OOS ?
+OOS I can adjust the flywheel thickness and shaft diameter, do those affect yours?
+OOS the piston is the part that affects all the others as no one elses affects me so im staying at my set values
+OOS ok
+OOS D isn't controlled by me
+OOS 2.06 right
+OOS great job
+OOS 2.04, no bene
+OOS we are at very good
+OOS Smaller diameter is better for me
+OOS I just changed my FOS to 3.78 but a higher mass. That's the closest I have to 2.09
+OOS it would increase my fos some
+OOS niceee haha
+OOS bottom
+OOS We were at excellent and now poor, did you change anything?
+OOS so lmk if it stays at 150
+OOS for the last simulation it is 43
+OOS its t_h = 4 and D = 75
+OOS i  depennd on C
+OOS oh right
+OOS I'm using a crank pin diameter of 15 at the moment, in case you needed that value
+OOS we need to decrease the mass
+OOS thanks!! you too!
+OOS *ok if I put a * in front of a message it has gone to everyone
+OOS So far, the 90mm looked better than the 97.5mm
+OOS He wont respond lol
+OOS what's your fos
+OOS The bearing support off set that is ideal for me is 40
+OOS Thats great
+OOS We've got a "Good" engine
+OOS I have my values set at t(I) = 5.667 and r(1) = 4 with a FOS of 2.0 and an m(s) of 3.17 using piston bore diameter of 80.
+OOS Okay I'll let you know what I get
+OOS getting close
+OOS What is your primary goal in this simulation?
+OOS My mass is 1.12, Fos is 4707
+OOS do you need r2 or r3?
+OOS also what are your ds and tf values
+OOS I also have a second parameter that increases fos and mass if I increase that
+OOS group - go to mid range, follow crankshaft lead
+OOS what is your fos? can you reduce your mass at all while staying above fos=2.1
+OOS how much does the mass increase when you increase the offset by 10 mm?
+OOS can get 2.62 fos with .01 extra mass
+OOS hello
+OOS Ok, just making sure, thanks
+OOS Oh I did not receive that update, I'll try my numbers at 40 
+OOS you have one that works well for you?
+OOS we are back to very good now too
+OOS The length of the crankshaft
+OOS So I think lower D is better
+OOS yeah i optimized mine as much as ic an
+OOS 47.5
+OOS In D = 75?
+OOS sup
+OOS well hold up, someone just pushed us back to Poor
+OOS it is at 150
+OOS can you reduce mass but keep FOS above 2?
+OOS i have a really small mass, so im going to experiment with slightly higher masses and see if any of you get better simulation options
+OOS thickness = 8
+OOS yes, 75 works for me and piston
+OOS m= 3.46 fos=0.3
+OOS i don't think either of those affect me
+OOS yo, what is your FOS?
+OOS I change it back to 80 since the overall results for 75 are not good
+OOS so basically whatever my fos is is what our system fos is. we need to find a way to increase my max fos
+OOS no
+OOS because my part weighs so little, ill just focus on the fos
+OOS tf = 22 and ds = 49
+OOS Crankshaft is at 1.49 for m
+OOS What's your mass rn?
+OOS really?
+OOS I dont have control over it. I think its you and the piston. Seems to me like the low 80 range was working best though but Im not sure
+OOS You good to leave
+OOS and mass?
+OOS By how much would be good for you?
+OOS its as small as itll go
+OOS whats your current FOS
+OOS No, I only have one good value. No experimentation required
+OOS hello
+OOS you next?
+OOS the highest fos rn for me is 0.89
+OOS now it's back ?? idk
+OOS Nope
+OOS what's your factor of safety currently
+OOS Is it better for the piston bore diameter to be larger or smaller?
+OOS crankshaft told me to maximize the diameter, so I used 70mm
+OOS Made diameter 75
+OOS okay, what's your weight?
+OOS Flywheel isn't communicating thats the problem
+OOS Yes, I just figured out how to use the software. Let me check it out
+OOS cant decrease it anymore, its at 40
+OOS we need to do better though lol
+OOS Try broadcasting 80
+OOS Working with you and piston as well
+OOS *what values is everyone in control of
+OOS Do you know how C affects your FoS
+OOS Oh shit never updated it hell yeah
+OOS what is the mass of your system?
+OOS im so confused what happened
+OOS nah i dont think that would change the varialbes for me
+OOS What does it look like for you?
+OOS Keep it steady we got excellent
+OOS ok ill see
+OOS Someone picked an FS of 0.51
+OOS 2.08
+OOS hmmm okay
+OOS Okay
+OOS okay sweet
+OOS O|X|X
+OOS Our mass keeps going up
+OOS my part doesnt effect mass very much
+OOS Hi
+OOS I think the piston pin fos could be increased without costing too much mass
+OOS Piston bore diameter
+OOS 2.01
+OOS yeah nope
+OOS Same happened to me a bit ago
+OOS Do you understand how it al fits together. I feel like we all only see that small snapshot of our component
+OOS group: ok remember the current values you have as back up
+OOS K, lowest I can make my weight with FOS>2 is 5.42 which is a big improvement
+OOS i havent changed
+OOS 2.31 to 25.99
+OOS ok dont do that
+OOS what is your current mass?
+OOS ok im gonna change the conrod a little to see if i can get it to work. If not Ill just change it back and we'll take Very Good. No one change anything else
+OOS sweet
+OOS I have found a piston bore diameter of around 90 to be best for me
+OOS ok our current broadcast is 'excellent', so are we done here?
+OOS hmm ok I'll check around
+OOS 4.55 which is my highest
+OOS What info do you have?
+OOS my masss is 6.28
+OOS cool
+OOS Any luck?
+OOS Hey, can you send me the crankshaft bearing offset?
+OOS i have 1.7 fos with 58 mass
+OOS I think we are only missing the piston pin engineer actually. So we cannot optimize that part.
+OOS Do you still have your diameter at maximum?
+OOS my part minimized the mass while keeping FOS>2, will keep updating it
+OOS hmm I control the pin that seems to be on the connecting rod. my variables are l1 (length of the pin), and the inner and outer diameter of the pin (di, d0)
+OOS Where do you even see that? My global quality shows poor
+OOS LOL NO
+OOS We're done
+OOS I've changed the diameter to 53 to try to help with your factor of safety
+OOS you mean the global variables? the FOS is 0.57 right now
+OOS What happens when you decrease piston diameter?
+OOS 3.2, but that's about to decrease since my mass is way too high
+OOS make sure you update the global broadcast
+OOS and t_H
+OOS 1.67
+OOS Hey!
+OOS Basically, if we can each keep our part factor of safety above 2 while minimizing mass, we'll be golden.
+OOS even with max c i still have fos = 300
+OOS and our mass so high
+OOS or it
+OOS I have the lowest mass configuration (0.55), and the highest FOS (5625) setup currently. Unsure why the overall stats are poor at the moment. 
+OOS I think tyhe 47.5 produced better results
+OOS the only person changing values is the flywheel
+OOS Hello, is your FOS above 1.5?
+OOS Dont change your values from when we had the high score
+OOS yeah shes definitely like one of the best lecturers in ME
+OOS Its at very good
+OOS Okay. I played around with it at the beginning and I don't think my FOS has a huge affect on the overall FOS. My mass is only 3.17, and my FOS is at 2. That's where I thought I would keep it for now.
+OOS design variables: Flywheel thickness,Flywheel shaft dia,
+OOS Its excellent rn so dont change it without writing down what you have now
+OOS (Copy/pasting to everyone): We could try having everyone put their system to maximum FOS, and then slowly decreasing factors to recuce mass
+OOS yes do that
+OOS Have you messaged the others about this yet?
+OOS ok.  whats the plan stan?
+OOS do you control piston bore diameter?
+OOS Just broadcasted it. I chose 55 for D
+OOS I MEAN INCREASE
+OOS I am thanks for letting me know!
+OOS try using 50 mm
+OOS Ok
+OOS 1.31
+OOS our weight is too high
+OOS i can also cut weight but it will reduce FOS
+OOS nope! do you need info from me?
+OOS Mass is at a min. FOS is still about 4700
+OOS The min FS between us all is the one that is broadcasted right now
+OOS ok sounds good
+OOS Hi
+OOS Give me a sec im gonna do a few simulations
+OOS i meant for your individual part
+OOS wait
+OOS D = 75
+OOS something about 45-50 seems good (low mass and factor of safety above 2)
+OOS dont move
+OOS hello
+OOS so increase FOS for one component now?
+OOS FS optimization would be best. Try to get the highest mass possible even if it has a low FS
+OOS ok
+OOS Piston diameter and thickness
+OOS what are you currently using for D?
+OOS for subsytsem
+OOS i was 2.01 OFS for a sec with a high mass
+OOS any way you can reduce mass?
+OOS what i was told
+OOS Have you broadcasted anything recently?
+OOS We have a good FOS so don't drastically change anyhting
+OOS Give me a sec im gonna do a few simulations
+OOS let's change one component each! keep the mass within .5 kg of the lowest value, and try to maximize FOS
+OOS I think were at safe right now
+OOS ill try
+OOS Right now 1.26 but before it was 2.09
+OOS The piston pin length, and the inner and outer diameter of the of the piston pin 
+OOS are you still using A D=40?
+OOS 18.63
+OOS We only need FOS of 2 to get excellent
+OOS but i backed you up
+OOS idk what changed but quality just dropped
+OOS yes both do
+OOS i even reclicked the one ive been using to make sure it didnt change somehow
+OOS right now at 88 shows very good
+OOS what are the values you put
+OOS can you share all your variables
+OOS is there any way you can reduce mass + FOS and still remain above 2.0?
+OOS What are the weight and FOS ranges for your part? Mine are .12 to 3.85 kg, 2  to 60 for FOS. Sending to everyone
+OOS Do you have an estimate to what diameter you want for the piston bore?
+OOS Keep it steady we got excellent
+OOS ok how much can you decrease mass before below 2?
+OOS hahahahaa
+OOS I agree, I also can change the Piston head thickness.
+OOS Whats your lowest mass?
+OOS okay nice
+OOS Nope, only need one thing from the piston
+OOS (To all): "Very Good" is fine with me
+OOS group - go to mid range, follow crankshaft lead
+OOS 2.01 still
+OOS It might be a good idea to send the message to all members at once to emulate a group chat.I have communicated the same with the others.
+OOS gives excellent
+OOS what about now?
+OOS Are you referring to  the piston bore diameter?
+OOS does urs go straight
+OOS the 2.95 design also has the lowest mass
+OOS Ive gotten mine to the lowest weight while still having a FS of 2
+OOS That sounds ideal to me
+OOS Yeah thats because our parts are heavy
+OOS I didn;t change
+OOS wait we're at very good
+OOS I can broadcast htat
+OOS yes, one minute on that
+OOS it drops the FOS
+OOS let me change around and see what i got
+OOS group - what design variable do you not control that your design depends on
+OOS okay I agree, so I need minimal for me I am thinking.... But how minimal do you think i could go without causing an issue?
+OOS are we all selected?
+OOS that fos is good since your part is pretty small
+OOS at least it's the largest part in the system lol\
+OOS acceptable weight now
+OOS mines at 3
+OOS okay we have very good again
+OOS got it, hmmm
+OOS Its excellent rn so dont change it without writing down what you have now
+OOS I'm confident I'm at my optimal setting. No others even close.
+OOS Same here. Mass has a huge effect, because we need it under 2 kg to get "excellent".
+OOS Same
+OOS And a thickness of 12?
+OOS Pick an FS threshold and then minimize mass at that threshold
+OOS d back to 10 now because fos is high
+OOS okay
+OOS I don't think we need to match our diameter bc mine only goes from 40 to 70
+OOS its the smallest I can go
+OOS nope!
+OOS My simulation would be excellent, the broadcast was very good and now poor?
+OOS Hello piston, based on my information, it seems like it would be best to minimize flywheel thickness (tf) and maximize flywheel shaft diameter (ds). Does this work with your design requirements?
+OOS Are your values finalized? I see we are at excellent now.
+OOS hahaha
+OOS Mine neither
+OOS can u adjust ur thing to accomidate that?
+OOS Yeah I am happy with this gg
+OOS piston have control over diameter as well, I need the diameter for my variables
+OOS I'm not sure what happened, but if you need me to change anything, let me know. From here all I can do is increase FOS and mass, but we don't need that
+OOS try talk with other designer and see if they need anything
+OOS 60mm
+OOS so basically whatever my fos is is what our system fos is. we need to find a way to increase my max fos
+OOS i am at my lowest
+OOS did it affect the overall?
+OOS Don't forget to broadcast your most promising results
+OOS and thickness is 7.5
+OOS DONT MOVE
+OOS Nice!
+OOS I think we are good
+OOS i see that
+OOS ok
+OOS connecting rod said their values weren't significantly different twenty minutes ago
+OOS What did you choose your diameter to be?
+OOS ok still at 60
+OOS What is your current FOS?
+OOS That would be my guess too.
+OOS I already got paid haha, although they said if you keep improving it we can get more even afterwars
+OOS Let me know if I can adjust my variables to better suite your requirements
+OOS does anyone have a variable that could decrease the mass further while still holding a high FOS
+OOS I m trying to pick a middle value
+OOS hello
+OOS kk
+OOS Let's update eveyone with new m and FOS whenever we make changes
+OOS so keep playing with your parameters and ill let you know how it impacts me
+OOS Group: I will decrease mine now
+OOS Hey did you see message from flywheel?
+OOS right now it's 11.09
+OOS Which part do you think has the most mass? mine is small but i can chang FOS a lot
+OOS yeah
+OOS Our engine quality is now excellent at least on my screeen
+OOS How does flywheel shaft diameter and thickness affect your mass?
+OOS I think were good. We are at the highest point we can be. Good job!
+OOS great
+OOS I control connnecting rod thickness and length, but depend on the piston bore diameter
+OOS Alright. I'm on lowest bore diameter now. Mass = .91, FOS = 7.37
+OOS what is your FOS?
+OOS do*
+OOS Crankshaft@1.08 kg
+OOS Do you have any dependencies with others measurements that could help your values?
+OOS yeah but where you the one who ran the sim and got very good
+OOS change what to what?\
+OOS ith piston d = 75, bearing 187.5, flywheel 12 and shaft 40, we have a FS below 2, but our mass is good. we were fair
+OOS I currently have the lkowest mass acceptable for a fs > 2 design.
+OOS mine is at 1.45 now
+OOS I am goint to make the piston smaller so that a smaller connecting rod can be used
+OOS do you have the piston bore diameter
+OOS I haven't broadcasted yet ho
+OOS Her, how are your masses and FS looking?
+OOS What about you?
+OOS whats your weight at?
+OOS Should have gone through? C= 150, dc=50
+OOS i dont think i have that as an input. Unless im missing something.
+OOS I cant get a response tho
+OOS ok maybe try lowering that because it might be a detriment to other peoples FOS
+OOS values are at a minimum for me
+OOS Also, maybe reach out to the other designers about what you have and what you need?
+OOS 0.55
+OOS increasing c increases mass
+OOS ?
+OOS What are you working on?
+OOS arent lining up
+OOS Can you decrease c to 60 and see what you get?
+OOS I asked the other designers and the fos seems to be fine
+OOS Do you have any idea about the D value?
+OOS okay i ust put my fos to 63, did it affect it much?
+OOS ok im gonna change the conrod a little to see if i can get it to work. If not Ill just change it back and we'll take Very Good. No one change anything else
+OOS changing piston currently has 0 effect on fos whatsoever
+OOS can you please share your variables with just the letters
+OOS undo what you did
+OOS 20 questions
+OOS Flywheel mass: from 0.52 to 1.0, FOS from 701 to 5625. 
+OOS Hey, I just wanted to ask if you needed anything from me
+OOS how about FOS?
+OOS I still see 40
+OOS what's yours?
+OOS what's your mass>
+OOS what is your fos?
+OOS Don't touch anything. We're in EXCELLENT
+OOS what's your mass
+OOS 11.09
+OOS Okay so broadcast a low thickness value and a medium diameter value
+OOS GROUP: flywheel next, please try to get mass down without going under fos of 2
+OOS im at 2.36
+OOS Ok
+OOS (to everyone)I increased the mass of piston and the mass went down and fos went up
+OOS idk if it helps mass though. does it?
+OOS alright it just seems like we may have trouble getting past 1.23 FOS
+OOS Can you set the piston bore diameter to 85 and get a good fos?
+OOS 1.8 to 4.72, I'm currently at 2.14 but can drop to 1.96 without loosing too much fos
+OOS ok back to very good i say leabe it
+OOS ?
+OOS increasing D gives me a worse weight
+OOS try changing your other values?
+OOS we got excellent
+OOS piston guy controls it
+OOS how does diameter affect your part?
+OOS The highest performance is at 3.91 FOS and 5.2M
+OOS I think we are done
+OOS no worries
+OOS whoever changed it change back
+OOS group- does anyone depend on tf, ds
+OOS update back to very good
+OOS sounds good
+OOS sure
+OOS ok
+OOS I think we should aim to increase fos in everyones system
+OOS Any way to increase FOS?
+OOS group:ok we need to reduce weight a lot
+OOS i have 3.27 kg and 1.23 fos
+OOS Good
+OOS yeah agreed
+OOS nevermind, back at excellent now.
+OOS mine is 0.45 to 4.43kg, 1.46 to 31.19 for FOS
+OOS and i adjust the flywheel thickness and shaft diameter
+OOS If you need to increase up to 42 thats possible
+OOS lol
+OOS piston mass is currently 0.83
+OOS we are at "Good" now
+OOS does the bore diameter D effect ur numbers?
+OOS 2.36
+OOS flywheel unchanged @ 0.52 kg and FOS 1215
+OOS the one that is currently broadcasted is 6.92. Thats the max i can get
+OOS Hey, we are dropping pretty low so try running parameters that you felt comfortable using earlier!
+OOS yeah we are less than 3 but the fos is still .59, yikes
+OOS okay
+OOS did you change something?
+OOS that makes sense
+OOS Ok my mass is down to 0.83 and my FOS is 5.82
+OOS FOS is good. Mass is 10kg too high
+OOS What would you like?
+OOS Flywheel guy is also in on it
+OOS FOS is back i increased thickness
+OOS im not sure if everyone is on board.
+OOS 2
+OOS so i could have us lose some weight but that is if you can room for imporvement on your FOS
+OOS okay we might need to increase your
+OOS the broadcasted values of 2.31 and 1.4
+OOS yeah i cant change anything. We done?
+OOS Increasing that will allow my factor of safety to increase. Any reason we're keeping it low?
+OOS however i can bring it all the way down to 40 and still have a fos of 2.7
+OOS minimize it if you can while keeping fos as close to 2 as possible
+OOS I need to change D to 85 though
+OOS if we can do that it cuts my mass to 1.24
+OOS its fine now
+OOS I have control of thickness of I-section, conrod lenth and the crank lenth
+OOS Can I have a current value of D
+OOS can you get that FOS up?
+OOS For just the flywheel?
+OOS increasing your the bearing offset only reduces the FOS so im keeping it at 150
+OOS great, done then
+OOS 45
+OOS what mass are you using?
+OOS oh okay, sounds good
+OOS Yeah really
+OOS has anyone gotten a simulation besides poor as the results?
+OOS Someone needs to broadcast their best mass so itll go down
+OOS are you broadcasting new values?
+OOS yeah one sec
+OOS Im using .8 and .55 for r2 and r3
+OOS same sounds good
+OOS 5.75 @ 75
+OOS we can optimize c and tf looks like
+OOS you said piston diameter is in your equation right?
+OOS unless you change that at all?
+OOS *of mass
+OOS I was going to start out with 70. Can you provide the flywheel shaft diameter?
+OOS Lets improve lowest FOS now. What is yours?
+OOS Right now I'm using D = 85
+OOS Let's not change whatever we have
+OOS thickness = 10
+OOS 3.62
+OOS My outputs. Global is 34.35 and 0.81
+OOS i updated
+OOS same and im currently there
+OOS what is your fos now?
+OOS mine are piston diameter and head thickness
+OOS we did hit both requirements at one point
+OOS We have some wiggle room in our mass now, I can try adjusting my thicknesses and see if that helps 
+OOS looks like mass dropped a lot
+OOS ok im gonna try to get us to exellent dont change
+OOS f_os = 9193.31
+OOS 0.28
+OOS Sorry 60
+OOS dang that fos is low
+OOS thanks!
+OOS Hey
+OOS My mass is like 1mm thick away from being its minimal value
+OOS We are good on FOS, but we need to lower our mass!
+OOS ?
+OOS You?
+OOS Ok cool
+OOS piston is0.91
+OOS hmm
+OOS I think my part and yours are doing fine
+OOS what diam are you using
+OOS what really?
+OOS i have control over neither, only c and dc
+OOS sweet!
+OOS As of right now, I'm comfortable around 85 for my diameter, but that may need to be lowered to lower the overall mass
+OOS right now my mass is at .69 and my FS is 3.84
+OOS so raising c increases mass and reduces fos
+OOS I'm thinking larger D makes my part heavier
+OOS we need it to be higher than 2
+OOS wait what
+OOS so connector rod is 600
+OOS can you change it to 150?
+OOS DONT TOUCH ANYTHING NOW
+OOS Ok I also broadcast my best, it gives good weight and fs
+OOS ok
+OOS great, done then
+OOS good work
+OOS how much does your fos increase though? because then we could save mass in other parts
+OOS 2.83
+OOS I'm at fair quality. FOS is a bit low, total weight is a good amount under what it needs to be though
+OOS Ideally we can help them out and find the optimal form for all our systems
+OOS Ok thanks
+OOS Does a piston diameter of 85 work well for you?
+OOS New crankshaft pin diameter: 45. Broadcast is updated
+OOS we are at very good again as of 12;53
+OOS with my current dimensions mass is 1.2 and FOS is 15886.04
+OOS Do you need information about flywheel thickness or flywheel shaft diameter?
+OOS I am at the time we got the best result now
+OOS do it
+OOS i can decrease diameter
+OOS Lowest FOS is the system FOS
+OOS i can decrase on the weight but the FOS wouldn't meet requirement
+OOS how much mass is your part?
+OOS so close
+OOS we reached good
+OOS yea
+OOS How does changing D affect your FOS?
+OOS ok
+OOS I can set the piston bore diameter at either 40, 47.5, 55, 62.5, and 70
+OOS What are your mass and FOS?
+OOS We need to save weight
+OOS yea
+OOS mine is 0.14 which is highest for my lowest mass option
+OOS It is
+OOS haha yea fingers crossed it stays at very good
+OOS ok with the results
+OOS could yo slightly lower your diamter again?
+OOS I decreased my weight parameter a bit
+OOS we only need it to be above 2
+OOS try that
+OOS and t_h, which may be the length
+OOS I can change diameter if needed
+OOS message back when you did it
+OOS what mass do you have for the flywheel?
+OOS Sorry, t is section thickness and r is ratio of connecting rod length to crank length.
+OOS depends
+OOS mine are piston diameter and head thickness
+OOS What is your third field you fill out to run simulations?
+OOS But it's back to poor now again
+OOS check for broadcast
+OOS though I might switch to 75
+OOS Who is this?
+OOS just kidding, back to poor. 
+OOS okay, you and rod designer want smaller while crankshaft wants larger
+OOS I reduced mine to the lowest value, and our FOS is good now
+OOS go back to what we had for Fair is you made changes
+OOS yay
+OOS we got it, don't change things
+OOS Design variables: ratio of piston-pin length to piston diameter
+OOS 7X7 fun
+OOS done
+OOS very close now
+OOS why isnt this exxcellent
+OOS below 45 weight and above 2 fos for auto engine design
+OOS did you  broadcast your value?
+OOS yeah we were over 2 about a minute ago
+OOS i didnt touvch anything
+OOS yes.  i think so
+OOS WHO THE HELL KEEPS MOVING IT TO POOR
+OOS not me
+OOS group: who wants to go next?
+OOS Im at diameter = 52.5 and thickness = 35
+OOS _|_|O
+OOS i haven't changed anything
+OOS reply when done
+OOS What is your range for diameter?
+OOS 2.42
+OOS lets just try getting our mass down
+OOS cool
+OOS I'll check in with you on that in a sec
+OOS they don't wanna give us 20 bucks
+OOS piston can increase FOS if i move D = 75. we are going to both adjust it now
+OOS r2=0.5 r3=0.5 with D=41
+OOS We have 0.15 mass to play with. What options do you have for that which could increase FOS?
+OOS piston change: cur m = 1.0kg , cur fos = 4.56
+OOS PIck the lowest mass over an FS of 2
+OOS okay, what mass are you at!
+OOS hello
+OOS did I?
+OOS mass is .13 and fos is 3.1
+OOS I got fos 2.36
+OOS are your masses high
+OOS Did you make sure that the broadcast that you are sending matches with the designers that you are sharing data with?
+OOS Who changed?
+OOS anyways ya ive given up on 375 but imma hang out in Hess's office starting next week
+OOS Do you need information about flywheel thickness or flywheel shaft diameter?
+OOS but the far right column is the projected values for them and I think the ideal broadcast is the one with the best projected values
+OOS and we are just trying to optimize somehow?
+OOS i didnt change
+OOS I'm trying to keep dc as alow as possible to save on mass
+OOS Yeah
+OOS variable that affects my mass and fos is just diameter, so I've been minimizing my "outputs" on that diameter
+OOS all good
+OOS i think so, I think i just figured out what i need to do. I was confused at first
+OOS what is your ms?
+OOS we havent added it yet
+OOS What is the lower limit of your weight range?
+OOS *meant, I apologize
+OOS the piston is the part that affects all the others as no one elses affects me so im staying at my set values
+OOS bearing offset
+OOS How is your FOS related to my pin parameters?
+OOS what is your current diameter size
+OOS The greater the values for either of those, the greater the FOS and mass
+OOS Cool
+OOS Can you see if you increase your bore diamater to 41 or 42 if it improves anything?
+OOS it does increase my FOS
+OOS before uploading any new broadcasts copy and paste a message into all your chats so we know its changing
+OOS I see it
+OOS 2.01
+OOS 75 gives me 2.6kg and 8.08Fos which I think is pretty good
+OOS *what values is everyone in control of
+OOS I do the control ds but its the same
+OOS were in good range rn
+OOS Also, do you have an idea for the thickness value? Or an assumed value I should begin with?
+OOS does it affect your design much? If I increase it to 60 it will only increase my mass by like0.3
+OOS my turn
+OOS Ok the ideal design for me is D at 40. My mass goes down to 1.28 and FOS at 17.82. Try that
+OOS I've changed the diameter to 53 to try to help with your factor of safety
+OOS What's a good working piston bore diameter?
+OOS Group- only piston engineer edits
+OOS New plan. All of us are going to max FOS, and then worry about mass
+OOS i have 3.27 kg and 1.23 fos
+OOS Hi, what have you decided for the piston bore diameter?
+OOS nevermind I'm being stupid
+OOS (To all): ok with results
+OOS Yes, with that my FOS is now 2.17
+OOS DONT CHANGE
+OOS diamater is 90
+OOS that's big
+OOS *ok if I put a * in front of a message it has gone to everyone
+OOS yes, they are active
+OOS or is it each case by case for each part ?
+OOS Im at the lowest possible on my sim list
+OOS I can get mine up to 3.44 max where D = 40
+OOS y'all we need to get the FS to 2
+OOS What is your FOS?
+OOS We are good on FOS, but we need to lower our mass!
+OOS we finished now?
+OOS and i have an offset of 150 so if that changed let me know
+OOS i changed to excellent
+OOS currenty 2.03, but that can be raised.
+OOS I have the lowest mass configuration (0.55), and the highest FOS (5625) setup currently. Unsure why the overall stats are poor at the moment. 
+OOS so that seems too big
+OOS check what you have now, piston changed 
+OOS its 2700
+OOS thats bonkers
+OOS I think that will be the crankshaft!
+OOS When you broadcast, does that just update the overall model with the design you selected for your subsystem?
+OOS Our mass is too high, can we try and select variables to reduce the overall mass and broadcast those? (sending this to the others as well)
+OOS i have the fos at 2.85 and m as 6.26
+OOS alright
+OOS my mass is minimized
+OOS Just D
+OOS ill try decreasing my mass slightly
+OOS im not sure
+OOS X X O ; _ O _ ; _ O _
+OOS cZ i was gonna try 80
+OOS the piston is the part that affects all the others as no one elses affects me so im staying at my set values
+OOS Yeah it is either him or the flywheel
+OOS nope
+OOS So I think my subsytem is heaviest so I need to drop weight as much as possible, while other lighter subsystems make up for increased FOS
+OOS lets try that
+OOS how did the mass go up
+OOS My mass varies between 0-0.12 so let me know if you need me to adjust anything
+OOS No at most ill change it by 10, how much would a diameter of 50 affect your mass and FOS
+OOS Our quality is back down to good. What changed?
+OOS before uploading any new broadcasts copy and paste a message into all your chats so we know its changing
+OOS q1: is it smaller than a microwave?
+OOS i have set it to those values
+OOS 20.86
+OOS how's your FOS looking
+OOS what's the diameter you're using?
+OOS ?
+OOS I could try
+OOS Change it back to a run with a FoS greater than 2
+OOS we just bumped up top fair
+OOS group-piston pin now
+OOS nope!
+OOS I had fos 1.35 and m=0.93 in that run
+OOS Does a piston diameter of 85 work well for you?
+OOS or reduced offset i should say
+OOS I see 2.73
+OOS Mass is now 0.1
+OOS great, thanks!
+OOS I think both of us are good
+OOS :)
+OOS Our mass just increased a lot
+OOS I haven't touched anything for a while
+OOS Try to optimize your FoS to mass ratio in the mean time. I think that's how we'll be able to get good numbers
+OOS okay cool everyone responded
+OOS What is the current value of the bore?
+OOS since we are at the threshold for fs
+OOS wont let me
+OOS Do you have a good flywheel diameter and flywheel thickness?
+OOS good?
+OOS is*
+OOS I believe FOS of 2.31
+OOS No, do you need anything from me?
+OOS so let's lower our weight first
+OOS yeah
+OOS yes, piston bore is 80
+OOS i know
+OOS I am working on setting the thickness of the I section of the connecting rod and the Conrod length to crank length ratio. What about you?
+OOS Right. Got mine to mass = 1.01, and fos = 2.03
+OOS basically I'm never selecting an FS below 2
+OOS Okay
+OOS I have mass at 0.14 and Fos at 2.6 currently for my component, if you are in charge of the piston bore diameter, I got these values by setting D = 45 
+OOS I asked the TA and he said mine is different than other parts
+OOS What is your current mass at?
+OOS crankshaft guy has fos of 0.57 we should see what he needs.
+OOS Hit update broadcast if you havent yet I just found out that is important
+OOS then it was not me
+OOS I didnt
+OOS Make sure everyone is using the dimensions for the most updated broadcast. I think someone's dimensions aren't lining up.
+OOS mas is up pretty high
+OOS Current settings seem to just hit the min values, seems like a good reference point. (all)
+OOS i agree, another component needs to be slimmed down, currently broadcasting my lowest values for both thickness and diameter
+OOS nah
+OOS Let's update eveyone with new m and FOS whenever we make changes
+OOS If the piston engineer increases bore diameter we can increase our FOS
+OOS Piston pin too
+OOS okay we got excellent. we should be done here
+OOS It's the same tradeoff for everyone
+OOS whats it to u
+OOS aight
+OOS group:ok we need to reduce weight a lot
+OOS Its at 2.83 rn for me
+OOS Nope things changed to the worst now
+OOS thanks
+OOS Need to increase FOS
+OOS was that you?
+OOS the current optimal c and dc i got that yields best results is c = 150 and dc = 50
+OOS you?
+OOS FOS = 2, M = 6.72
+OOS Alright, thank you. That is the highest FOS I have found
+OOS not me
+OOS fos_s: 1653.92;
+OOS 43 or lower for fos greater than 2
+OOS i think this is a trap
+OOS i broadcasted my best
+OOS Our FOS was at like 2.5 and mass was at 44. Not sure what changed but it all just went down a ton.
+OOS How about we don't change anything and let one person run simulations at a time
+OOS Will experiment
+OOS What is your D?
+OOS let's change one component each! keep the mass within .5 kg of the lowest value, and try to maximize FOS
+OOS I control the diameter of the piston head and the thickness of the piston head
+OOS actually we just gained mass and lost FOS so if you changed something go back
+OOS hey, Im seeing the Thickness of flywheel to be 10 mm, is this what you got?
+OOS also reducing c significantly reduces the FOS
+OOS How does the bearing support offset affect your part?
+OOS Alright.
+OOS no 25 is the highest it goes...
+OOS (to everyone)I increased the mass of piston and the mass went down and fos went up
+OOS Is higher or lower D better for you?
+OOS at a bore diameter of 45 i don't think there's anything I can do. I'm going to play around with bore diameter to see if that helps
+OOS yall stay at where you are
+OOS Yea our dimensions line up then
+OOS 7.4
+OOS pistons mass is 0.52 with a fos of 2.01
+OOS :(
+OOS need: piston bore diamter
+OOS The only person that hasn't responded regarding the change is rod designer
+OOS ok
+OOS I haven't it increases mass and decreases FOS so unless somebody needs it to change it doesn't make sense on my end
+OOS no one change anything
+OOS we're at excellent
+OOS we at very good rn im happy with that
+OOS I have set my dimensions to get the lowest possible mass and a FOS of 2.01. Do let me know if you need anything from me
+OOS no lol
+OOS no
+OOS Not sure. I didn't change anything. I let all the others know
+OOS I've got 2 of my own variables
+OOS thats the pistonpin i think. rn i have piston diameter of 90
+OOS D = 90
+OOS your individual mass?
+OOS We're close, guys
+OOS What do you mean? 0.52 is my minimum mass
+OOS get you factor of safety as close to 2
+OOS make sure you update the broadcast as often as you can
+OOS its as low as itll go
+OOS Let me know if you need me to decrease mass, I can decrease by 0.5 but my FOS goes down by 2
+OOS What are the weight and FOS ranges for your part? Mine are .12 to 3.85 kg, 2  to 60 for FOS. Sending to everyone
+OOS Oh okay. Im trying to figure out what inputs I can get from people on the team
+OOS whats your fos at for current settings
+OOS it says excellent for me
+OOS Mine are flywheel thickness (tf) and flywheel shaft diameter (ds)
+OOS Thanks, I'm good on my end. Is there anything you need from my end?
+OOS It's all good now. Can you make your weight any lower with an FOS >2 ?
+OOS I am simply sitting here
+OOS dc at 45
+OOS Not sure where the mass increase came from
+OOS what is the mass of your system?
+OOS Is 40 the best value you have found for D
+OOS also just realized that you and i are gonna have to figure out the quiz alone bc anisah left
+OOS awesome
+OOS Go fast theyre giving out the money
+OOS who got very good and broadcast those values
+OOS everyone try to lower the fos  to 2 but above 2
+OOS What factors are you interested in?
+OOS m = 0.05 and fos =2.03
+OOS Making the thickness larger increases mass but reduces factory of safety while decreasing diameter increases both
+OOS yes, let's do one component each! keep the mass within .5 kg of the lowest value, and try to maximize FOS
+OOS Can you send me your mass?
+OOS my mass is minimized rn
+OOS I change it to 80 now
+OOS Great - let me know if you need anything from me
+OOS just remember what you have now
+OOS did any mass values change?
+OOS hey i think that made things better!
+OOS Thanks for checking in but I am all set in terms of needed values. Is there anything on my end I should send over?
+OOS or we were for a second
+OOS for mass?
+OOS Don't change anything
+OOS we have time
+OOS make sure to reduce weight and keep fos at 2
+OOS and see
+OOS can you try increasing ds?
+OOS do you think lower diameter will give you a higher fos?
+OOS do you know what's going on?
+OOS Yeah the piston bore
+OOS so i think the biggest thing for you is thickness - try and find the a thickness with low mass but high FOS
+OOS I am in charge of doing that through piston diameter and piston head thickness. What are your design variables?
+OOS We're done
+OOS I didn't change anything, still at c=150 and dc=45
+OOS ok yeah so really small. I was just wondering why mass was so high
+OOS its piston pin designer
+OOS i just clicked broadcast
+OOS yeah it sucked
+OOS Are you changing youre values?
+OOS and Thickness of the flywheel
+OOS I control connnecting rod thickness and length, but depend on the piston bore diameter
+OOS our factor of safety went down
+OOS tf = 12
+OOS what values are you at
+OOS we're good now
+OOS ggs
+OOS I put mine to initial values and the FOS is good now
+OOS 85 seems good for now, testing my own combinations
+OOS min weight : 0.5kg, max weight : 1.61 kg
+OOS We  had fair a minute ago, who has been making changes? I haven't changed anything
+OOS actually we should be getting excellent
+OOS nope, haven't broadcasted in a bit. The most I can change the wieght is by like 3 anyways
+OOS i'm asking around rn
+OOS so close
+OOS Oh ok mine just updated
+OOS Hi! I just wanted to reach out and make sure you did not need anything from me
+OOS heloooo
+OOS Looks good. I am at 2.03 and 0.05 = m
+OOS can you increase it to around 2 or 3
+OOS I mean, its a flywheel so it likely shouldnt be experiencing many loads. So that's normal.
+OOS okay one sec
+OOS if I change it to 75, will it affect your design
+OOS just changed diameter to 80 and got FOS of 4.12 and mass of 1.44
+OOS I'm good, thanks
+OOS You have a lot of parameters to change, so try and run as many simulations as possible to try and find the sweet spot of mass and FOS
+OOS do you have any parameters that depend on the piston pin?
+OOS yeah. i dont think i can change diameter because it will affect everyone
+OOS who got very good and broadcast those values
+OOS no
+OOS whats the name of the diameter?
+OOS thickness is 10
+OOS this looks like some weird morse code
+OOS sorry
+OOS Did you change anything?
+OOS yep
+OOS one is Input piston-pin length to piston diameter ratio
+OOS Alright, I know that increasing it hurts the piston-pin design, so I will slightly increase and we can see what happens
+OOS nah its above 35
+OOS LOWER YOUR FOS
+OOS We need to meet at least one of these criteria
+OOS I control piston diameter and piston head thickness
+OOS hello
+OOS But my mass is like 0.9
+OOS I think there is but I don't know how.
+OOS Yep just got paid
+OOS great!!
+OOS Hi :)
+OOS Do what you need to do to get FoS > 1.5 and then we can adjust masses from there
+OOS At max FOS
+OOS I broadcasted something but then i changed it now
+OOS Ok now it dropped
+OOS Sounds great to me
+OOS Yeah, I'm upto 2.62 now. But remember, its the minimum of all the FOS that matters the most.
+OOS mine is showing as poor right now
+OOS ?
+OOS let me know what the new diameter is
+OOS I think we can keep going
+OOS Hi,I dont think I need parameters from you. 
+OOS 1.2
+OOS no
+OOS We meet the FS requirement, but we lack in the mass department. Let's reduce mass.
+OOS just wait it out
+OOS 0.57
+OOS Okay
+OOS We need to reduce mass if possible
+OOS on my screen it says quality is excellent
+OOS D = 90
+OOS I am ok with it but if you want to try some more then I will hang around
+OOS what are your design variables and the other variable that is important to you?
+OOS are you making any changes  ?
+OOS i will stick with 47
+OOS Crankshaft just brought up perhaps the person with the lowest FOS will fail first, so they're FOS is the most important. What do you think?
+OOS Great
+OOS same
+OOS try to find a combo that gets you just above 2 fos but the lowest mass
+OOS i didnt change anything
+OOS OK
+OOS I changed fos but not the diamter
+OOS Yeah I've taken that as low as possible without completely ruining fos, we also need to raise that
+OOS mine's still showing 80
+OOS 1.62 kg
+OOS They asked and I gave them 40mm. I reached out to ask if I needed to change anything to help them, and they have not responded
+OOS agreed
+OOS If I increase the Piston Diameter, how much will it affect your FOS
+OOS agreed
+OOS yea our values are horrible
+OOS a little someone else is messing around with their fos
+OOS yeah that makes sense
+OOS try 41.25 for t_f and 45 for diameter
+OOS 15886.04
+OOS Do you need information about flywheel thickness or flywheel shaft diameter?
+OOS you good if we start with a smaller bore diameter of 45? if that doesn't work we can increase it
+OOS group: ok remember the current values you have as back up
+OOS Quality very good Nice!
+OOS HEllo
+OOS hello?
+OOS reduced to 150
+OOS I have around 10
+OOS it got worse so i would change it back
+OOS My sheet says piston bore diameter but it's not a variable that I control.
+OOS I have lowest mass currently without making fos poor
+OOS Like now
+OOS What bore diameter are you choosing?
+OOS Yeah we just need mass to go down
+OOS crankshaft is 2.11 but they say they cant decrease it anymore
+OOS they said they didnt change it
+OOS Are your values finalized? I see we are at excellent now.
+OOS yeet
+OOS Currently I think the mass is too much.
+OOS at some point. need to get mass down
+OOS good
+OOS let me check real quick
+OOS some one got good quality what where your variables in that
+OOS what is your fos?
+OOS i waaaaaant mooooney
+OOS Wait are we using D = 85 or 75?
+OOS mas- 1.23 fos- 12.2k
+OOS report weight
+OOS what are your values currently at?
+OOS for mass
+OOS It seems like if flyweel thickness and diameter are the same, but crankshaft bearing offset is reduced then mass stays the same but fos is reduced
+OOS What is the piston bore diameter?
+OOS we are at fair
+OOS GROUP: crankshaft done, fos is great, mass needs just a little bit to bring into Very Good. piston goes next
+OOS Global requirements top of page
+OOS _I_I_
+OOS all good
+OOS Thats great, let's see how those parameters can affect the possibilities with other sub systems
+OOS I can control t1 and r1, let me know if you would like me to change it to see how it effects your numbers.
+OOS What testbed variables do you have?
+OOS What piston bore diameter are you using?
+OOS ya, try 75
+OOS Hold where you are
+OOS I think you could decrease mass bc FOS only needs to be above 2
+OOS can you reduce is closer to 2 while decreasing mass?
+OOS ?
+OOS shoot
+OOS m = 0.05 and fos =2.03
+OOS see if you can change the oiston bore diamter to lower
+OOS Ah I see
+OOS OK STOP
+OOS Well I think each individual part needs a FOS greater than 2
+OOS That's pretty minimal
+OOS overall fos is decreawseing
+OOS i didnt
+OOS No
+OOS my lowest fos is 1.46, max is 31.19
+OOS completely
+OOS I am at about 0.11
+OOS okay sounds good
+OOS im pretty sure a factor of safety less than 1 is a guaranteed fail
+OOS Hi
+OOS this is what i ahve rn
+OOS also which FS are you broadcasting
+OOS piston told me
+OOS whats your fos now?
+OOS I don't think it's piston
+OOS I will change to 70
+OOS (To all): "Very Good" is fine with me
+OOS (To all): ok with results
+OOS that was with r2 at .5, r3 at.7 and D at 40
+OOS dont change anything hahah
+OOS We do not have a crank engineer or con rod engineer.
+OOS what mass are we all thinking cuz we need to be under 35
+OOS no we should go for excellent
+OOS group:ok we need to reduce weight a lot
+OOS going with the minimum to reduce mass because my FOS is so high
+OOS same
+OOS piston pin has ds
+OOS is bore diameter piston diameter
+OOS It is updated. That's my current broadcast.
+OOS ill ask
+OOS okay now weight is down, but FOS is a tad too low
+OOS for my part or the whole thing?
+OOS we are at excellent again
+OOS 150
+OOS group-flywheel now
+OOS What about you
+OOS dont change anything
+OOS What were the values?
+OOS I can adjust thickness to have a required FOS at a specific D
+OOS for both fos and mass?
+OOS Don't forget to broadcast your most promising results
+OOS Hey looks like our FOS went up. What changed?
+OOS What are you broadcasting?
+OOS what can we do to increase your FOS?
+OOS my FOS is best at 40, making it larger decreases my FOS
+OOS Piston bore diamteter
+OOS Idk if we have certain rounds or not
+OOS nice
+OOS 2.77
+OOS Currently 3.2
+OOS 150
+OOS We had a very good one at 80 before
+OOS yes
+OOS Ok 60 is my lowest possible so I'll leave it at that
+OOS Okay
+OOS No
+OOS Global quality looking bad though
+OOS What is your current mass?
+OOS Is your piston pin the same as the crankshaft-pin?
+OOS we are very close to gettin gabove FOS =2 , but see if you have any combinations that have a fos right above 2 but the lowest possibole mass
+OOS thats as low as I have gotten it
+OOS I can control t1 and r1, let me know if you would like me to change it to see how it effects your numbers.
+OOS What variables/equations do you deal with?
+OOS can anyone reduce weight without changing fos?
+OOS Lets all maximize our fos and try to cut mass instead
+OOS what is your current ds
+OOS bore diameter
+OOS I'm ending it
+OOS we are very close to gettin gabove FOS =2 , but see if you have any combinations that have a fos right above 2 but the lowest possibole mass
+OOS should we try 85 for dia?
+OOS me too
+OOS I am not the one who ran it to get verygood
+OOS what is your fos?
+OOS OK
+OOS its actually at the minimum
+OOS thanks
+OOS gotcha, try 85 then
+OOS yup. will do ;(
+OOS Yeah I just altered the thickness to try to save mass
+OOS #ERROR!
+OOS Do you need anything from me?
+OOS ok so 2.96 is actually Good, we need to improve FOS to get it to Good
+OOS I think that doing that effects the other designs as well
+OOS Hi
+OOS Hopefully they saved their values for the very good design.
+OOS i think so
+OOS ok decrease mass as much as possible, I cant decrease much more
+OOS tf of 10 and ds of 15 is the lowest mass I can get
+OOS mine is 29
+OOS D = 80 not 90
+OOS good job team
+OOS Whats your fos?
+OOS I think a tf value of 10 is best
+OOS now we are at very good
+OOS Didn't change anything. We need to decrease mass
+OOS tf increases mass...
+OOS wait, can you reduce the mass
+OOS For better or worse. want me to change mine and see how it affects yours real quick
+OOS alright, guess not then
+OOS sure!, I'm trying to play with c to get a higher FOS
+OOS We need just a hair less mass
+OOS Group: no more changes!
+OOS i control pistonpin length to diameter ratio and piston pinn inner diameter to outer diameter ratio
+OOS so for me besides diameter, i can play around with two variables
+OOS Try and minimize your mass but keep fos above 2
+OOS yes
+OOS nice work
+OOS It should be our lowest FS, but it's 0.51 instead of 2
+OOS Yes that is what I have input
+OOS Yea. I am working with my numbers to try and fix that.
+OOS flywheel guy has his stuff firgured out
+OOS try not to change anything until you talk to someone
+OOS what's your current piston bore diameter?
+OOS hi
+OOS m=0.07 FOS=1.23
+OOS If you need the offset to be higher let me know.
+OOS Does a piston diameter of 85 work well for you?
+OOS Sorry, I think my mass is 1.5
+OOS Sorry for the abrupt message. I saw that we got excellent and didn't want to lose it
+OOS i mistyped D = 80
+OOS ok cause I have lowest fos so ill fail first meaning overall fos depends on me
+OOS increasing piston bore diameter increases my mass and factor of safety
+OOS GROUP: ok I see piston-pin, that works too
+OOS 1.3 kg so not really
+OOS I'll be on it
+OOS ok will try some other variations
+OOS GROUP: ok I see piston-pin, that works too
+OOS that massive dip did not come from piston
+OOS alright after talking with the others, the goal seems to be minimize mass while keeping FOS at just above 2
+OOS yeahh after last exam its been rough haha so thats probably a good idea
+OOS Whoever just changed something about FOS change it back . It made it worse
+OOS my value has been the same as well thanks for the update
+OOS We've got a "Good" engine
+OOS Let me know if you change the bearing offset
+OOS hello?
+OOS sweet, ill update my FOS
+OOS ok youre the minimum
+OOS actually we just gained mass and lost FOS so if you changed something go back
+OOS impressive
+OOS Check for broadcast now
+OOS Ok great
+OOS Ok
+OOS what is your diameter at currently?
+OOS good working with ya
+OOS What do you currently have for your bore diameter?
+OOS I'm fine with that
+OOS can you share your variable letters (what you control and what you need)
+OOS If we increase the diameter we go over the weight limit
+OOS who's fos changed
+OOS 3.64
+OOS We need to increase fos
+OOS c and dc
+OOS hey, just wondering, what are your inputs? 
+OOS Rod designer still here
+OOS oh for sure
+OOS cool
+OOS We did
+OOS the $20 we just won
+OOS howeffect on mass
+OOS ok so it probably changes mass a lot and we can try improve fos some with other parts
+OOS bueno
+OOS our crankshaft person isnt communicating with me, can you try and get them to talk to me :( I need to discuss values with them
+OOS one sec
+OOS tell me if it's better to use greater value because 40mm is the minimum value
+OOS whats the corresponding fos?
+OOS group - same with piston-pin
+OOS I can increase that and lower the weight but that is if you could cover on FOS
+OOS Is there anything you can do to reduce mass without changing fos much?
+OOS No
+OOS 2.01
+OOS record your current value
+OOS do we have a pistonpin ? because no one is answering me
+OOS Yes
+OOS Is there a way to lower that? Mass is way too high and FOS too low
+OOS Can we try something as a group- look at the projected outputs column, not the variables you control. Can everyone try to select the inputs that get the LOWEST mass output?
+OOS Where is your FOS at?
+OOS I just got my FOS up to 9
+OOS we got excellent
+OOS perfect
+OOS yep, we need to lower the overall mass
+OOS to simulate
+OOS what is your current FOS?
+OOS lets leave it like this
+OOS has the bore diameter updated?
+OOS _IXI_
+OOS _IXI_
+OOS Perfect
+OOS ok sounds good
+OOS do you rely on a c or a dc?
+OOS group: ok remember the current values you have as back up
+OOS U mean 0.672?
+OOS Maybe. not sure if it was you or me or someone else who messed it up
+OOS 2.85
+OOS I have an fos of 1.45 now, I'll try increasing the diameter
+OOS If i increase diameter we go over weight. Still on lowest setting
+OOS Let's not change whatever we have
+OOS No, I believe my variables are independent of shaft diameter
+OOS Whichever works best for you
+OOS just changed it to 25 d and t is 10
+OOS if anyone touches our design, im gonna beat $10 out of them
+OOS Let me know what you decide
+OOS yeah i have the same questionb
+OOS The only person that hasn't responded regarding the change is rod designer
+OOS it seems so, yet we are still over the mass limit?
+OOS Crankshaft just brought up perhaps the person with the lowest FOS will fail first, so they're FOS is the most important. What do you think?
+OOS My part has a lot of weight so anything to reduce weight would help
+OOS check for a broadcast maybe?
+OOS Literally, there is not
+OOS with piston d = 75, bearing 150, flywheel 12 and shaft 60, we have a FS .12 above 2, but our mass is just a little high
+OOS what numbers are u running
+OOS because mine still read as excellent when my diameter was at 80
+OOS space
+OOS sounds good
+OOS Ok, try reducing the diameter to 45 and see what happens
+OOS Thanks
+OOS frick my mass is 57
+OOS no have not plugged in any new values
+OOS ok no one anything
+OOS we are at excellent
+OOS I know, but the weight is higher for my other options above 2
+OOS Alright. I'm on lowest bore diameter now. Mass = .91, FOS = 7.37
+OOS i still have my two best broadcasted
+OOS minimize the mass of crankshaft and maximize fos
+OOS also i forgot fos is just the minimum value not an average
+OOS *your
+OOS yes
+OOS no, that gives me an Fos of 0.51. My mass is at most 0.12 so there's not much to be gained for reducing it but Fos drops quickly
+OOS so why is our tital so low?
+OOS we spent lab tuesday trying to get it to go forward
+OOS im talking about your indidivudal part
+OOS 0.55
+OOS Mine has an FOS of 2.42
+OOS idk
+OOS piston-pin length to piston diameter ratio and piston-pin inner diameter to pin outer diameter ratio
+OOS 5625.56
+OOS hmm Crankshaft is saying to drop mass by .28
+OOS it's corrected now
+OOS It's up
+OOS I haven't changed anything
+OOS Don't change it!
+OOS Ok cool. Do you need any values from me?
+OOS Crankshaft bearing offset
+OOS I didn't change
+OOS group: go to you lower most range with max fos and reasonable weight
+OOS ok run again with values when you were getting good
+OOS OK STOP
+OOS I'll try lowering my mass some
+OOS Its excellent rn so dont change it without writing down what you have now
+OOS Preston
+OOS For D = 75 and D = 85, what are the minimum masses you can have for a FOS of 2?
+OOS look at the chart on the last page of your booklet, we are shooting for the highest FOS and lowest mass
+OOS decrease mass
+OOS ok our current broadcast is 'excellent', so are we done here?
+OOS goal weight is actually 35
+OOS Ok. Crankshaft bearing offset: 150.0, Crankshaft-pin diameter: 50.0.
+OOS r2 and r3
+OOS increase it to 50
+OOS not me
+OOS Current config is good remember these settings on your paper. Lets call this plan A
+OOS Does a large or small flywheel mass benefit you? do you know?
+OOS i have the fos at 2.85 and m as 6.26
+OOS I'm now at 2.77, all my numbers are at their minimum 
+OOS how much does the mass of your part very (like the min vs max)?
+OOS 24.3 at m = .75
+OOS You have to update your broadcast and look at the total FOS and mass
+OOS 2.47
+OOS im assuming these are horizontal
+OOS what is your Fos and mass?
+OOS like one part has huge FS so they just minimized mass bc the part has FS over 100 no matter what option they choose
+OOS Hi! If you have an initial parameter set ready, please go ahead and broadcast the same. I feel we should start with the lowest mass configuration and increase mass later on as required for FOS. Thanks
+OOS that's at my minimum dimensions, I can't
+OOS I have thickness as 12 and diameter as 60
+OOS What is ds?
+OOS I'll ask them
+OOS My FOS is 1.11
+OOS lmaaaooooo
+OOS yeet
+OOS try bearing offset = 180, crankshaft pin is 35 mm
+OOS my goal is to minimize the crankshaft weight and maximize fos
+OOS require: piston bore diameter (D), flywheel shaft diameter (ds), flywheel thickness (tf))
+OOS do you need my rod cross section to increase?
+OOS What are your values for diameter and thickness right now
+OOS nope
+OOS so do you have variable called r2 and r3?
+OOS my masses are very small, and FS are 0.4-3.44
+OOS what variable can you change  for "change variables of other sub-systems?"
+OOS they just not responding to messages?
+OOS don't change
+OOS okay now we're better lol - idk what happened
+OOS Nevermind, global changed to 55.36 and 2.03
+OOS Is there any way you can reduce D?
