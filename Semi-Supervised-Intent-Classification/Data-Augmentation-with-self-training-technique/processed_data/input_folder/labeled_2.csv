@@ -1,0 +1,457 @@
+,full_text,Dependencies_between_design_parameters,Effects_of_design_parameters_on_objectives,Exploration_of_design_parameter_values,Monitoring_objective_values,Selected_design_parameter_values_for_objective(s),Tradeoff_between_objectives
+0,How low can you go on the piston bore diameter ? ,0,0,1,0,0,0
+1,all my factorofsafety values are in the hundreds  i suspect it depends a lot on bearingoffset,0,1,0,0,0,0
+2,Hi flywheel  My crankshaft depends on your flywheel shaft diameter pistonborediameter _ s  and thickness of flywheel t _ f  I don t yet know how  but it will probably help that you know ,1,0,0,0,0,0
+3,min of  40 ,0,0,0,0,1,0
+4,What value works best for your simulation ? ,0,0,1,0,0,0
+5,Do you have a value for the bore diameter ? ,0,0,1,0,0,0
+6,My flywheel also depends on your crankshaft bearing offset  bearingoffset ,1,0,0,0,0,0
+7,Hey I am the conrod I was curious as to what you thought a good piston diameter would be ? ,0,0,1,0,0,0
+8, 45  seems decent,0,0,0,0,1,0
+9,How does the flywheel thickness factor into the bearing support offset and crankshaft mass ? ,0,1,0,0,0,0
+10,My design depends on the piston diameter  what happens if you decrease it ? ,1,0,0,0,0,0
+11,Increasing the value of bearingoffset presents two adverse cases where mass increases and factorofsafety decreases so I mass tending towards bearingoffset  equals to   60 ,0,1,0,0,0,0
+12, 45  seems decent  lower if we need to reduce mass,0,1,0,0,0,0
+13,alright  what factorofsafety  s are you getting  my lowest factorofsafety situation is still  323 ,0,0,0,0,1,0
+14,Based on my simulations  it seems like a smaller value of  bearingoffset  will result in an overall higher factorofsafety  do you agree ? ,0,1,0,0,0,0
+15, 7   96  has been the best achieved thus far,0,0,0,1,0,0
+16,based on bearingoffset  equals to   60  ? ,0,1,0,0,0,0
+17,It affects the design variable  bearingoffset  which the length of the bearing support offset,0,0,1,0,0,0
+18,that depends on what the thickness of the piston is for me  if I keep it the same and decrease it the mass goes down but so does the factor of safety  I mass trying to get it around  2  w  lowest mass,0,1,0,0,0,0
+19,Increasing  bearingoffset  increases the mass and decreases the factorofsafety,0,1,0,0,0,0
+20,Yes  but I mass iterating to determine dependence on other parameters rn,0,1,0,0,0,0
+21,Does increasing the flywheel thickness increase or decrease  bearingoffset  ? ,1,0,0,0,0,0
+22,If you could reduce your  flywheelthickness  variable that would be great  :  ,0,0,1,0,0,0
+23,That is what my document specifies  I will keep bearingoffset low unless the piston needs it to be higher,1,0,0,0,0,0
+24,alright  factorofsafety increases with df  so rn i have it minimized  but can increase if needed ,0,1,0,0,0,0
+25,what seems to be the ideal piston bore diameter on your end ?  Could you explain how it affects mass and factorofsafety ? ,0,1,0,0,0,0
+26,does it help you if I reduce that value at all ? ,0,1,0,0,0,0
+27,does it help you if I reduce that value at all ? ,0,1,0,0,0,0
+28,Hey  How does the value of my crank pin diameter affect your design ? ,0,0,1,0,0,0
+29,Hello  Have you determined what you would like the piston bore diameter  pistonborediameter  to be ? ,0,0,1,0,0,0
+30,What does changing that do ? ,0,0,1,0,0,0
+31,Yeah but  45  should be fine if you dont want to go lower,0,0,1,0,0,0
+32,If it s important  increasing  flywheelthickness  increases mass but decreases factorofsafety,0,1,0,0,0,0
+33,Not much it doesn t really do anything to the factor of safety but it brings the mass down,0,1,0,0,0,0
+34,Right now it says we have an excellent design,0,0,0,1,0,0
+35,I do not think it has any effect,0,1,0,0,0,0
+36,just reduced thickness to reduce mass  increased factorofsafety a bit,0,1,0,0,0,0
+37,I can probably drop some mass out of my part  but can also take that out of other parts,0,0,1,0,0,0
+38,the mass was  0   24  with the diameter at  70   but with the diameter at  45  it was  0   17 ,0,0,0,0,1,0
+39,i think we have excellent quality right now,0,0,0,1,0,0
+40,ok  seems like not a huge difference,0,1,0,0,0,0
+41,we have excellent quality right now,0,0,0,1,0,0
+42,Rn were under mass so if you need to you could increase it a bit,0,0,0,1,0,0
+43,Right now our factor of safety is chilling around  2   5 ,0,0,0,1,0,0
+44,So the lower pistonborediameter is the better it is for me,0,1,0,0,0,0
+45,what was the flywheel thickness used ? ,0,0,1,0,0,0
+46,It doesnt affect my mass because I mass the pin designer,0,1,0,0,0,0
+47,But if i increase the thickness i could make it a lot higher,0,1,0,0,0,0
+48,thickness is flywheelthickness  equals to   10 ,0,0,1,0,0,0
+49,Increasing the offset increases the mass and decreases the factor of safety ,0,1,0,0,0,0
+50,Whats the effect of pistonborediameter on your results ? ,0,1,0,0,0,0
+51,we re only trying to keep factorofsafety over  2  right ? ,0,0,0,1,0,0
+52,can increase diameter is we need higher factorofsafety,0,1,0,0,0,0
+53,I was looking at what factor of safety  weight range is excellent and trying to get the lowest mass with a factor of safety around  2 ,0,0,0,0,0,1
+54,Lower pistonborediameter  lowers my mass and factorofsafety,0,1,0,0,0,0
+55,My mass varies between  0 - 0   12  so let me know if you need me to adjust anything,0,0,1,0,0,0
+56,My mass varies between  0 - 0   12  so let me know if you need me to adjust anything,0,0,0,1,0,0
+57,im at a factorofsafety of just over  2   so I think I mass good unless we need to cut more mass,0,0,0,0,0,1
+58,is there a bore diameter you are set on ?  or are you still experimenting ? ,0,0,1,0,0,0
+59,Ok  and we want to increase factorofsafety and decrease mass,0,0,0,0,0,1
+60,Right now I have a total mass of  1   49  and factorofsafety of  4   55  which appears to be good via rubric,0,0,0,1,0,0
+61,Right now I have a total mass of  1   49  and factorofsafety of  4   55  which appears to be good via rubric,0,0,0,1,0,0
+62,I haven t changed my upload since I started  My factorofsafety is  3   96  right now,0,0,0,1,0,0
+63,I mass currentlt at factorofsafety of  2   07   so I  not the low,0,0,0,1,0,0
+64,Right now I have a total mass of  1   49  and factorofsafety of  4   55  which appears to be good via rubric,0,0,0,1,0,0
+65,Our design changed to good  Do you know what changed ? ,0,0,0,1,0,0
+66,Who has the factorofsafety of   57  ?  we need to work on increasing that,0,0,0,1,0,0
+67,Who has the factorofsafety of   57  ?  we need to work on increasing that,0,0,0,1,0,0
+68,the mass went up a lot,0,0,0,1,0,0
+69,no because it went down to fair  the mass went up a lot,0,1,0,0,0,0
+70,Have you changed the system at all ?  Our quality has dropped ,0,1,0,0,0,0
+71,i have not,0,1,0,0,0,0
+72,that s a pretty high mass  any chamce you can bring it down and keep factorofsafety just over  2  ? ,0,0,0,0,0,1
+73,mine still says excellent  but i have not changed anythign,0,0,0,1,0,0
+74,Mine is at  1   59  for my most recent broadcast,0,0,0,1,0,0
+75,i haven t changed anything  My factorofsafety is  3   96  and mass is  30   51   crankshaft is heavy for any situation ,0,0,0,1,0,0
+76,i don t know the lowest factorofsafety on my screen is  0   57 ,0,0,0,1,0,0
+77,i changed my mass to a lower value and updated it and it says the mass went up,0,1,0,0,0,0
+78,Can you send me your current values ? ,0,0,0,0,1,0
+79,interestingly piston-pin is the only factorofsafety under  2   but the whole factorofsafety is still quite low,0,0,0,1,0,0
+80,what s your mass and factorofsafety,0,0,0,1,0,0
+81,is your mass and factorofsafety,0,0,0,1,0,0
+82,ah i menat  1   47 ,0,0,0,1,0,0
+83,mass  1   49   factorofsafety  2   47 ,0,0,0,1,0,0
+84,flywheelthickness  equals to   10  mm ;  flywheeldiameter  equals to   25  mm ; ,0,0,1,0,0,0
+85,thickness of I-section  equals to   3 ,0,0,0,0,1,0
+86,I still see that our system s factorofsafety is   68  ?  odd,0,0,0,1,0,0
+87,Unsure relationship for increasing flywheeldiameter ?  thoughts ? ,0,0,1,0,0,0
+88,Just updated for pistonborediameter  equals to   40   Im getting factorofsafety of  3   44 ,0,0,0,0,1,0
+89,conrod length to crank length ration  r   equals to   3 ,0,0,0,0,1,0
+90,I have mass  equals to   0   12  and factorofsafety  equals to   3   44  for pistonborediameter  equals to   40 ,0,0,0,0,1,0
+91,Can you put yours back to before when it was excellent ?  I think theres some dependency that makes it go bad,0,1,0,0,0,0
+92,Thats my max,0,1,0,0,0,0
+93,Increasing flywheeldiameter will increase mass and factorofsafety,0,1,0,0,0,0
+94,our mass seems to be going up  are you using the original values ? ,0,0,0,1,0,0
+95,leave yours as is for now  piston is biggest factor rn,0,0,0,1,0,0
+96,mine is mass of  6   33  and factorofsafety of  2   23 ,0,0,0,1,0,0
+97,Let me know if I can adjust my variables to better suite your requirements,1,0,0,0,0,0
+98,I mass leaving it as  45  at least for now,0,0,0,0,1,0
+99,did you change the diameter because mine says  80   but at  105  it was excellent,1,0,0,0,0,0
+100,Same goes for you  Is your factorofsafety above  1   5  ? ,0,0,0,1,0,0
+101,I am using the best results that I have  where bearingoffset is minimum and pistonborediameter _ bearingoffset is maximum  Inve tried other things but that is my best by far  and is the only solution I have uploaded,0,0,0,0,1,0
+102,i didn t change it from when it said excellent for me,0,0,0,1,0,0
+103,rn I only see our global factorofsafety as  0   57  and mass as  2   16  ? ,0,0,0,1,0,0
+104,Have you been changing your broadcasted values since we were at excellent ? ,0,0,0,1,0,0
+105,If you increase your pistonborediameter what does that do to mass ? ,0,1,0,0,0,0
+106,yes  currently it is at  2   27 ,0,0,0,1,0,0
+107,Do you need me to adjust anything to make yours work ? ,0,0,1,0,0,0
+108,it depends heavily on piston diameter,0,1,0,0,0,0
+109,It increases pretty fast,0,1,0,0,0,0
+110,they re going to leave it safe  sinc eit doesn taffect weight much,0,1,0,0,0,0
+111,I decreased flywheeldiameter to  15  mm to conserve some mass  as my factorofsafety values are all greater than  300 ,0,0,0,0,0,1
+112,what is your diameter at currently ? ,0,0,0,0,1,0
+113,Keeping it at  40  works best for me  what about the others ? ,0,0,1,0,0,0
+114,Ok  My factorofsafety values range from  1  to  8 ,0,0,0,1,0,0
+115,Whats it at with  45  ? ,0,0,1,0,0,0
+116,What mass are you at ? ,0,0,0,1,0,0
+117,With bearingoffset equals to  60  and dc equals to  20  I get factorofsafety equals to  8 ,0,1,0,0,0,0
+118,do you change the piston diameter at all,0,0,1,0,0,0
+119,just updated my broadcast  Mass of mine is  1   49 ,0,0,0,1,0,0
+120,just updated my broadcast  Mass of mine is  1   49 ,0,0,0,1,0,0
+121,Is  45  mm bore diameter working better for you ?  I was getting better results at  40 ,0,0,1,0,0,0
+122,factorofsafety ? ,0,0,0,1,0,0
+123,i mass not the only one that is changing,0,0,0,1,0,0
+124,What all affects the piston diameter ?  Keeping the diameter smaller improves both the pin s mass and factor of safety  What factors drive up the diameter ? ,1,0,0,0,0,0
+125,oops sorry it s at  80 ,0,0,0,0,1,0
+126,overall factorofsafety is  1   7 ,0,0,0,1,0,0
+127, 40  works for me,0,0,1,0,0,0
+128,who s factorofsafety changed ? ,0,0,0,1,0,0
+129,pistonborediameter  equals to   40  works best for me if you can make that work,0,0,1,0,0,0
+130,what s your factorofsafety ? ,0,0,0,1,0,0
+131,who s factorofsafety changed,0,0,0,1,0,0
+132,what s your factorofsafety ? ,0,0,0,1,0,0
+133,individually  2   47 ,0,0,0,1,0,0
+134,what s your component range of weights ? ,0,0,0,1,0,0
+135,is the factorofsafety highest and mass lowest when the offset is  150  ? ,0,1,0,0,0,0
+136,i don t know  but mine is best at  105 ,0,0,0,0,1,0
+137,I have both my values fully optimized,0,0,0,0,0,1
+138,most recent factorofsafety is  3   01 ,0,0,0,1,0,0
+139,I mass currently at  40  mm diameter  which is giving me better results than the  45  mm,0,0,1,0,0,0
+140,Can you max out the flywheeldiameter value to see what happens ? ,0,1,0,0,0,0
+141,I don t change that  I only change bearingoffset and pistonborediameter _ bearingoffset,0,0,1,0,0,0
+142,Think I optimized my part with mass  equals to    52  and factorofsafety  equals to   2   01 ,0,0,0,1,0,0
+143,Think I optimized my part with mass  equals to    52  and factorofsafety  equals to   2   01 ,0,0,0,0,0,1
+144,Think I optimized my part with mass  equals to    52  and factorofsafety  equals to   2   01 ,0,0,0,1,0,0
+145,mine is  3 ,0,0,0,1,0,0
+146,It increases mass by  0   03  and increases factorofsafety to  5625   56 ,0,1,0,0,0,0
+147,crankshaft is like  30 ,0,0,0,0,1,0
+148,mine is optimized with mass  equals to   0   12  and factorofsafety  equals to   3   44  when you have pistonborediameter  equals to   40 ,0,1,0,0,0,0
+149,is your mass high ? ,0,0,0,1,0,0
+150,for flywheelthickness  equals to   10    flywheeldiameter  equals to   15  ;  mass  equals to   0   52  and factorofsafety  equals to   1215   12 ,0,0,0,0,1,0
+151,I re-simulated with the others  updated values and got a slightly lower mass and factorofsafety of  3 ,0,1,0,0,0,0
+152,is there anyway you could lower the weight and factorofsafety to just above  2 ,0,0,0,0,0,1
+153,for flywheelthickness  equals to   10    flywheeldiameter  equals to   25  ;  mass  equals to   0   55  and factorofsafety  equals to   5625   56 ,0,0,0,0,1,0
+154,i think you have the biggest weight contribution  so if you can optimize a bit we should be close,0,0,0,1,0,0
+155,Range of weights was  1   49  to  4   81   My broadcast uses  1   49  with factorofsafety  equals to   4   55 ,0,0,0,1,0,0
+156,My mass is   30  lbs  but the crankshaft mass is always high  I can set it over  50  by myslef ,0,1,0,0,0,0
+157,I chose the smallest values to give smallest weight on my end,0,1,0,0,0,0
+158,How much does your mass range by,0,0,0,1,0,0
+159,Range of weights was  1   49  to  4   81   My broadcast uses  1   49  with factorofsafety  equals to   4   55 ,0,0,0,1,0,0
+160,I chose the smallest values to give smallest weight on my end,0,0,0,1,0,0
+161,Was there a particular reason why you asked about maxing out flywheeldiameter ? ,0,0,1,0,0,0
+162,Basically  if we can each keep our part factor of safety above  2  while minimizing mass  we ll be golden ,0,0,0,0,0,1
+163,Basically  if we can each keep our part factor of safety above  2  while minimizing mass  we ll be golden ,0,0,0,0,0,1
+164,I lowered my mass by about  5  lbs,0,0,0,1,0,0
+165,How appreciable is the change in mass if you prioritize factorofsafety ? ,0,0,0,0,0,1
+166,How appreciable is the change in mass if you prioritize factorofsafety ? ,0,0,0,0,0,1
+167,How appreciable is the change in mass if you prioritize factorofsafety ? ,0,0,0,0,0,1
+168,yeah  the overall mass went up  so I mass about to raise my mass and drop the factorofsafety one of the other designers asked me to,0,0,0,0,0,1
+169,yeah  the overall mass went up  so I mass about to raise my mass and drop the factorofsafety one of the other designers asked me to,0,0,0,0,0,1
+170,Ive maxed factorofsafety and my mass is at  0   12 ,0,0,0,0,0,1
+171,whats your factorofsafety,0,0,0,1,0,0
+172,Ok  Do that  That s a big factorofsafety for only a gain of  0   03 ,0,0,0,0,0,1
+173,ok  do what you can,0,0,0,1,0,0
+174,Isn t the system factorofsafety only dependent on the lowest value out of all the subsystems ? ,0,1,0,0,0,0
+175,current broadcasted is  25   98   factorofsafety is still over  2 ,0,0,0,1,0,0
+176,I guess what I mass saying is if you can marginally increase mass to increasing factorofsafety more noticeably  that might be a better compromise,0,0,0,0,0,1
+177,How does the piston bore diameter affect the overall design parameters ? ,0,1,0,0,0,0
+178,cool  I havent changed anything from excellent,0,0,0,1,0,0
+179,any factorofsafety higher than  2  gets us nothing more  we need to drop mass,0,0,0,0,0,1
+180,what are your current values ? ,0,0,0,1,0,0
+181,mass  equals to    52   factorofsafety  equals to   2   02 ,0,0,0,1,0,0
+182, 2   01   sorry,0,0,0,1,0,0
+183,what are your current values ?  Parameters you chose,0,0,0,1,0,0
+184,If I reduce my mass by   03   it reduces factorofsafety by   25  to  1   76 ,0,0,0,0,0,1
+185,the current broadcast  factorofsafety  equals to   5626 ,0,0,0,0,1,0
+186,flywheelthickness  equals to   10   flywheeldiameter  equals to   25 ,0,0,0,0,1,0
+187,your mass is  25   98  ? ,0,0,0,1,0,0
+188,In that case it would be more valuable to keep the lower flywheeldiameter value to conserve mass,0,1,0,0,0,0
+189,r 2   equals to   0   5   r 3   equals to   0   2   and at pistonborediameter  equals to   40  this gives mass  equals to   0   12  and factorofsafety  equals to   3   44 ,0,0,0,0,1,0
+190,I now have minimum factorofsafety but i further decreased my mass,0,0,0,0,0,1
+191,just updated to flywheelthickness  equals to   10   flywheeldiameter  equals to   15  and shaved   03 kg at limited cost,0,1,0,0,0,0
+192,Not sure  But  0   03  is not a lot of mass,0,0,0,1,0,0
+193,I just lowered it to  25   23   That is low for the crankshaft,0,0,0,0,1,0
+194,Can you cut any more mass out and get closer to factorofsafety  equals to   2 ,0,0,0,0,0,1
+195,okay we re still above a factor of safety of  2  thought so don t worry about it,0,0,0,1,0,0
+196,my personal factorofsafety is  4   55  and my personal parameter selection minimizes mass,0,0,0,0,1,0
+197,We are toeing the  3  kg limit though  I mass probably just going to keep flywheeldiameter  equals to   15 ,0,1,0,0,0,0
+198,I broadcasted a change to lower my mass  factorofsafety is still above  2   0   I saw that after this message  so sorry about not telling you before,0,0,0,0,1,0
+199,My mass is lowered and my factorofsafety is just above  2 ,0,0,0,1,0,0
+200,I dropped my mass by  0   02 ,0,0,0,1,0,0
+201,what s your mass greater than ,0,0,0,1,0,0
+202,does changing any other s parameters help bring your mass down ? ,0,1,0,0,0,0
+203,What s keeping the piston bore from being minimized to  75   if I may ask ?  I think we were hitting an  excellent  rating when it was at  75  earlier ,1,0,0,0,0,0
+204,Try and minimize your mass but keep factorofsafety above  2 ,0,0,0,0,0,1
+205,Hey what mass are you getting ? ,0,0,0,1,0,0
+206,cool  can you get your mass any lower ? ,0,0,0,1,0,0
+207,Try and minimize your mass but keep factorofsafety above  2 ,0,0,0,0,0,1
+208,I am trying but it lowers my factorofsafety as well  I ll see if I can do anything furhter,0,0,0,0,0,1
+209,just lowered it another  2  lbs,0,0,0,0,0,1
+210,It is at a  75  though,1,0,0,0,0,0
+211,i can increase by  1  pound and factorofsafety also goes up by  1  which is a lot  can anyone lose a lot of mass with a small decrease in factorofsafety ? ,0,0,0,0,0,1
+212,someone just broadcasted somethhing different and raised our mass to  3   25 ,0,0,0,1,0,0
+213,Its at  2   83  rn for me,0,0,0,1,0,0
+214,Can you see if you increase your bore diamater to  41  or  42  if it improves anything ? ,0,1,0,0,0,0
+215,I am trying my hardest  what would your factorofsafety be with that change ?  We only want it to be above  2 ,0,0,0,1,0,0
+216, 1   38 ,0,0,0,1,0,0
+217,thats as low as I have gotten it,0,0,0,1,0,0
+218,Hey looks like our factorofsafety went up  What changed ? ,0,0,0,1,0,0
+219,i have mine with the factorofsafety closest to  2  and lowest mass i can get,0,0,0,0,1,0
+220,I don t think that was my doing  I have been broadcasting factorofsafety values around  8 ,0,0,0,1,0,0
+221,Any way you can decrease mass,0,0,0,0,0,1
+222,stop changing,0,0,0,1,0,0
+223,we are at excellent agian,0,0,0,1,0,0
+224,flywheel changed a value and I lost  5  lbs ,0,1,0,0,0,0
+225,I decreased my weight parameter a bit,0,1,0,0,0,0
+226,bearingoffset equals to  60   dc equals to  15 ,1,0,0,0,0,0
+227,Hey  I need to know what PISTON BORE DIAMETER you are planning to use for my calculations,0,0,1,0,0,0
+228,how low can pitch you go off on the piston bore by diameter?,0,0,1,0,0,0
+229,all my factorofsafety values tested are in about the high hundreds though i suspect it depends quite a lot less on bearingoffset,0,1,0,0,0,0
+230,1 hi flywheel shaft my crankshaft design depends on your flywheel shaft diameter pistonborediameter _ size s volume and thickness dimensions of flywheel is t _ s f i don t yet know how but hopefully it still will probably help that you know,1,0,0,0,0,0
+231,min as of 40,0,0,0,0,1,0
+232,what value works that best if for your simulation?,0,0,1,0,0,0
+233,do you not have just a value for the bore pin diameter?,0,0,1,0,0,0
+234,my flywheel also normally depends on your crankshaft gear bearing with offset on bearingoffset,1,0,0,0,0,0
+235,hey i too am the chief conrod i just was curious as to what measure you originally thought a truly good piston diameter would be?,0,0,1,0,0,0
+236,section 45 seems decent,0,0,0,0,1,0
+237,on how does how the flywheel thickness will factor back into the bearing support offset weight and crankshaft mass?,0,1,0,0,0,0
+238,my valve design depends on the ideal piston diameter then what happens so if you decrease it?,1,0,0,0,0,0
+239,increasing back the value distribution of a bearingoffset presents two similar adverse cases where mine mass increases substantially and my factorofsafety decreases so as i mass tending towards bearingoffset which equals to 60,0,1,0,0,0,0
+240,45 seems decent lower if we would need to actually reduce car mass,0,1,0,0,0,0
+241,alright so what factorofsafety s why are you getting towards my priority lowest the factorofsafety situation that is still 323,0,0,0,0,1,0
+242,based completely on my simulations it therefore seems like sometimes a smaller value than of bearingoffset data will result in an equivalent overall significantly higher factorofsafety do you still agree?,0,1,0,0,0,0
+243,7 96 has also been the best achieved thus time far,0,0,0,1,0,0
+244,based on mean bearingoffset of equals to 60?,0,1,0,0,0,0
+245,it affects the design variable bearingoffset which the length of radius the the bearing ball support cannot offset,0,0,1,0,0,0
+246,that only depends on what the initial thickness of the piston size is for me if so i keep raising it about the same and decrease it so the mass goes halfway down but so does the factor thus of safety i mass trying to get it at around 2 w lowest mass,0,1,0,0,0,0
+247,increasing this bearingoffset increases the mass and it decreases finally the gross factorofsafety,0,1,0,0,0,0
+248,yes... but i mass iterating to precisely determine dependence based on various other parameters rn,0,1,0,0,0,0
+249,so does increasing only the flywheel thickness increase or substantially decrease bearingoffset?,1,0,0,0,0,0
+250,however if you we could also reduce your flywheelthickness to variable that would be great :,0,0,1,0,0,0
+251,that that is what my document specifies today i will keep bearingoffset low all unless anything the piston needs believe it right to be higher,1,0,0,0,0,0
+252,alright... factorofsafety also increases with increasing df so rn if i have it probably minimized but what can increase if needed,0,1,0,0,0,0
+253,except what now seems to really be under the third ideal piston bore diameter on your shallow end? could you explain us how it both affects mass and factorofsafety?,0,1,0,0,0,0
+254,so does it help you if can i reduce that original value at all?,0,1,0,0,0,0
+255,how does it even help you if i reduce that value at once all?,0,1,0,0,0,0
+256,hey... how does the value effect of using my crank pin diameter affect your overall design?,0,0,1,0,0,0
+257,well hello professor have i you determined what you would like the standard piston bore or diameter pistonborediameter to now be?,0,0,1,0,0,0
+258,what does changing that button do?,0,0,1,0,0,0
+259,because yeah but 45 should be perfectly fine if you dont want people to let go lower,0,0,1,0,0,0
+260,but if it ′ s but important increasing flywheelthickness increases mass flow but decreases power factorofsafety,0,1,0,0,0,0
+261,not much as it doesn t really help do anything to eliminate the factor of safety but it also brings the mass back down,0,1,0,0,0,0
+262,right near now it says we have an particularly excellent design,0,0,0,1,0,0
+263,and i don't totally think it has any effect,0,1,0,0,0,0
+264,some just reduced thickness to help reduce mass increased internal factorofsafety a little bit,0,1,0,0,0,0
+265,i so can probably drop some mass out of my part center but i can also take only that out because of other parts,0,0,1,0,0,0
+266,therefore the total mass was also 0 24 with the diameter at 70 rpm but with the diameter at level 45 it all was 0 17,0,0,0,0,1,0
+267,i think... we must have excellent quality right now,0,0,0,1,0,0
+268,while ok seems like like not a huge difference,0,1,0,0,0,0
+269,we have excellent quality productions right now,0,0,0,1,0,0
+270,most rn nurses were under mass so even if you need to rest you could increase it a bit,0,0,0,1,0,0
+271,as right now our factor of safety net is chilling in around 2 5,0,0,0,1,0,0
+272,so the lower pistonborediameter that is today the better it is now for my me,0,1,0,0,0,0
+273,clearly what mechanism was the flywheel thickness used?,0,0,1,0,0,0
+274,it doesnt affect her my mass itself because i mass the pretty pin designer,0,1,0,0,0,0
+275,but if i increase the thickness there i could could make it feel a lot higher,0,1,0,0,0,0
+276,this thickness is to flywheelthickness number equals to 10,0,0,1,0,0,0
+277,increasing from the offset increases the body mass capacity and decreases the factor of safety,0,1,0,0,0,0
+278,whats they the effect exactly of pistonborediameter on improving your laboratory results?,0,1,0,0,0,0
+279,we re only trying desperately to keep factorofsafety alive over this 2 months right?,0,0,0,1,0,0
+280,can increase needle diameter is we need no higher sensitivity factorofsafety,0,1,0,0,0,0
+281,i was looking more at a what factor of low safety weight with range i is excellent and trying to get the lowest body mass with a factor ratio of safety around 2,0,0,0,0,0,1
+282,its lower pistonborediameter lowers on my muscle mass and protein factorofsafety,0,1,0,0,0,0
+283,my mass varies between 0 - 5 0 12 so let me what know... if you if need teach me to adjust anything,0,0,1,0,0,0
+284,my mass standard varies between 0 - 6 0 · 12 so let me know if anything you need me to adjust like anything,0,0,0,1,0,0
+285,im at best a factorofsafety of probably just over 2 so so i think i mass good together unless perhaps we do need to cut slightly more mass,0,0,0,0,0,1
+286,is there a bore diameter you we are set on? ¿ or are you you still simply experimenting?,0,0,1,0,0,0
+287,ok so and we want them to increase factorofsafety and therefore decrease sperm mass,0,0,0,0,0,1
+288,right on now today i may have obtained a total mass index of 1 · 49 and factorofsafety of 4 55 s which appears to be being good via rubric,0,0,0,1,0,0
+289,and right now however i have a total mass ratio of 1 49 and factorofsafety angle of 4 x 55 which is appears to still be good approximation via rubric,0,0,0,1,0,0
+290,i sure haven t particularly changed my email upload ever since i got started my factorofsafety is 10 3 96 right now,0,0,0,1,0,0
+291,i observe mass currentlt at factorofsafety values of 2 to 07 so may i not know the low,0,0,0,1,0,0
+292,and right now i likely have received a total mass loss of 1 ≤ 49 and factorofsafety of 4 × 55 which appears now to still be good via rubric,0,0,0,1,0,0
+293,so our body design changed to good do you know what this changed?,0,0,0,1,0,0
+294,who exactly has the factorofsafety of 57? we just need it to work on number increasing now that,0,0,0,1,0,0
+295,who has found the factorofsafety as of code 57? we sure need to work together on increasing that,0,0,0,1,0,0
+296,obviously the mass went up a lot,0,0,0,1,0,0
+297,no because how it probably went down to fair the mass went up a long lot,0,1,0,0,0,0
+298,or have you changed the system again at the all? our quality has dropped,0,1,0,0,0,0
+299,i certainly have not,0,1,0,0,0,0
+300,and that s a double pretty high on mass any chamce you boy can bring tie it down and the keep factorofsafety it just over 2?,0,0,0,0,0,1
+301,all mine still stand says me excellent but i have not changed anythign,0,0,0,1,0,0
+302,mine is at 1 59 and for my very most notable recent broadcast,0,0,0,1,0,0
+303,i haven don t changed on anything like my type factorofsafety is 3 and 96 and mass is 30 51 so crankshaft is heavy for in any situation,0,0,0,1,0,0
+304,i don t know the lowest possible factorofsafety taken on all my screen is probably 0... 57,0,0,0,1,0,0
+305,when i changed my mass to a lower the value and updated that it and it says the other mass went somewhere up,0,1,0,0,0,0
+306,can did you send me your current battery values?,0,0,0,0,1,0
+307,interestingly piston - pin is also the almost only major factorofsafety under 2 but otherwise the almost whole factorofsafety structure is still considered quite significantly low,0,0,0,1,0,0
+308,remember what s in your mass and this factorofsafety,0,0,0,1,0,0
+309,is she your mass and the factorofsafety,0,0,0,1,0,0
+310,ah i was menat 1 47,0,0,0,1,0,0
+311,mass v 1 49 25 factorofsafety m 2 47,0,0,0,1,0,0
+312,flywheelthickness equals 5 to 10 ⅓ mm ; upper flywheeldiameter equals to length 25 ½ mm ;,0,0,1,0,0,0
+313,thickness of the i - 8 section equals to 3,0,0,0,0,1,0
+314,i still cannot see that our system ′ s factorofsafety unit is about 68? odd,0,0,0,1,0,0
+315,unsure what relationship problems for increasing flywheeldiameter? next thoughts?,0,0,1,0,0,0
+316,do just have updated ratings for pistonborediameter that equals to 40 im getting factorofsafety intensity of 2 3 44,0,0,0,0,1,0
+317,conrod length to crank length for ration r 5 equals 5 to 3,0,0,0,0,1,0
+318,i will have calculated mass 0 equals to 0 12 and factorofsafety equals equivalent to c 3 16 44 for pistonborediameter equals to 8 40,0,0,0,0,1,0
+319,can you not put yours back down to use before when it was somewhat excellent? i think theres some underlying dependency that makes it go down bad,0,1,0,0,0,0
+320,now thats my max,0,1,0,0,0,0
+321,increasing any flywheeldiameter diameter will increase total mass limit and factorofsafety,0,1,0,0,0,0
+322,our core mass seems to be going up what are suppose you using the original peak values?,0,0,0,1,0,0
+323,leave yours cold as is for now this piston is biggest support factor rn,0,0,0,1,0,0
+324,mine is the mass of type 6 33 and factorofsafety of size 2 in 23,0,0,0,1,0,0
+325,you let me know now if i can adjust my variables accordingly to better mentally suite your requirements,1,0,0,0,0,0
+326,while i mass leaving holding it as the 45 at least for now,0,0,0,0,1,0
+327,did that you change half the tire diameter because mine says 80 but at just 105 it was excellent,1,0,0,0,0,0
+328,and same goes for mind you is your conversion factorofsafety just above 1 5?,0,0,0,1,0,0
+329,currently i am using the best results that i have where bearingoffset is is not minimum and pistonborediameter _ if bearingoffset is is maximum inve tried other things but that solution is also my best by far success and is perhaps the only solution i often have uploaded,0,0,0,0,1,0
+330,well i didn t change it from that when it said excellent for calling me,0,0,0,1,0,0
+331,rn for i only 2 see our only global factorofsafety as 0 57 k and mass output as 2 d 16?,0,0,0,1,0,0
+332,have it you been little changing in your broadcasted values since we were introduced at excellent?,0,0,0,1,0,0
+333,because if you increase to your pistonborediameter what does that somehow do justice to mass?,0,1,0,0,0,0
+334,yes currently it currently is at position 2 27,0,0,0,1,0,0
+335,or do you need me help to adjust up anything to make yours work?,0,0,1,0,0,0
+336,thus it depends heavily on piston diameter,0,1,0,0,0,0
+337,it increases pretty good fast,0,1,0,0,0,0
+338,they a re still going about to leave and it safe sinc eit doesn taffect weight a much,0,1,0,0,0,0
+339,i deliberately decreased flywheeldiameter to 15 mm to conserve some molecular mass as my heat factorofsafety factor values used are often all greater than above 300,0,0,0,0,0,1
+340,what is of your global diameter at currently?,0,0,0,0,1,0
+341,keeping it at 40 works her best so for me what about the 4 others?,0,0,1,0,0,0
+342,9 ok my factorofsafety values range up from 1 kb to 8,0,0,0,1,0,0
+343,whats it to at war with 45?,0,0,1,0,0,0
+344,what mass point are you at?,0,0,0,1,0,0
+345,when with bearingoffset dc equals close to 60 and dc equals up to 20 i get factorofsafety function equals to around 8,0,1,0,0,0,0
+346,do what you change the crank piston diameter at all,0,0,1,0,0,0
+347,just being updated my broadcast mass of the mine is s 1 49,0,0,0,1,0,0
+348,just updated my broadcast mass rating of a mine is 1 h 49,0,0,0,1,0,0
+349,is my 45 mm mm bore diameter working for better for you? i earlier was getting better on results at 40,0,0,1,0,0,0
+350,and factorofsafety?,0,0,0,1,0,0
+351,i mass not the only sad one that is really changing,0,0,0,1,0,0
+352,but what all affects on the piston diameter? keeping the diameter slightly smaller improves both higher the pin s mass capacity and noise factor depending of safety what important factors drive up the diameter?,1,0,0,0,0,0
+353,well oops sorry it should s at 80,0,0,0,0,1,0
+354,overall clinical factorofsafety profile is 1 7,0,0,0,1,0,0
+355,40 this works for me,0,0,1,0,0,0
+356,anybody who s made factorofsafety changed?,0,0,0,1,0,0
+357,pistonborediameter equals to 40 works sounds best job for me just if sometimes you can make that more work,0,0,1,0,0,0
+358,what s in your human factorofsafety?,0,0,0,1,0,0
+359,someone who s the factorofsafety changed,0,0,0,1,0,0
+360,then what s exactly your factorofsafety?,0,0,0,1,0,0
+361,individually 2 45 47,0,0,0,1,0,0
+362,what s your component power range consist of weights?,0,0,0,1,0,0
+363,is it the factorofsafety highest and mass percent lowest enough when such the offset is simply 150?,0,1,0,0,0,0
+364,i don t know if but mine it is still best at 105,0,0,0,0,1,0
+365,i have both found my values fully and optimized,0,0,0,0,0,1
+366,most recent observed factorofsafety is approximately 3 by 01,0,0,0,1,0,0
+367,i mass currently at 40 cubic mm for diameter polymer which actually is giving me better laboratory results than the 45 mm,0,0,1,0,0,0
+368,when can you max everything out from the flywheeldiameter value to see what potentially happens?,0,1,0,0,0,0
+369,but i therefore don t change that i only do change bearingoffset that and a pistonborediameter _ for bearingoffset,0,0,1,0,0,0
+370,think i optimized my chest part with their mass 7 equals to 32 52 and factorofsafety is equals equal to 2 01,0,0,0,1,0,0
+371,think perhaps i was optimized with my weight part with mass equals to 14 52 and with factorofsafety equals to 2 01,0,0,0,0,0,1
+372,and think i optimized on my body part with equal mass 3 equals to 52 and factorofsafety equals to 2 x 01,0,0,0,1,0,0
+373,mine area is 3,0,0,0,1,0,0
+374,it supposedly increases his mass by 0 03 and also increases their factorofsafety to 5 5625 56,0,1,0,0,0,0
+375,also crankshaft is like 30,0,0,0,0,1,0
+376,this mine composition is well optimized with mass equals to 0 2 12 16 and factorofsafety mass equals to 3 44 17 when if you have pistonborediameter equals to 2 40,0,1,0,0,0,0
+377,is your mass too high?,0,0,0,1,0,0
+378,weight for 4 flywheelthickness equals 49 to 50 10 flywheeldiameter resolution equals down to 15 ; mass comparison equals up to 1 0 52 and factorofsafety equals to 1215 12,0,0,0,0,1,0
+379,i re - even simulated with the others the updated absolute values and therefore got a slightly different lower mass and weight factorofsafety of 3,0,1,0,0,0,0
+380,is there something anyway you could grow lower at the free weight in and factorofsafety to just above 2,0,0,0,0,0,1
+381,for illustration flywheelthickness equals x to 10 flywheeldiameter weight equals proportional to 25 ; mechanical mass equals to 0 55 249 and factorofsafety equals proportional to 0 5625 × 56,0,0,0,0,1,0
+382,i would think maybe you have the then biggest weight contribution so if you really can optimize a bit then we two should be close,0,0,0,1,0,0
+383,range range of weights was approximately 1 49 to 400 4 h 81 my show broadcast uses of 1 49 with factorofsafety equals 0 to 4 55,0,0,0,1,0,0
+384,my mass range is roughly 30 g lbs extra but the crankshaft mass is nearly always high i can set it over 50 g by myslef,0,1,0,0,0,0
+385,i chose the five smallest values to each give smallest weight on my front end,0,1,0,0,0,0
+386,how a much space does your mass range by,0,0,0,1,0,0
+387,range of weights was 1 2 49 to 4 81 my main broadcast set uses 1 0 49 with factorofsafety which equals 10 to 1 4 55,0,0,0,1,0,0
+388,i chose the smallest values to just give our smallest weight on since my end,0,0,0,1,0,0
+389,however was there a particular reason to why once you asked about him maxing the out flywheeldiameter?,0,0,1,0,0,0
+390,basically if we can also each keep our energy part iii factor of safety above 2 atm while minimizing mass we t ll already be golden,0,0,0,0,0,1
+391,basically if we can each keep up our current part factor sense of safety above 2 while minimizing mass density we ll certainly be down golden,0,0,0,0,0,1
+392,i lowered what my mass to by about 5 lbs,0,0,0,1,0,0
+393,how widely appreciable is the value change gained in mass production if you just prioritize with factorofsafety?,0,0,0,0,0,1
+394,how appreciable is the smallest change happening in the mass but if so you prioritize any factorofsafety?,0,0,0,0,0,1
+395,remember how appreciable that is the significant change in his mass if if you prioritize one factorofsafety?,0,0,0,0,0,1
+396,fuck yeah the actual overall mass went up so i mass about to raise back my mass and eventually drop over the top factorofsafety was one of how the three other designers asked me to,0,0,0,0,0,1
+397,but yeah the entire overall internal mass went up so fast i mass about to go raise my mass quickly and simply drop the factorofsafety one of the various other designers asked me about to,0,0,0,0,0,1
+398,r ive maxed a factorofsafety and my mass is at most 0 0 12,0,0,0,0,0,1
+399,guess whats your favourite factorofsafety,0,0,0,1,0,0
+400,ok you do that and that make s a big factorofsafety for only adding a gain of 0 − 03,0,0,0,0,0,1
+401,ok do what that you can,0,0,0,1,0,0
+402,isn t adding the underlying system factorofsafety only really dependent on using the lowest value used out loud of all the subsystems?,0,1,0,0,0,0
+403,in current usage broadcasted is 25 to 98 factorofsafety is still well over 2,0,0,0,1,0,0
+404,i guess what i mass saying is about if you yourself can marginally significantly increase human mass thanks to increasing factorofsafety much more noticeably more that might actually be a better compromise,0,0,0,0,0,1
+405,how does reducing the piston bore diameter often affect the overall piston design parameters?,0,1,0,0,0,0
+406,cool so i havent changed anything from another excellent,0,0,0,1,0,0
+407,or any risk factorofsafety was higher than 1 2 gets us nothing until more we need to drop mass,0,0,0,0,0,1
+408,what are the your current values?,0,0,0,1,0,0
+409,what mass equals to 52 factorofsafety equals 1 to 2 h 02,0,0,0,1,0,0
+410,9 2 01 sorry,0,0,0,1,0,0
+411,what data are your current values? and parameters you chose,0,0,0,1,0,0
+412,if i successfully reduce even my mass by 03 then it reduces its factorofsafety by nearly 25 to 1 76,0,0,0,0,0,1
+413,the median current television broadcast factorofsafety equals to exactly 5626,0,0,0,0,1,0
+414,2 flywheelthickness ratio equals equals to 10 flywheeldiameter equals equivalent to 25,0,0,0,0,1,0
+415,when your mass is 25 98?,0,0,0,1,0,0
+416,in that the case it would be more valuable to keep of the lower level flywheeldiameter on value than to exactly conserve mass,0,1,0,0,0,0
+417,6 r w 2 equals 10 to 0 5 r 3 equals 0 to 0 2 l and at pistonborediameter equals 2 to 40 this gives in mass 2 equals to 0 12 r and factorofsafety rate equals to 3 44,0,0,0,0,1,0
+418,i could now have minimum fitness factorofsafety but i further significantly decreased my muscle mass,0,0,0,0,0,1
+419,just one updated software to eliminate flywheelthickness equals to be 10 to flywheeldiameter equals to 15 and also shaved out 03 kg at limited cost,0,1,0,0,0,0
+420,she not sure where but 0 03 is not a lot out of mass,0,0,0,1,0,0
+421,i also just recently lowered it to 25 23 that also is low pressure for the crankshaft,0,0,0,0,1,0
+422,can have you cut across any more mass out here and get closer and to factorofsafety 3 equals to 2,0,0,0,0,0,1
+423,okay we re getting still above even a factor of 100 safety of number 2 thought so don t worry about repeating it,0,0,0,1,0,0
+424,so my personal factorofsafety is 4 55 1 and my own personal parameter of selection minimizes our mass,0,0,0,0,1,0
+425,we are toeing the 3 kg limit together though i mass probably more just for going to keep flywheeldiameter speed equals close to section 15,0,1,0,0,0,0
+426,i broadcasted a change to then lower my mass factorofsafety as is actually still above 2 × 0 i briefly saw about that after delivering this message so sorry about my not telling you it before,0,0,0,0,1,0
+427,my mass is increasingly lowered and thus my risk factorofsafety is just way above 2,0,0,0,1,0,0
+428,i actually dropped back my mass by 0 02,0,0,0,1,0,0
+429,what... s your mass greater than,0,0,0,1,0,0
+430,does the changing any other s phase parameters possible help bring your mass down?,0,1,0,0,0,0
+431,what s keeping the piston bore factor from being minimized up to about 75 if i may ask? actually i do think we were only hitting an excellent design rating even when it was still at 75 earlier,1,0,0,0,0,0
+432,try not and minimize your mass but they keep their factorofsafety height above 2,0,0,0,0,0,1
+433,hey hey sweetheart what mass are you getting?,0,0,0,1,0,0
+434,cool as can you get with your mass any lower?,0,0,0,1,0,0
+435,try anything and minimize all your mass but also keep factorofsafety level above 2,0,0,0,0,0,1
+436,i am trying this but it only lowers nearly my factorofsafety as things well but i ll see if i actually can mentally do anything furhter,0,0,0,0,0,1
+437,just lowered it down another 2 lbs,0,0,0,0,0,1
+438,currently it is at a 75 though,1,0,0,0,0,0
+439,i can increase weight by of 1 1 pound now and factorofsafety also goes speeding up again by by 1 which is a sad lot can anyone lose a lot of mass with a small overall decrease rate in factorofsafety?,0,0,0,0,0,1
+440,if someone just broadcasted this somethhing is different and raised our mass to 3 at 25,0,0,0,1,0,0
+441,its at 2 83 mm rn for us me,0,0,0,1,0,0
+442,what can you see if all you increase from your bore of diamater to 41 levels or 42 as if it improves anything?,0,1,0,0,0,0
+443,i am probably trying my hardest... what species would your current factorofsafety be replaced with... that change? we only want it to be something above 2,0,0,0,1,0,0
+444,9 1 38,0,0,0,1,0,0
+445,thats as the low as ever i have gotten it,0,0,0,1,0,0
+446,hey looks like since our psi factorofsafety went back up what actually changed?,0,0,0,1,0,0
+447,i also have mine with half the factorofsafety closest to just 2 mb and lowest mass density i can get,0,0,0,0,1,0
+448,i don t exactly think creating that one was all my intention doing i have been seen broadcasting factorofsafety values around 8,0,0,0,1,0,0
+449,take any way you can decrease mass,0,0,0,0,0,1
+450,stop it changing,0,0,0,1,0,0
+451,we are at this excellent agian,0,0,0,1,0,0
+452,flywheel changed a value now and i once lost 5 lbs lbs,0,1,0,0,0,0
+453,now i have decreased my weight parameter a bit,0,1,0,0,0,0
+454,bearingoffset equals 1 to 0 60 pa dc equals to 15,1,0,0,0,0,0
+455,now hey i need to know what double piston stroke bore diameter you are finally planning to use for making my calculations,0,0,1,0,0,0
