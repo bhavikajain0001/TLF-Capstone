@@ -1,0 +1,28 @@
+fine_label utterance
+Prov_Info overall FOS is 1.7
+Ask_info what is your diameter at currently?
+Prov_Info oops sorry it's at 80
+Prov_Info mass 1.49, fos 2.47
+Prov_Info just lowered it another 2 lbs
+Prov_Info It increases mass by 0.03 and increases FOS to 5625.56
+Prov_Info mine is optimized with m = 0.12 and fos = 3.44 when you have D = 40
+Ask_info Hey what mass are you getting?
+Ask_info What value works best for your simulation?
+Ask_info is your mass and fos
+Prov_Info that depends on what the thickness of the piston is for me, if I keep it the same and decrease it the mass goes down but so does the factor of safety, I'm trying to get it around 2 w/ lowest mass
+Prov_Info I decreased my weight parameter a bit
+Ask_info What mass are you at?
+Prov_Info In that case it would be more valuable to keep the lower ds value to conserve mass
+Ask_info What all affects the piston diameter? Keeping the diameter smaller improves both the pin's mass and factor of safety. What factors drive up the diameter?
+Ask_info Have you been changing your broadcasted values since we were at excellent?
+Ask_info Can you cut any more mass out and get closer to FOS  = 2
+Prov_Info just reduced thickness to reduce mass, increased fos a bit
+Ask_info does it help you if I reduce that value at all?
+Ask_info But if i increase the thickness i could make it a lot higher
+Ask_info Same goes for you.  Is your FOS above 1.5?
+Ask_info you're in charge of the crankshaft bearing offset, right?
+Prov_Info I am trying but it lowers my fos as well. I'll see if I can do anything furhter
+Prov_Info yeah, the overall mass went up, so I'm about to raise my mass and drop the fos one of the other designers asked me to 
+Ask_info like parameters you chose
+Prov_Info tf = 10 mm; ds = 25 mm;
+Prov_Info Not much
