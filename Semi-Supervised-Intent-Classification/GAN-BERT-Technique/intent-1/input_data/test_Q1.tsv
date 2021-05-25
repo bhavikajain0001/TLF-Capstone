@@ -1,0 +1,55 @@
+fine_label utterance
+Prov_Info mine is 3
+Prov_Info You probably want to check with the piston
+Prov_Info c=60, dc=15
+Prov_Info most recent fos is 3.01
+Prov_Info thickness of I-section = 3
+Ask_info What does changing that do?
+Prov_Info Increasing "c" increases the mass and decreases the FOS
+Prov_Info I don't change that. I only change c and d_c
+Prov_Info I'm currentlt at FOS of 2.07, so I', not the low
+Prov_Info It affects the design variable "c", which the length of the bearing support offset
+Ask_info your mass is 25.98?
+Prov_Info I just lowered it to 25.23. That is low for the crankshaft
+Prov_Info I haven't changed my upload since I started. My fos is 3.96 right now
+Prov_Info Try and minimize your mass but keep fos above 2
+Ask_info rn I only see our global FOS as 0.57 and mass as 2.16?
+Prov_Info I do not think it has any effect
+Prov_Info for tf = 10 & ds = 15; m = 0.52 and FOS = 1215.12
+Prov_Info Not sure. But 0.03 is not a lot of mass
+Prov_Info I decreased ds to 15 mm to conserve some mass, as my FOS values are all greater than 300
+Prov_Info Yes, I just posted an updated broadcast
+Prov_Info Think I optimized my part with m = .52 and FOS = 2.01
+Prov_Info Think I optimized my part with m = .52 and FOS = 2.01
+Ask_info Whats it at with 45?
+Prov_Info no because it went down to fair, the mass went up a lot
+Prov_Info Right now I have a total mass of 1.49 and FOS of 4.55 which appears to be good via rubric
+Ask_info do you change the piston diameter at all
+Prov_Info I'm leaving it as 45 at least for now
+Prov_Info the mass was 0.24 with the diameter at 70, but with the diameter at 45 it was 0.17
+Ask_info did you change the diameter because mine says 80, but at 105 it was excellent
+Prov_Info ah i menat 1.47
+Ask_info whats your fos
+Ask_info Is 45 mm bore diameter working better for you? I was getting better results at 40
+Ask_info Hey looks like our FOS went up. What changed?
+Prov_Info i think you have the biggest weight contribution, so if you can optimize a bit we should be close
+Prov_Info Basically, if we can each keep our part factor of safety above 2 while minimizing mass, we'll be golden.
+Prov_Info Right now I have a total mass of 1.49 and FOS of 4.55 which appears to be good via rubric
+Ask_info Can you send me your current values?
+Ask_info Was there a particular reason why you asked about maxing out ds?
+Prov_Info stop changing
+Ask_info what's your mass>
+Prov_Info I re-simulated with the others' updated values and got a slightly lower mass and fos of 3
+Prov_Info yeah, I haven't changed anything 
+Prov_Info I was looking at what factor of safety/ weight range is excellent and trying to get the lowest mass with a factor of safety around 2
+Prov_Info Our current design is excellent! I am not sure how we did that, but I am happy!
+Ask_info How appreciable is the change in mass if you prioritize FOS?
+Prov_Info Ive maxed fos and my mass is at 0.12
+Ask_info I asked if they changed their broadcasted values from excellent.
+Ask_info I am trying my hardest. what would your fos be with that change? We only want it to be above 2
+Ask_info How appreciable is the change in mass if you prioritize FOS?
+Ask_info Our quality is back down to good. What changed?
+Prov_Info just updated my broadcast. Mass of mine is 1.49
+Prov_Info I chose the smallest values to give smallest weight on my end
+Ask_info does it help you if I reduce that value at all?
+Prov_Info My mass varies between 0-0.12 so let me know if you need me to adjust anything

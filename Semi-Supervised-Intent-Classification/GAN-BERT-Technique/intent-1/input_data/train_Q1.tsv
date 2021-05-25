@@ -1,0 +1,191 @@
+fine_label utterance
+Prov_Info crankshaft is like 30
+Ask_info Whats the effect of D on your results?
+Prov_Info im at a FOS of just over 2, so I think I'm good unless we need to cut more mass
+Prov_Info Keeping it at 40 works best for me, what about the others?
+Prov_Info thickness is tf = 10
+Prov_Info Sounds good! I just tried my middle values and will broadcast that.
+Prov_Info my personal FOS is 4.55 and my personal parameter selection minimizes mass
+Prov_Info I don't think that was my doing.  I have been broadcasting FOS values around 8
+Prov_Info also, if you click check for broadcast at the top it says we're at excellent
+Prov_Info min of 40
+Prov_Info My flywheel also depends on your crankshaft bearing offset (c)
+Prov_Info Just updated
+Prov_Info cool, I havent changed anything from excellent 
+Prov_Info any FOS higher than 2 gets us nothing more, we need to drop mass
+Prov_Info D = 40 works best for me if you can make that work
+Prov_Info whoever changed please go back
+Prov_Info It is at a 75 though
+Prov_Info 7.96 has been the best achieved thus far
+Prov_Info Just updated for D = 40, Im getting fos of 3.44
+Ask_info How does the flywheel thickness factor into the bearing support offset and crankshaft mass?
+Prov_Info we have excellent quality right now
+Prov_Info yes i believe
+Prov_Info I lowered my mass by about 5 lbs
+Ask_info If you increase your D what does that do to mass?
+Prov_Info I don't know what has changed. Ill rebroadcast what I had when we were good.
+Ask_info fos?
+Ask_info Can you put yours back to before when it was excellent? I think theres some dependency that makes it go bad
+Ask_info is there anyway you could lower the weight and fos to just above 2
+Prov_Info If it's important, increasing "tf" increases mass but decreases FOS
+Ask_info Can you see if you increase your bore diamater to 41 or 42 if it improves anything?
+Ask_info Hey! How does the value of my crank pin diameter affect your design?
+Ask_info alright, what fos #s are you getting. my lowest fos situation is still 323
+Prov_Info Ok, and we want to increase FOS and decrease mass
+Ask_info what was the flywheel thickness used?
+Ask_info what's your fos?
+Prov_Info Ok. Do that! That's a big FOS for only a gain of 0.03
+Prov_Info mine still says excellent, but i have not changed anythign 
+Prov_Info it depends heavily on piston diameter
+Prov_Info Mine is at 1.59 for my most recent broadcast
+Prov_Info i have not
+Prov_Info i can increase by 1 pound and fos also goes up by 1 which is a lot, can anyone lose a lot of mass with a small decrease in fos?
+Ask_info Hey I am the conrod I was curious as to what you thought a good piston diameter would be?
+Ask_info whoever changed please go back
+Ask_info What's keeping the piston bore from being minimized to 75, if I may ask? I think we were hitting an "excellent" rating when it was at 75 earlier.
+Ask_info Wanna do me a favor and broadcast the value of 45
+Prov_Info r2 = 0.5, r3 = 0.2, and at D = 40 this gives m = 0.12 and fos = 3.44
+Prov_Info they're going to leave it safe, sinc eit doesn'taffect weight much
+Prov_Info I broadcasted a change to lower my mass. fos is still above 2.0. I saw that after this message, so sorry about not telling you before
+Ask_info Hey, I need to know what PISTON BORE DIAMETER you are planning to use for my calculations
+Ask_info Hi, I need the piston diameter D
+Prov_Info i haven't changed anything. My fos is 3.96 and mass is 30.51 (crankshaft is heavy for any situation)
+Ask_info Our design changed to good. Do you know what changed?
+Prov_Info i changed my mass to a lower value and updated it and it says the mass went up
+Prov_Info If you could reduce your "tf" variable that would be great :)
+Prov_Info Hello pistonpin. The crankshaft doesn't dep3end directly on your system, but please tell me if anything that I do affects you.
+Prov_Info You'll need to broadcast that. The most recent broadcast value we have is 80.
+Prov_Info can increase diameter is we need higher fos
+Prov_Info I have now , I canchange it back
+Prov_Info Try and minimize your mass but keep fos above 2
+Prov_Info that is what I uploaded to me more consistent. My values did not change though
+Prov_Info Rn were under mass so if you need to you could increase it a bit
+Ask_info who's fos changed?
+Ask_info Do you need me to adjust anything to make yours work?
+Prov_Info I have m = 0.12 and fos = 3.44 for D = 40
+Prov_Info Increasing the offset increases the mass and decreases the factor of safety.
+Ask_info Let me know if I can adjust my variables to better suite your requirements
+Prov_Info 40 works for me
+Prov_Info flywheel changed a value and I lost 5 lbs!
+Prov_Info Right now I have a total mass of 1.49 and FOS of 4.55 which appears to be good via rubric
+Prov_Info yes, currently it is at 2.27
+Prov_Info update the broadcast
+Prov_Info I'm working really close the the flywheel engineer
+Prov_Info Increasing ds will increase mass and FOS
+Prov_Info Ok. My FOS values range from 1 to 8
+Prov_Info m = .52, FOS = 2.02
+Prov_Info With c=60 and dc=20 I get FOS=8
+Ask_info all my fos values are in the hundreds, i suspect it depends a lot on c
+Prov_Info ok, seems like not a huge difference
+Prov_Info I've just broadcasted the most recent simulation but this will definitely not be the final one.
+Ask_info is there a bore diameter you are set on? or are you still experimenting?
+Prov_Info i have mine with the fos closest to 2 and lowest mass i can get
+Prov_Info I'm currently at 40 mm diameter, which is giving me better results than the 45 mm
+Prov_Info I think its the piston
+Prov_Info It doesnt affect my mass because I'm the pin designer
+Ask_info our mass seems to be going up, are you using the original values?
+Prov_Info Yeah but 45 should be fine if you dont want to go lower
+Ask_info How low can you go on the piston bore diameter?
+Prov_Info I chose the smallest values to give smallest weight on my end
+Prov_Info My mass is ~30 lbs, but the crankshaft mass is always high. I can set it over 50 by myslef...
+Ask_info based on c = 60?
+Ask_info I still see that our system's fos is .68? odd
+Ask_info Who has the FOS of .57? we need to work on increasing that
+Prov_Info Right now our factor of safety is chilling around 2.5
+Prov_Info I can probably drop some mass out of my part, but can also take that out of other parts
+Prov_Info Its at 2.83 rn for me
+Prov_Info just updated my broadcast to the minimum values for both
+Ask_info Based on my simulations, it seems like a smaller value of (c) will result in an overall higher FOS, do you agree?
+Ask_info i don't know, but mine is best at 105
+Prov_Info i'm not the only one that is changing
+Ask_info How appreciable is the change in mass if you prioritize FOS?
+Prov_Info for tf = 10 & ds = 25; m = 0.55 and FOS = 5625.56
+Prov_Info i didn't change it from when it said excellent for me
+Ask_info My design depends on the piston diameter, what happens if you decrease it? 
+Prov_Info conrod length to crank length ration (r) = 3
+Prov_Info nevermind, back at excellent now.
+Prov_Info It increases pretty fast
+Prov_Info Not much it doesn't really do anything to the factor of safety but it brings the mass down
+Prov_Info Range of weights was 1.49 to 4.81. My broadcast uses 1.49 with FOS = 4.55
+Prov_Info someone just broadcasted somethhing different and raised our mass to 3.25
+Prov_Info Any way you can decrease mass
+Prov_Info Lower D, lowers my mass and FOS
+Ask_info ?
+Prov_Info 1.38
+Prov_Info It appears our engine design currently is excellent
+Prov_Info Can you max out the ds value to see what happens?
+Ask_info what are your current values?
+Prov_Info Increasing the value of c presents two adverse cases where mass increases and FOS decreases so I'm tending towards c = 60
+Prov_Info That is what my document specifies. I will keep c low unless the piston needs it to be higher
+Prov_Info we're back to very good
+Prov_Info i don't think so
+Prov_Info that's a pretty high mass, any chamce you can bring it down and keep FOS just over 2?
+Ask_info cool, can you get your mass any lower?
+Prov_Info I mean, I'm the low FOS of 2.01 now and can't really cut any more mass
+Prov_Info the current broadcast. FOS = 5626
+Prov_Info thats as low as I have gotten it
+Prov_Info tf = 10, ds = 25
+Prov_Info Basically, if we can each keep our part factor of safety above 2 while minimizing mass, we'll be golden.
+Prov_Info I haven't changed my broadcast
+Prov_Info I don't know what has changed. Ill rebroadcast what I had when we were good.
+Prov_Info your part
+Prov_Info We are toeing the 3 kg limit though, I'm probably just going to keep ds = 15
+Prov_Info alright. fos increases with df, so rn i have it minimized, but can increase if needed.
+Prov_Info 45 seems decent, lower if we need to reduce mass
+Prov_Info we are at excelelent again
+Ask_info Do you have a value for the bore diameter?
+Ask_info what's your fos?
+Prov_Info I have both my values fully optimized
+Prov_Info Thats my max
+Prov_Info Think I optimized my part with m = .52 and FOS = 2.01
+Ask_info is your mass high?
+Ask_info is the FOS highest and mass lowest when the offset is 150?
+Prov_Info I am using the best results that I have, where c is minimum and d_c is maximum. Inve tried other things but that is my best by far, and is the only solution I have uploaded
+Ask_info Have you changed the system at all? Our quality has dropped.
+Ask_info Parameters you chose
+Ask_info what seems to be the ideal piston bore diameter on your end? Could you explain how it affects mass and FOS?
+Ask_info does changing any other's parameters help bring your mass down?
+Ask_info what's your mass and FOS
+Prov_Info 45 seems decent
+Prov_Info I guess what I'm saying is if you can marginally increase mass to increasing FOS more noticeably, that might be a better compromise
+Prov_Info mine is mass of 6.33 and fos of 2.23
+Ask_info Does increasing the flywheel thickness increase or decrease "c"?
+Prov_Info current broadcasted is 25.98. fos is still over 2
+Prov_Info If I reduce my mass by .03, it reduces FOS by .25 to 1.76
+Ask_info How much does your mass range by
+Prov_Info stop changing
+Prov_Info we are at excellent agian
+Ask_info who's fos changed
+Prov_Info No I don't think so
+Prov_Info My mass is lowered and my fos is just above 2
+Ask_info what's your component range of weights?
+Ask_info What are your current values?
+Prov_Info My mass varies between 0-0.12 so let me know if you need me to adjust anything
+Prov_Info Range of weights was 1.49 to 4.81. My broadcast uses 1.49 with FOS = 4.55
+Ask_info what are your current values?
+Prov_Info which are bearing support offest and crank-pin diameter respectivly
+Prov_Info yeah, the overall mass went up, so I'm about to raise my mass and drop the fos one of the other designers asked me to 
+Ask_info what value are you changing?
+Ask_info for my part or total?
+Prov_Info interestingly piston-pin is the only fos under 2, but the whole fos is still quite low
+Prov_Info sweet just a little bit more
+Prov_Info Right now it says we have an excellent design
+Prov_Info just updated my broadcast. Mass of mine is 1.49
+Ask_info Who has the FOS of .57? we need to work on increasing that
+Prov_Info the mass went up a lot
+Prov_Info Hi piston! My crankshaft depends on your bore diameter. I don't yet know how, but it will probably help that you know.
+Ask_info it should be, no?
+Prov_Info 2.01, sorry
+Ask_info we're only trying to keep FOS over 2 right?
+Prov_Info individually 2.47
+Prov_Info I dropped my mass by 0.02
+Prov_Info okay we're still above a factor of safety of 2 thought so don't worry about it
+Prov_Info I posted a new broadcast that better meets my requirements
+Prov_Info my system is probably not the limiting part
+Ask_info what are your current values? Parameters you chose
+Ask_info So the lower D is the better it is for me
+Prov_Info Hi flywheel! My crankshaft depends on your flywheel shaft diameter(d_s) and thickness of flywheel(t_f). I don't yet know how, but it will probably help that you know!
+Prov_Info i don't know the lowest fos on my screen is 0.57
+Ask_info Hello.  Have you determined what you would like the piston bore diameter (D) to be?
+Ask_info How does the piston bore diameter affect the overall design parameters?
+Prov_Info just updated to tf = 10, ds = 15 and shaved .03kg at limited cost
