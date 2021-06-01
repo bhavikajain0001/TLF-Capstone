@@ -1,0 +1,160 @@
+fine_label utterance
+Effect_ofparams My mass is ~30 lbs, but the crankshaft mass is always high. I can set it over 50 by myslef...
+Selected_params Just updated for D = 40, Im getting fos of 3.44
+Monitoring_objectives Think I optimized my part with m = .52 and FOS = 2.01
+Tradeoff_bw_objectives i can increase by 1 pound and fos also goes up by 1 which is a lot, can anyone lose a lot of mass with a small decrease in fos?
+Tradeoff_bw_objectives that's a pretty high mass, any chamce you can bring it down and keep FOS just over 2?
+Effect_ofparams So the lower D is the better it is for me
+Explore_params I can probably drop some mass out of my part, but can also take that out of other parts
+Monitoring_objectives is your mass high?
+Monitoring_objectives i haven't changed anything. My fos is 3.96 and mass is 30.51 (crankshaft is heavy for any situation)
+Monitoring_objectives Have you been changing your broadcasted values since we were at excellent?
+Explore_params Unsure relationship for increasing ds? thoughts?
+Monitoring_objectives i didn't change it from when it said excellent for me
+Selected_params my personal FOS is 4.55 and my personal parameter selection minimizes mass
+Effect_ofparams that depends on what the thickness of the piston is for me, if I keep it the same and decrease it the mass goes down but so does the factor of safety, I'm trying to get it around 2 w/ lowest mass
+Monitoring_objectives rn I only see our global FOS as 0.57 and mass as 2.16?
+Effect_ofparams I do not think it has any effect
+Selected_params crankshaft is like 30
+Monitoring_objectives Hey what mass are you getting?
+Explore_params Whats it at with 45?
+Explore_params Hey, I need to know what PISTON BORE DIAMETER you are planning to use for my calculations
+Selected_params for tf = 10 & ds = 15; m = 0.52 and FOS = 1215.12
+Monitoring_objectives what's your component range of weights?
+Dependencies_bwparams c=60, dc=15
+Monitoring_objectives current broadcasted is 25.98. fos is still over 2
+Tradeoff_bw_objectives Basically, if we can each keep our part factor of safety above 2 while minimizing mass, we'll be golden.
+Monitoring_objectives I don't think that was my doing.  I have been broadcasting FOS values around 8
+Monitoring_objectives most recent fos is 3.01
+Monitoring_objectives Rn were under mass so if you need to you could increase it a bit
+Monitoring_objectives My mass is lowered and my fos is just above 2
+Effect_ofparams I re-simulated with the others' updated values and got a slightly lower mass and fos of 3
+Explore_params How low can you go on the piston bore diameter?
+Tradeoff_bw_objectives yeah, the overall mass went up, so I'm about to raise my mass and drop the fos one of the other designers asked me to 
+Selected_params for tf = 10 & ds = 25; m = 0.55 and FOS = 5625.56
+Monitoring_objectives what are your current values? Parameters you chose
+Dependencies_bwparams My flywheel also depends on your crankshaft bearing offset (c)
+Dependencies_bwparams did you change the diameter because mine says 80, but at 105 it was excellent
+Monitoring_objectives 1.38
+Selected_params r2 = 0.5, r3 = 0.2, and at D = 40 this gives m = 0.12 and fos = 3.44
+Selected_params tf = 10, ds = 25
+Effect_ofparams 45 seems decent, lower if we need to reduce mass
+Tradeoff_bw_objectives I was looking at what factor of safety/ weight range is excellent and trying to get the lowest mass with a factor of safety around 2
+Effect_ofparams But if i increase the thickness i could make it a lot higher
+Selected_params I'm leaving it as 45 at least for now
+Tradeoff_bw_objectives Can you cut any more mass out and get closer to FOS  = 2
+Monitoring_objectives I'm currentlt at FOS of 2.07, so I', not the low
+Selected_params oops sorry it's at 80
+Monitoring_objectives who's fos changed?
+Effect_ofparams all my fos values are in the hundreds, i suspect it depends a lot on c
+Monitoring_objectives thats as low as I have gotten it
+Tradeoff_bw_objectives I decreased ds to 15 mm to conserve some mass, as my FOS values are all greater than 300
+Selected_params I am using the best results that I have, where c is minimum and d_c is maximum. Inve tried other things but that is my best by far, and is the only solution I have uploaded
+Monitoring_objectives I lowered my mass by about 5 lbs
+Dependencies_bwparams Let me know if I can adjust my variables to better suite your requirements
+Monitoring_objectives we have excellent quality right now
+Explore_params 40 works for me
+Monitoring_objectives Think I optimized my part with m = .52 and FOS = 2.01
+Monitoring_objectives interestingly piston-pin is the only fos under 2, but the whole fos is still quite low
+Tradeoff_bw_objectives How appreciable is the change in mass if you prioritize FOS?
+Monitoring_objectives Right now our factor of safety is chilling around 2.5
+Monitoring_objectives Our design changed to good. Do you know what changed?
+Monitoring_objectives I still see that our system's fos is .68? odd
+Monitoring_objectives whats your fos
+Monitoring_objectives leave yours as is for now, piston is biggest factor rn
+Monitoring_objectives mine still says excellent, but i have not changed anythign 
+Monitoring_objectives What mass are you at?
+Monitoring_objectives I am trying my hardest. what would your fos be with that change? We only want it to be above 2
+Selected_params I just lowered it to 25.23. That is low for the crankshaft
+Monitoring_objectives m = .52, FOS = 2.02
+Monitoring_objectives just updated my broadcast. Mass of mine is 1.49
+Effect_ofparams Increasing the offset increases the mass and decreases the factor of safety.
+Tradeoff_bw_objectives any FOS higher than 2 gets us nothing more, we need to drop mass
+Effect_ofparams Not much it doesn't really do anything to the factor of safety but it brings the mass down
+Selected_params the current broadcast. FOS = 5626
+Explore_params What does changing that do?
+Monitoring_objectives cool, can you get your mass any lower?
+Monitoring_objectives your mass is 25.98?
+Monitoring_objectives is your mass and fos
+Explore_params If you could reduce your "tf" variable that would be great :)
+Monitoring_objectives what's your mass and FOS
+Monitoring_objectives mass 1.49, fos 2.47
+Monitoring_objectives Right now I have a total mass of 1.49 and FOS of 4.55 which appears to be good via rubric
+Selected_params min of 40
+Tradeoff_bw_objectives Think I optimized my part with m = .52 and FOS = 2.01
+Selected_params I broadcasted a change to lower my mass. fos is still above 2.0. I saw that after this message, so sorry about not telling you before
+Tradeoff_bw_objectives How appreciable is the change in mass if you prioritize FOS?
+Effect_ofparams I chose the smallest values to give smallest weight on my end
+Effect_ofparams In that case it would be more valuable to keep the lower ds value to conserve mass
+Effect_ofparams Whats the effect of D on your results?
+Monitoring_objectives I dropped my mass by 0.02
+Explore_params what was the flywheel thickness used?
+Selected_params i don't know, but mine is best at 105
+Monitoring_objectives i'm not the only one that is changing
+Explore_params D = 40 works best for me if you can make that work
+Effect_ofparams Can you max out the ds value to see what happens?
+Monitoring_objectives someone just broadcasted somethhing different and raised our mass to 3.25
+Selected_params what is your diameter at currently?
+Effect_ofparams Increasing ds will increase mass and FOS
+Effect_ofparams mine is optimized with m = 0.12 and fos = 3.44 when you have D = 40
+Effect_ofparams If it's important, increasing "tf" increases mass but decreases FOS
+Effect_ofparams i have not
+Selected_params thickness of I-section = 3
+Tradeoff_bw_objectives Basically, if we can each keep our part factor of safety above 2 while minimizing mass, we'll be golden.
+Explore_params tf = 10 mm; ds = 25 mm;
+Tradeoff_bw_objectives If I reduce my mass by .03, it reduces FOS by .25 to 1.76
+Effect_ofparams How does the piston bore diameter affect the overall design parameters?
+Effect_ofparams It doesnt affect my mass because I'm the pin designer
+Effect_ofparams With c=60 and dc=20 I get FOS=8
+Monitoring_objectives mine is mass of 6.33 and fos of 2.23
+Selected_params Can you send me your current values?
+Monitoring_objectives mine is 3
+Monitoring_objectives individually 2.47
+Explore_params Do you have a value for the bore diameter?
+Explore_params Yeah but 45 should be fine if you dont want to go lower
+Dependencies_bwparams What's keeping the piston bore from being minimized to 75, if I may ask? I think we were hitting an "excellent" rating when it was at 75 earlier.
+Monitoring_objectives Same goes for you.  Is your FOS above 1.5?
+Explore_params Hello.  Have you determined what you would like the piston bore diameter (D) to be?
+Explore_params I don't change that. I only change c and d_c
+Effect_ofparams no because it went down to fair, the mass went up a lot
+Dependencies_bwparams Hi flywheel! My crankshaft depends on your flywheel shaft diameter(d_s) and thickness of flywheel(t_f). I don't yet know how, but it will probably help that you know!
+Dependencies_bwparams It is at a 75 though
+Monitoring_objectives Mine is at 1.59 for my most recent broadcast
+Tradeoff_bw_objectives Any way you can decrease mass
+Selected_params conrod length to crank length ration (r) = 3
+Effect_ofparams Based on my simulations, it seems like a smaller value of (c) will result in an overall higher FOS, do you agree?
+Effect_ofparams Thats my max
+Effect_ofparams I decreased my weight parameter a bit
+Tradeoff_bw_objectives I am trying but it lowers my fos as well. I'll see if I can do anything furhter
+Effect_ofparams can increase diameter is we need higher fos
+Monitoring_objectives fos?
+Effect_ofparams Increasing "c" increases the mass and decreases the FOS
+Explore_params is there a bore diameter you are set on? or are you still experimenting?
+Tradeoff_bw_objectives I guess what I'm saying is if you can marginally increase mass to increasing FOS more noticeably, that might be a better compromise
+Tradeoff_bw_objectives Ok, and we want to increase FOS and decrease mass
+Monitoring_objectives 7.96 has been the best achieved thus far
+Tradeoff_bw_objectives just lowered it another 2 lbs
+Monitoring_objectives I chose the smallest values to give smallest weight on my end
+Tradeoff_bw_objectives is there anyway you could lower the weight and fos to just above 2
+Tradeoff_bw_objectives Ok. Do that! That's a big FOS for only a gain of 0.03
+Monitoring_objectives i think you have the biggest weight contribution, so if you can optimize a bit we should be close
+Effect_ofparams Increasing the value of c presents two adverse cases where mass increases and FOS decreases so I'm tending towards c = 60
+Tradeoff_bw_objectives I have both my values fully optimized
+Explore_params Keeping it at 40 works best for me, what about the others?
+Monitoring_objectives what are your current values?
+Monitoring_objectives the mass went up a lot
+Dependencies_bwparams That is what my document specifies. I will keep c low unless the piston needs it to be higher
+Effect_ofparams Can you see if you increase your bore diamater to 41 or 42 if it improves anything?
+Monitoring_objectives Right now I have a total mass of 1.49 and FOS of 4.55 which appears to be good via rubric
+Effect_ofparams Can you put yours back to before when it was excellent? I think theres some dependency that makes it go bad
+Effect_ofparams what seems to be the ideal piston bore diameter on your end? Could you explain how it affects mass and FOS?
+Explore_params Was there a particular reason why you asked about maxing out ds?
+Effect_ofparams just updated to tf = 10, ds = 15 and shaved .03kg at limited cost
+Monitoring_objectives Hey looks like our FOS went up. What changed?
+Explore_params What value works best for your simulation?
+Monitoring_objectives what's your fos?
+Tradeoff_bw_objectives How appreciable is the change in mass if you prioritize FOS?
+Monitoring_objectives Who has the FOS of .57? we need to work on increasing that
+Explore_params My mass varies between 0-0.12 so let me know if you need me to adjust anything
+Selected_params I have m = 0.12 and fos = 3.44 for D = 40
+Tradeoff_bw_objectives yeah, the overall mass went up, so I'm about to raise my mass and drop the fos one of the other designers asked me to 

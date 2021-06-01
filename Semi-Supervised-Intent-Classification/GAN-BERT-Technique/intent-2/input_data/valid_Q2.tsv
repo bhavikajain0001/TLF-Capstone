@@ -1,0 +1,23 @@
+fine_label utterance
+Monitoring_objectives i don't know the lowest fos on my screen is 0.57
+Monitoring_objectives we're only trying to keep FOS over 2 right?
+Effect_ofparams ok, seems like not a huge difference
+Effect_ofparams is the FOS highest and mass lowest when the offset is 150?
+Monitoring_objectives Range of weights was 1.49 to 4.81. My broadcast uses 1.49 with FOS = 4.55
+Monitoring_objectives 2.01, sorry
+Monitoring_objectives cool, I havent changed anything from excellent 
+Tradeoff_bw_objectives im at a FOS of just over 2, so I think I'm good unless we need to cut more mass
+Monitoring_objectives Not sure. But 0.03 is not a lot of mass
+Monitoring_objectives I haven't changed my upload since I started. My fos is 3.96 right now
+Effect_ofparams it depends heavily on piston diameter
+Monitoring_objectives Who has the FOS of .57? we need to work on increasing that
+Effect_ofparams does it help you if I reduce that value at all?
+Explore_params thickness is tf = 10
+Tradeoff_bw_objectives Ive maxed fos and my mass is at 0.12
+Monitoring_objectives Right now I have a total mass of 1.49 and FOS of 4.55 which appears to be good via rubric
+Effect_ofparams flywheel changed a value and I lost 5 lbs!
+Monitoring_objectives My mass varies between 0-0.12 so let me know if you need me to adjust anything
+Monitoring_objectives Right now it says we have an excellent design
+Selected_params the mass was 0.24 with the diameter at 70, but with the diameter at 45 it was 0.17
+Effect_ofparams It increases pretty fast
+Explore_params It affects the design variable "c", which the length of the bearing support offset

@@ -1,0 +1,46 @@
+fine_label utterance
+Effect_ofparams Yes, but I'm iterating to determine dependence on other parameters rn
+Monitoring_objectives ok. do what you can
+Dependencies_bwparams What all affects the piston diameter? Keeping the diameter smaller improves both the pin's mass and factor of safety. What factors drive up the diameter?
+Effect_ofparams i changed my mass to a lower value and updated it and it says the mass went up
+Effect_ofparams does changing any other's parameters help bring your mass down?
+Effect_ofparams based on c = 60?
+Explore_params I'm currently at 40 mm diameter, which is giving me better results than the 45 mm
+Effect_ofparams just reduced thickness to reduce mass, increased fos a bit
+Monitoring_objectives we are at excellent agian
+Explore_params do you change the piston diameter at all
+Effect_ofparams alright. fos increases with df, so rn i have it minimized, but can increase if needed.
+Monitoring_objectives our mass seems to be going up, are you using the original values?
+Effect_ofparams We are toeing the 3 kg limit though, I'm probably just going to keep ds = 15
+Monitoring_objectives Ok. My FOS values range from 1 to 8
+Monitoring_objectives just updated my broadcast. Mass of mine is 1.49
+Effect_ofparams Isn't the system FOS only dependent on the lowest value out of all the subsystems?
+Monitoring_objectives who's fos changed
+Monitoring_objectives yes, currently it is at 2.27
+Explore_params Is 45 mm bore diameter working better for you? I was getting better results at 40
+Explore_params Do you need me to adjust anything to make yours work?
+Monitoring_objectives Its at 2.83 rn for me
+Selected_params i have mine with the fos closest to 2 and lowest mass i can get
+Monitoring_objectives Range of weights was 1.49 to 4.81. My broadcast uses 1.49 with FOS = 4.55
+Dependencies_bwparams Does increasing the flywheel thickness increase or decrease "c"?
+Tradeoff_bw_objectives Try and minimize your mass but keep fos above 2
+Effect_ofparams It increases mass by 0.03 and increases FOS to 5625.56
+Monitoring_objectives overall FOS is 1.7
+Effect_ofparams If you increase your D what does that do to mass?
+Effect_ofparams Lower D, lowers my mass and FOS
+Explore_params Hey! How does the value of my crank pin diameter affect your design?
+Monitoring_objectives ah i menat 1.47
+Monitoring_objectives stop changing
+Selected_params 45 seems decent
+Monitoring_objectives How much does your mass range by
+Effect_ofparams How does the flywheel thickness factor into the bearing support offset and crankshaft mass?
+Monitoring_objectives what's your mass>
+Monitoring_objectives i think we have excellent quality right now
+Monitoring_objectives what's your fos?
+Monitoring_objectives okay we're still above a factor of safety of 2 thought so don't worry about it
+Effect_ofparams Have you changed the system at all? Our quality has dropped.
+Dependencies_bwparams My design depends on the piston diameter, what happens if you decrease it? 
+Selected_params alright, what fos #s are you getting. my lowest fos situation is still 323
+Effect_ofparams they're going to leave it safe, sinc eit doesn'taffect weight much
+Tradeoff_bw_objectives Try and minimize your mass but keep fos above 2
+Tradeoff_bw_objectives I now have minimum fos but i further decreased my mass
