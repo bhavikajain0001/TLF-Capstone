@@ -1,0 +1,6 @@
+0.05 eval_accuracy = 0.5777778 0.05 eval_f1_macro = 0.2847222 0.05 eval_f1_micro = 0.5777778 0.05 eval_loss = 2.3498979 0.05 eval_precision = 0.5777778 0.05 eval_recall = 0.5777778 0.05 global_step = 630 0.05 loss = 3.7385151 
+0.05 eval_accuracy = 0.042205583 0.05 eval_f1_macro = 0.010124102 0.05 eval_f1_micro = 0.042205583 0.05 eval_loss = 1.6445421 0.05 eval_precision = 0.042205583 0.05 eval_recall = 0.042205583 0.05 global_step = 0 0.05 loss = 3.9819076 
+0.05 eval_accuracy = 0.5777778 0.05 eval_f1_macro = 0.2847222 0.05 eval_f1_micro = 0.5777778 0.05 eval_loss = 2.3498979 0.05 eval_precision = 0.5777778 0.05 eval_recall = 0.5777778 0.05 global_step = 630 0.05 loss = 3.7385151 
+0.05 eval_accuracy = 0.5777778 0.05 eval_f1_macro = 0.2847222 0.05 eval_f1_micro = 0.5777778 0.05 eval_loss = 2.3498979 0.05 eval_precision = 0.5777778 0.05 eval_recall = 0.5777778 0.05 global_step = 630 0.05 loss = 3.7385151 
+0.05 eval_accuracy = 0.5777778 0.05 eval_f1_macro = 0.2847222 0.05 eval_f1_micro = 0.5777778 0.05 eval_loss = 2.3498979 0.05 eval_precision = 0.5777778 0.05 eval_recall = 0.5777778 0.05 global_step = 630 0.05 loss = 3.7385151 
+0.05 eval_accuracy = 0.536079 0.05 eval_f1_macro = 0.08724795 0.05 eval_f1_micro = 0.536079 0.05 eval_loss = 1.4665946 0.05 eval_precision = 0.536079 0.05 eval_recall = 0.536079 0.05 global_step = 0 0.05 loss = 3.8799326 
