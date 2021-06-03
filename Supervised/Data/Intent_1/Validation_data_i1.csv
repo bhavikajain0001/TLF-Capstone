@@ -1,0 +1,49 @@
+﻿body,intent_1
+"My design depends on the piston diameter, what happens if you decrease it? ",Asking for information
+"Does increasing the flywheel thickness increase or decrease ""c""?",Asking for information
+That is what my document specifies. I will keep c low unless the piston needs it to be higher,Providing information
+thats if D = 45 where D is the piston bore diameter,Providing information
+"Does the flywheel shaft diameter ""ds"" affect any variables in your control?",Asking for information
+But if i increase the thickness i could make it a lot higher,Asking for information
+Increasing the offset increases the mass and decreases the factor of safety.,Providing information
+Whats the effect of D on your results?,Asking for information
+can increase diameter is we need higher fos,Providing information
+"Lower D, lowers my mass and FOS",Providing information
+whoever changed please go back,Asking for information
+the 2.95 design also has the lowest mass,Providing information
+If that reduces your fos,Providing information
+"no because it went down to fair, the mass went up a lot",Providing information
+Have you changed the system at all? Our quality has dropped.,Asking for information
+is there a bore diameter you are set on? or are you still experimenting?,Asking for information
+I just got my mass down to 0.11,Providing information
+I am getting around 2.26-2.95,Providing information
+Make sure you dont drop too much mass though,Providing information
+is that best case or worst case? my numbers are in the hundreds so we can play with ds if you use that,Asking for information
+do you think I should try and increase those?,Asking for information
+tf = 10 mm; ds = 25 mm;,Providing information
+we should try a safe configuration and trim weight from there,Providing information
+we have excellent quality right now,Providing information
+i think we have excellent quality right now,NAN
+Rn were under mass so if you need to you could increase it a bit,Providing information
+Right now our factor of safety is chilling around 2.5,Providing information
+I'm still seeing 'poor' on my end,Providing information
+we're only trying to keep FOS over 2 right?,Asking for information
+what range of fos #s are you getting? mine are in the hundreds so it's not the limiting system,Asking for information
+"Yeah, that was nice",NAN
+we're back to very good,Providing information
+back to very good,Providing information
+ya'' should chat about that,Providing information
+"alright, guess not then",NAN
+okay,NAN
+"alright, guess no then",NAN
+before uploading any new broadcasts copy and paste a message into all your chats so we know its changing,Providing information
+Mine should be broadcasting,NAN
+27,NAN
+"any FOS higher than 2 gets us nothing more, we need to drop mass",Providing information
+"If I reduce my mass by .03, it reduces FOS by .25 to 1.76",Providing information
+I now have minimum fos but i further decreased my mass,Providing information
+Can you cut any more mass out and get closer to FOS  = 2,Asking for information
+I think I optimized mine as well my mass is at 0.10 and fos is 2.77,Providing information
+for tf = 10 & ds = 25; m = 0.55 and FOS = 5625.56,Providing information
+the current broadcast. FOS = 5626,Providing information
+"tf = 10, ds = 25",Providing information

@@ -1,0 +1,518 @@
+﻿body,intent_1
+0.11,NAN
+2.47,NAN
+2.5,NAN
+?,Asking for information
+*myself,NAN
+"2.01, sorry",Providing information
+40 works for me,Providing information
+45 It seems decent,Providing information
+45 It seems to be decent,Providing information
+45 seems decent,Providing information
+"45 seems decent, lower if we need to reduce mass",Providing information
+7.96 has been the best achieved thus far,Providing information
+"80,150,12,60",NAN
+"aaargh I keep forgetting I have to click ""check for broadcast""",Providing information
+"actually mine is just as good with the diameter at 80, the fos is just a little lower at 2.3",Providing information
+ah i menat 1.47,Providing information
+"all my fos values are in the hundreds, i suspect it depends a lot on c",Asking for information
+"All right, what factorofsafety s, getting my weakest facsafecty situation is always 323?",Asking for information
+alright,NAN
+Alright I can definitely work with that,NAN
+alright thank you,NAN
+alright what factorofsafety s are you getting my lowest factorofsafety situation is still 323,Asking for information
+"Alright, thank you!",NAN
+"alright, what fos #s are you getting. my lowest fos situation is still 323",Asking for information
+alright.,NAN
+"alright. fos increases with df, so rn i have it minimized, but can increase if needed.",Providing information
+"also you can only see a few of the design variables, so whatever broadcast we had before was working well and this new one isn't as good",Providing information
+"Also, you can only see some of the design variables, so whatever the broadcast we had before working well and that this new is not as good",Providing information
+An uncertain relationship to increase the DS? Thoughts?,Asking for information
+And i have the connection rod length ratio at the minimum,Providing information
+Are you having troubles with FOS?,Asking for information
+are you limited by D to determine L? we may be able to increase D and reduc eL for a weigh tsavings.,Asking for information
+Are you limited by D to determine l? We may be able to increase D and reduce the for a weighing Tavings.,Asking for information
+Are you limited by D to determine we can be able to increase D and reduce the EL for a weighing of tavins.,Asking for information
+Are you limited by D to determine we can be able to increase d and reduce weighing jerseys.,Asking for information
+are you limited by pistonborediameter to determine L question mark we may be able to increase pistonborediameter and reduc eL for a weigh tsavings,Asking for information
+based on c = 60?,Asking for information
+"Based on my simulations, it seems like a smaller value of (c) will result in an overall higher FOS, do you agree?",Asking for information
+"Basically, if we can each keep our part factor of safety above 2 while minimizing mass, well be golden.",Providing information
+"Basically, if we can keep our safety safety factor above 2 by minimizing the dough, rust.",Providing information
+"Basically, if we can keep our safety safety factor above 2 by minimizing the dough, rust.",Providing information
+"Basically, if we can keep our safety safety factor above 2 while minimizing the dough, well rust.",Providing information
+because mine still read as excellent when my diameter was at 80,Providing information
+broadcast that,NAN
+can you change it just to see,Asking for information
+"Can you just change it, just to see?",Asking for information
+Can you max out the ds value to see what happens?,Providing information
+Can you put yours back to before when it was excellent? I think theres some dependency that makes it go bad,Asking for information
+Can you send me your current values question mark,Asking for information
+Can you send me your current values question mark?,Asking for information
+Can you send me your current values?,Asking for information
+Can you send me your present questioning point?,Asking for information
+can you trim a tiny bit more?,Asking for information
+chat with piston pin to determine that,Providing information
+Conrod length to crane length ratio (R) = 3,Providing information
+conrod length to crank length ration (r) = 3,Providing information
+conrod length to crank length ration r equals to 3,Providing information
+Conrod length to the length ratio of the crank (R) = 3,Providing information
+cool,NAN
+"cool, I havent changed anything from excellent ",Providing information
+crank is 30 lbs alone,Providing information
+Crankshaft is at 1.49 for m,Providing information
+crankshaft is like 30,Providing information
+current broadcasted is 25.98. fos is still over 2,Providing information
+"currently at mass 47.81, FOS 2.32",Providing information
+D = 40 works best for me if you can make that work,Providing information
+D is min at 40 I think,Providing information
+"D is min at 40, I think",Providing information
+Decrease of 15 mm pamphlets to maintain a certain mass because my deficient safety values are greater than 300,Providing information
+"Decreased flyers at 15 mm to preserve some mass, since my deficient security values are greater than 300",Providing information
+definitely,NAN
+did you already push your broadcast?,Asking for information
+"did you change the diameter because mine says 80, but at 105 it was excellent",Asking for information
+"Did you change the diameter because mine says 80, but at 105 it was excellent?",Asking for information
+do we just sit here now?,Asking for information
+do you change the piston diameter at all,Asking for information
+Do you have a value for the bore diameter?,Asking for information
+Do you need me to adjust anything to make yours work?,Asking for information
+Does it help you if I even reduce this value?,Asking for information
+does it help you if I reduce that value at all?,Asking for information
+Done,NAN
+Dope,NAN
+"earlier we had pretty good results with a bore diameter of 75mm, should we give that a try again?",Asking for information
+for flywheelthickness equals to 10 flywheeldiameter equals to 15 ; mass equals to 052 and factorofsafety equals to 121512,Providing information
+"For steering wheels, the spicy is equal to 10 FlywheelDiatter equals 15; Mass is equal to 052 and factorofsafsegurity equivalent to 121512",Providing information
+for tf = 10 & ds = 15; m = 0.52 and FOS = 1215.12,Providing information
+"For the direction wheels, the spicy is equal to 10 flying flying at 15; the mass is equal to 052 and factor equivalent to 121512",Providing information
+fos?,Asking for information
+from when it was at excellent,Asking for information
+global is at 2.3 right now,Providing information
+"global is at 2.47, individual is 15886.04",Providing information
+global just changed to 1.17,Providing information
+good idea,NAN
+Great! So your values are fully optimized,NAN
+"Have changed the diameter because my 80 says, but at 105 it was excellent",Asking for information
+have you been changing anything from when it was at excellent?,Asking for information
+Have you been changing your broadcasted values since we were at excellent?,Asking for information
+"Have you changed the diameter because mine says 80, but at 105 was excellent?",Asking for information
+Have you messaged the others about this yet?,Asking for information
+"Hello piston, based on my information, it seems like it would be best to minimize flywheel thickness (tf) and maximize flywheel shaft diameter (ds). Does this work with your design requirements?",Providing information
+"Hello piston! My crankshaft depends on your diameter of the hole. I do not know how, but it will probably help you.",Providing information
+"Hello, is your FOS above 1.5?",Asking for information
+Hello.  Have you determined what you would like the piston bore diameter (D) to be?,Asking for information
+Hello.Do you determined what you want when the piston bore diameter (D) is?,Asking for information
+here i will share a design,Providing information
+Hey I am the conrod I was curious as to what you thought a good piston diameter would be?,Asking for information
+Hey! How does the value of my crank pin diameter affect your design?,Asking for information
+Hi flywheel My crankshaft depends on your flywheel shaft diameterd _ s and thickness of flywheelt _ f I do not yet know how but it will probably help that you know,Providing information
+"Hi flywheel! My crankshaft depends on your flywheel shaft diameter(d_s) and thickness of flywheel(t_f). I dont yet know how, but it will probably help that you know!",Providing information
+"Hi piston! My crankshaft depends on the diameter of your bore.I do not know how, but it will probably help you know.",Providing information
+"Hi piston! My crankshaft depends on your bore diameter. I dont yet know how, but it will probably help that you know.",Providing information
+"Hi, I need the piston diameter D",Asking for information
+hmm ok,NAN
+How appreciable is the change in mass if you prioritize factorofsafety question mark,Asking for information
+How appreciable is the change in mass if you prioritize FOS?,Asking for information
+How appreciable is the change in the mass if it prioritizes the question mark of factorofsafety,Asking for information
+how can you maximize fos and we can work around that maybe?,Asking for information
+How does the flywheel thickness factor into the bearing support offset and crankshaft mass?,Asking for information
+How does the piston bore diameter affect the overall design parameters?,Asking for information
+How late is the mass change if you prioritize the factor fatty question mark?,Asking for information
+How low can you go on the piston bore diameter?,Asking for information
+How much does your mass range by,Asking for information
+How much the mass is appreciable if you give prioritization on Factorofsafety Question,Asking for information
+How much the mass is appreciable if you give prioritization on Factorofsafety Question,Asking for information
+how much weigh tcan you trim generally?,Asking for information
+How much weight can you intersect?,Asking for information
+how much weight can you reduce roughly,Asking for information
+how much weight can you trim (generally),Providing information
+I am at a factorofsafety of just over 2 so I think I am good unless we need to cut more mass,Providing information
+"I am at a Fos under 2 years old, so I think I'm good if we need to reduce more mass",Providing information
+I am at about 0.11,Providing information
+"I am in a factor factor of little more than 2, so I think I'm good unless we need to reduce more mass.",Providing information
+"I am in a factorffestant of little more than 2, so I think I'm good unless we need to cut more mass.",Providing information
+I am leaving it as 45 at least for now,Providing information
+I am using the best results I have where the Bearingoffset is the minimum and pistonborediai.,Providing information
+I am using the best results that I have where bearingoffset is minimum and pistonborediameter _ bearingoffset is maximum Inve tried other things but that is my best by far and is the only solution I have uploaded,Providing information
+"I am using the best results that I have, where c is minimum and d_c is maximum. Inve tried other things but that is my best by far, and is the only solution I have uploaded",Providing information
+I asked if they changed their broadcasted values from excellent.,Asking for information
+I can get mine up to 3.44 max where D = 40,Providing information
+"I can get up to 3.44 max, where d = 40",Providing information
+"I can probably drop a mass on my part, but can also take this other parts",Providing information
+"I can probably drop some mass out of my part, but can also take that out of other parts",Providing information
+i can try,Providing information
+I can try and trim a little more tho],Providing information
+i changed my mass to a lower value and updated it and it says the mass went up,Providing information
+I chose the smallest values to give smallest weight on my end,Providing information
+I decided for the smallest values to give the smallest weight at my end,Providing information
+"I decreased ds to 15 mm to conserve some mass, as my FOS values are all greater than 300",Providing information
+I decreased flywheeldiameter to 15 mm to conserve some mass as my factorofsafety values are all greater than 300,Providing information
+I decreased steering wheel to 15 mm to keep a mass because my FACTOROFSAFETY values are all superior to 300,Providing information
+i didn't change it from when it said excellent for me,Providing information
+"I do not control that. All I can do is the ratio of L:r, and its not called L1",Providing information
+"I do not control that. Everything I can do is the proportion of L: R, and it is not called L1.",Providing information
+i do not know but mine is best at 105,Providing information
+"I do not know, but mine is the best in 105.",Providing information
+"I do not know, but my is best at 105",Providing information
+"I do not know, but my is the best in 105.",Providing information
+I do not think it has an effect,NAN
+I do not think it has any effect,Providing information
+I don't change that. I only change c and d_c,Providing information
+i don't know the lowest fos on my screen is 0.57,Providing information
+I don't know what has changed. Ill rebroadcast what I had when we were good.,Providing information
+i don't think so,Providing information
+I dont use ds I think,Providing information
+I got my mass down to 0.10 i think that is as low as i can go and the factor of safety is still 2.77,Providing information
+I guess what I am saying is if you can marginally increase mass to increasing factorofsafety more noticeably that might be a better compromise,Asking for information
+"I guess what Im saying is if you can marginally increase mass to increasing FOS more noticeably, that might be a better compromise",Providing information
+I have both my values fully optimized,Providing information
+"I have just an update for piston tree parameters equal to 40, I get the factorofsegege of 344",Providing information
+"I have just updated for d = 40, I get Fos of 3.44",Providing information
+I have m = 0.12 and fos = 3.44 for D = 40,Providing information
+I have mass equals to 012 and factorofsafety equals to 344 for pistonborediameter equals to 40,Providing information
+I have my values totally optimized,Providing information
+I have not changed any of my values since we were at excellent quality,Providing information
+"I have now , I canchange it back",Providing information
+I haven't changed a thing,Providing information
+I haven't changed a thing since we were at excellent,Providing information
+i haven't changed anything. My fos is 3.96 and mass is 30.51 (crankshaft is heavy for any situation),Providing information
+I haven't changed my broadcast,Providing information
+I haven't changed my upload since I started. My fos is 3.96 right now,Providing information
+I just downloaded it to 2523 that is low for the crankshaft,Providing information
+I just lowered it to 2523 That is low for the crankshaft,Providing information
+"I just lowered it to 2523, which is low for the crankshaft",Providing information
+"I just updated for D = 40, I am receiving FOS of 3.44",Providing information
+"I just updated for D = 40, I receive Fos of 3.44",Providing information
+"I just updated for pistonborediameter equals 40, I'm getting factorofsegurity of 344",Providing information
+I leave him as 45 at least for now,Providing information
+I leave it at least 45 at least for now,Providing information
+I leaving it like 45 at least for now,Providing information
+I let it at least at least 45,Providing information
+I lowered my mass by about 5 lbs,Providing information
+"I mean, I'm the low FOS of 2.01 now and can't really cut any more mass",Providing information
+I re-simulated with the others' updated values and got a slightly lower mass and fos of 3,Providing information
+I re-simulated with the updated values of the others and obtained a slightly lower mass and the Fos of 3,Providing information
+I still see that our system's fos is .68? odd,Asking for information
+I think I affect myself,NAN
+I think I dare to optimize my share with the dough is equal to 52 and facteufsafecty is equal to 201,Providing information
+I think I optimize my part with m = .52 and fos = 2.01,Providing information
+I think I optimize my part with the dough is equal to 52 and factorofsafecty is equal to 201,Providing information
+I think its the piston,Providing information
+I think its the piston changing but not sure,Providing information
+I think L 1 does affect me though,Providing information
+I think that l 1 affects me,Providing information
+I think were at safe right now,Providing information
+"I think what I say is, if you can raise marginal the mass to increase an increasing security factor that is more apparent, which could be a better compromise",Asking for information
+"i think you have the biggest weight contribution, so if you can optimize a bit we should be close",Providing information
+"I use the best results I where WatnessOffset is minimum and pistonborediameter _ portaFoffset is a maximum of INV tried other things, but it's my best from afar and is the only solution I downloaded",Providing information
+I use the best results in which I have,NAN
+I was looking at what factor of safety weight range is excellent and trying to get the lowest mass with a factor of safety around 2,Asking for information
+I was looking at which safety weight rank is excellent and trying to get the lowest mass with a safety factor around 2,Providing information
+I watched what role of the security weight range is excellent and I try to get the lowest mass with a safety factor around 2,Providing information
+I'm about to drop the fos and mass because rod designer said it might help them,Providing information
+I'm about to drop the Fos and the mass because the stem said it could help them,Providing information
+"I'm currentlt at FOS of 2.07, so I', not the low",Providing information
+"I'm currently at 40 mm diameter, which is giving me better results than the 45 mm",Providing information
+"I'm in a factor juice of just over 2, so I think I'm fine if we no longer have to cut mass",Providing information
+"I'm in a little more than 2, so I think I'm good unless we need to cut more mass",Providing information
+"I'm in a little over 2 years, so I think I'm good unless we need to reduce the mass",Providing information
+I'm leaving it like 45 at least for now,Providing information
+i'm not the only one that is changing,Providing information
+"I'm the low FOS of 2.01, can you cut any more mass out",Asking for information
+I'm working really close the the flywheel engineer,Providing information
+idk how but our mass earlier was 33.29 or something,Providing information
+idk they haven't been super responsive,Providing information
+"If I drop my weight through my FPS, the super garbage is",Asking for information
+If I drop my weight way down though my fos is super trash,Providing information
+if i go all the way to min weight is cuts fos and only shaves .03kg,Providing information
+"If it is important, ""TF"" increases increasingly, however, the FOS decreases",Providing information
+"If it's important, increasing ""tf"" increases mass but decreases FOS",Providing information
+"If you could reduce your ""tf"" variable that would be great :)",Providing information
+If you increase your D what does that do to mass?,Asking for information
+im at 2.07,Providing information
+"im at a FOS of just over 2, so I think Im good unless we need to cut more mass",Providing information
+Im leaving it as 45 at least for now,Providing information
+In that case it would be more valuable to keep the lower ds value to conserve mass,Providing information
+"In this case, it would be more useful to keep the value DS lower than conserving the mass",Providing information
+"Increasing ""c"" increases the mass and decreases the FOS",Providing information
+Increasing ds will increase mass and FOS,Providing information
+Increasing the value of c presents two adverse cases where mass increases and FOS decreases so I'm tending towards c = 60,Providing information
+individually 2.47,Providing information
+Insecure relationship to increase the DS? Thoughts?,Asking for information
+"interestingly piston-pin is the only fos under 2, but the whole fos is still quite low",Providing information
+"interstingly pisto-pin is the only fos under 2, but the whole fos is still quite low",Providing information
+Is 45 mm bore diameter working better for you? I was getting better results at 40,Asking for information
+is the FOS highest and mass lowest when the offset is 150?,Asking for information
+Is there any other party could lower weight and fos to just above 2?,Asking for information
+is there anyway you could lower the weight and factorofsafety to just above 2,Asking for information
+is there anyway you could lower the weight and fos to just above 2,Asking for information
+Is there anyway you could reduce the weight and factor of exceeding factor of 2,Asking for information
+Is there anyway you could reduce weight and fos just above 2,Asking for information
+is your mass and fos,Asking for information
+is your mass high?,Asking for information
+Isn't the system FOS only dependent on the lowest value out of all the subsystems?,Asking for information
+"It affects the ""C"" design variable, that the length of the Compensa bearing support",Providing information
+"It affects the design variable ""c"", which the length of the bearing support offset",Providing information
+it depends heavily on piston diameter,Providing information
+It depends heavily on the diameter of the piston,Providing information
+It doesnt affect my mass because I'm the pin designer,Providing information
+It increases mass by 0.03 and increases FOS to 5625.56,Providing information
+It looks like our engine design is excellent then And yes that works with my design requirements,NAN
+it looks like someone changed the mass to be wrong but yea,Providing information
+"It looks like someone has changed the crowd to be wrong, but yes",NAN
+"It's a pretty big mass, a chance that you can bring it back and keep a little over 2 years?",Asking for information
+It's okay. Do that! That's a great fos for just a gain of 0.03,Providing information
+it's the smallest weight and gives a reference level of 4.55,Providing information
+Ive maxed fos and my mass is at 0.12,Providing information
+just did. .03kg,Providing information
+Just made..03kg.,Providing information
+"just reduced thickness to reduce mass, increased fos a bit",Providing information
+Just updated,Providing information
+"Just updated for D = 40, Im getting fos of 3.44",Providing information
+Just updated for pistonborediameter equals to 40 I am getting factorofsafety of 344,Providing information
+just updated my broadcast,Providing information
+just updated my broadcast. Mass of mine is 1.49,Providing information
+"just updated to tf = 10, ds = 15 and shaved .03kg at limited cost",Providing information
+k,NAN
+keep it up and we'll trim from there,Providing information
+"Keeping it at 40 works best for me, what about the others?",Providing information
+leave yours as is for now piston is biggest factor rn,Providing information
+Leave yours as is for now the piston is a bigger factor RN,Providing information
+"leave yours as is for now, piston is biggest factor rn",Providing information
+Let it know if I can adjust my variables to better suggest your requirements,Asking for information
+Let it know if I can customize my variables to better propose your requirements,Asking for information
+Let me know if I can adjust my variables to better suite your requirements,Asking for information
+let me play around with some numbers,NAN
+Let yours as for now piston is the biggest Rn factor,Providing information
+Let yours as it's for now that the piston is a bigger factor Rn,Providing information
+looking at that now,NAN
+"m = .52, FOS = 2.02",Providing information
+m = 0.07 and fos = 1.59,Providing information
+"make sure it's broadcasting propperyly, I've had to click it a couple times to get it to show for all",Providing information
+"mass 1.49, fos 2.47",Providing information
+mass equals to 007 and factorofsafety equals to 159,Providing information
+me either,Providing information
+min,NAN
+min of 40,Providing information
+MIN of 40.,NAN
+min with highest fos,Providing information
+mine is 2.47,Providing information
+mine is 3,Providing information
+mine is 6.33 I can try and lower it back to 6.26,Providing information
+Mine is at 1.59 for my most recent broadcast,Providing information
+mine is mass of 6.33 and fos of 2.23,Providing information
+mine is optimized with m = 0.12 and fos = 3.44 when you have D = 40,Providing information
+mine is still at excellent so I don't know,Providing information
+"mine still says excellent, but i have not changed anythign ",Providing information
+most of the mass is in the crank I think you and the crank have some dependency on one another,Providing information
+most recent fos is 3.01,Providing information
+My flywheel also depends on your crankshaft bearing offset (c),Providing information
+My flywheel also depends on your crankshaft bearing offset bearingoffset,Providing information
+My individual mass is 1.27,Providing information
+"My mass is ~30 lbs, but the crankshaft mass is always high. I can set it over 50 by myslef...",Providing information
+My mass varies between 0-0.12 so let me know if you need me to adjust anything,Providing information
+"My mass varies between 0-0.12, so let me know if you need me to adjust anything",Asking for information
+My steering wheel also depends on your charging bearings bearing crankshaft.,Providing information
+My steering wheel also depends on your crankshaft rolling shift (C),Providing information
+My steering wheel also depends on your crankshaft wheel load bearings.,Providing information
+My steering wheel also depends on your scrolling of crankshaft bearings (c),Providing information
+My steering wheel also depends on your scrolling of crankshaft bearings (C).,Providing information
+My weight varies between 0.0 and 0.12 so im the wrong person to reduce weight,Providing information
+"My weight varies between 0.0 and 0.12, so I am the wrong person to reduce the weight",Providing information
+"My weight varies between 0.0 and 0.12, so I am the wrong person to reduce the weight",Providing information
+"nevermind, back at excellent now.",Providing information
+Nice.,NAN
+no,Providing information
+No I believe my variables are independent of shaft diameter,Providing information
+"no I do not think it does, I was able to get my FOS up above 3.4 though",Providing information
+No I don't think so,Providing information
+no i only see those 4,NAN
+no idk it says fair rn,NAN
+"No, I do not believe so",Providing information
+"No, I think my variables are independent of the diameter of the tree",Providing information
+"No, my FOS values are all greater than 300.",Providing information
+"not for me, on mine it says fair",Providing information
+not me,Providing information
+Not much,Providing information
+"Not much does not really do something about the factor of security, but it brings the mass down",Providing information
+Not much it doesn't really do anything to the factor of safety but it brings the mass down,Providing information
+Not sure. But 0.03 is not a lot of mass,Providing information
+Not yet,Providing information
+Ok and we want to increase factor factors and decrease the mass,Providing information
+Ok and we want to increase factorofsafety and decrease mass,Providing information
+OK and we want to increase the safety of factoring and decrease the mass.,Providing information
+OK and we want to increase the safety of factoring and reduce the mass.,Providing information
+OK and we want to increase the safety of factoring and reduce the mass.,Providing information
+Ok Do that that is a big factorofsafety for only a gain of 003,NAN
+ok for sure,NAN
+"Ok, and we want to increase FOS and decrease mass",Providing information
+"Ok, and we want to increase the FPS and decrease the dough.",Providing information
+"Ok, and we want to increase the fps and decrease the mass",Providing information
+"ok, seems like not a huge difference",Providing information
+Ok. Do that! Thats a big FOS for only a gain of 0.03,NAN
+ok. do what you can,NAN
+Ok. My FOS values range from 1 to 8,Providing information
+okay right now we're at very good,NAN
+okay we're still above a factor of safety of 2 thought so don't worry about it,Providing information
+Oops I'm sorry it's at 80,Providing information
+oops sorry it is at 80,Providing information
+Our design changed to good. Do you know what changed?,Asking for information
+"our mass seems to be going up, are you using the original values?",Asking for information
+"Our mass seems to go, use the original values?",Asking for information
+Our quality is back down to good. What changed?,Asking for information
+overall FOS is 1.7,Providing information
+Parameters you chose,Asking for information
+Perfect,NAN
+Piston diameter and thickness,Providing information
+piston pin affects fos most but can't trim much weight,Providing information
+"possibly, let me check",NAN
+quality just went down to poor for me. seems like overall values are changing without anyone updating anything?,Asking for information
+"Quality only went up for me. Sight, as if the total values change without anyone updating everything?",Asking for information
+"r2 = 0.5, r3 = 0.2, and at D = 40 this gives m = 0.12 and fos = 3.44",Providing information
+Range of weights was 1.49 to 4.81. My broadcast uses 1.49 with FOS = 4.55,Providing information
+really?,NAN
+respectively carrying the support support diameter and crank pin,NAN
+Right now I have a total mass of 1.49 and FOS of 4.55 which appears to be good via rubric,Providing information
+Right now it says we have an excellent design,Providing information
+rn I only see our global FOS as 0.57 and mass as 2.16?,Asking for information
+"sadly no i am at the lowest limit for the piston diamter, connecting rod thickness, and connecting rod length ratio",Providing information
+same,NAN
+Same for me my fos drops waaaay down and shaves only 0.12 from m,Providing information
+Same goes for you.  Is your FOS above 1.5?,Asking for information
+Say if I can adjust my variables to better suggest your needs,Asking for information
+Say if I can adjust my variables to better suggest your needs,Asking for information
+shows it as broadcasting for me,Providing information
+So the lower D is the better it is for me,Asking for information
+sorry team just realized i wasn't broadcasting mine,Providing information
+sounds good,NAN
+sounds good but do you have any more room to reduce mass? I'm about the smallest I can make my parts,Asking for information
+Sounds good thank you!,NAN
+"Sounds good, but do you have more space to reduce the fair? I am the smallest that I can do my parts",Asking for information
+sounds good. I think yours was the only one changing,Providing information
+sweet,NAN
+ta said we're good,NAN
+thank you!,NAN
+"that depends on what the thickness of the piston is for me, if I keep it the same and decrease it the mass goes down but so does the factor of safety, I'm trying to get it around 2 w/ lowest mass",Providing information
+that is ok I control the conrod length to crank length ratio r 1 does that affect you in any way question mark,Asking for information
+that is what I uploaded to me more consistent. My values did not change though,Providing information
+That should be good,NAN
+that'll do it,Providing information
+"That's fine, I control the length of conrod to the length ratio of crank r 1 does that affect it in some way?",Asking for information
+"thats a pretty high mass, any chamce you can bring it down and keep FOS just over 2?",Asking for information
+Thats my max,Providing information
+"Thats ok. I control the conrod length to crank length ratio (r1), does that affect you in any way?",Asking for information
+thats the smallest weight and it gives part level fos of 4.55,Providing information
+The crankshaft is 1.49 for m,Providing information
+The current broadcast is good if we can trim mass,Providing information
+The current program is good if we can cut mass,Providing information
+"The dough was 0.24 with diameter to 70, but with diameter at 45 was 0.17",Providing information
+The increase in the value of C has two undesirable cases where the mass increases and the Fos decrease so I try c = 60,Providing information
+"the mass was 0.24 with the diameter at 70, but with the diameter at 45 it was 0.17",Providing information
+"The mass was 0.24 with the diameter to 70, but with the diameter at 45, it was 0.17",Providing information
+the mass went up a lot,Providing information
+the only dimension that I have access to that was different then was the piston bore diameter,Providing information
+These are the same for me.Watch you see other variables? I can only see these 4,Asking for information
+"they will leave it safe, since eit will not make a lot of weight",Providing information
+"they're going to leave it safe, sinc eit doesn'taffect weight much",Providing information
+thickness is tf = 10,Providing information
+thickness of I-section = 3,Providing information
+Think I optimized my part with m = .52 and FOS = 2.01,Providing information
+Think I optimized my part with m = .52 and fos = 2.01,Providing information
+Think I optimized my part with mass equals to 52 and factorofsafety equals to 201,Providing information
+Think I optimized my share with a mass equal to 52 and factors of access factors to 201,Providing information
+those are the same for me. Can you see any other variables? I can only see those 4,Asking for information
+Unsure relationship for increasing ds? thoughts?,Asking for information
+update the broadcast,Providing information
+"Very well, what factorofsafety s, is getting my lowest situation of Factorfsafecty is still 323?",Asking for information
+Was there a particular reason why you asked about maxing out ds?,Asking for information
+We are back to very good now,NAN
+we are back to very good now too,Providing information
+"We can only reduce a hair because of the specified LD ratio, if it helps to connect the connecting rod that can reduce mass",Providing information
+We can reduce a hairy because of the given LD report if it helps connect the rod to reduce the mass,Providing information
+We have to aim for a smaller total mass that is a bit close to 40,Providing information
+We have to go to a smaller total mass that is something near 40,Providing information
+we may reduce D just a hair because of the given LD ratio if it helps connecting rod reduce mass,Providing information
+We must aim at a smaller total mass that is a bit close to 40,Providing information
+We need to figure out who has the highest mass and fos,NAN
+We need to have the heavy parts drop mass,Providing information
+We need to trim mass,Providing information
+we should aim for a smaller total mass it is a little close to 40,Providing information
+"We should aim for a smaller total mass, it's a bit close to 40",Providing information
+"We went from excellent to arm, RIP",NAN
+"we went from excellent to poor, rip",Providing information
+what,Asking for information
+What affects the entire diameter of the piston? Keep the smallest diameter improves both the pins mass and the safety factor. What factors do diameter?,Asking for information
+What all affects the piston diameter question mark Keeping the diameter smaller improves both the pins mass and factor of safety What factors drive up the diameter question mark,Asking for information
+What all affects the piston diameter? Keeping the diameter smaller improves both the pins mass and factor of safety. What factors drive up the diameter?,Asking for information
+What all affects the question mark of the diameter of the piston that maintains the smallest diameter improves both the masses of the pins and the safety factor of what the factors drive the question mark of the diameter,Asking for information
+What are your current values?,Asking for information
+what are your current values? Parameters you chose,Asking for information
+What does changing that do?,Asking for information
+What does that make?,Asking for information
+what fos #s are you getting?,Asking for information
+What is changing that?,Asking for information
+what is your diameter at currently question mark,Asking for information
+what is your diameter at currently?,Asking for information
+What is your diameter currently?,Asking for information
+What is your diameter on current question mark?,Asking for information
+What mass are you at?,Asking for information
+What mass are you?,Asking for information
+What seems to be the ideal diameter of the piston on your end? Could you explain how this affects mass and FOS?,Asking for information
+what seems to be the ideal piston bore diameter on your end? Could you explain how it affects mass and FOS?,Asking for information
+What value does it work for your simulation?,Asking for information
+What value works best for your simulation?,Asking for information
+What variables do you have listed under Key Design Variables question mark I have pistonborediameter bearingoffset flywheelthickness and flywheeldiameter,Asking for information
+"What variables do you have listed under Key Design Variables? I have (D), (c), (tf), and (ds)",Asking for information
+what variables do you use?,Asking for information
+What variables do you use?,Asking for information
+What variables has listed under the key design variables?,Asking for information
+"What variables has listed under the key design variables? I have (D), (c), (TF) and (DS)",Asking for information
+"What variables have you listed under key design variables? I have (d), (c), (TF) and (DS)",Asking for information
+"What variables listed under the key design variables? I have (d), (c), (TF) and (DS)",Asking for information
+what was the flywheel thickness used?,Asking for information
+What was the steering wheel thickness used?,Asking for information
+What weight are you at?,Asking for information
+What weight are you?,Asking for information
+what's your component range of weights?,Asking for information
+what's your fos?,Asking for information
+what's your mass and FOS,Asking for information
+Whats it at with 45?,Asking for information
+whats your fos,Asking for information
+whats yours,Asking for information
+which are bearing support offest and crank-pin diameter respectivly,Providing information
+"Which influences all of the piston diameter question mark, which keep the diameter smaller, improves both the pins mass and the factor of security, which factors start the question mark of the diameter",Asking for information
+which is the best we can do,NAN
+Which value works best for your simulation?,Asking for information
+Which variables is listed among the most important design variables?,Asking for information
+Who has the FOS of .57? we need to work on increasing that,Asking for information
+who's fos changed,Asking for information
+who's fos changed?,Asking for information
+whoever changed please go back,Asking for information
+with a FOS of 2.31,Providing information
+With c = 60 and dc = 20 I get fos = 8,Providing information
+With c=60 and dc=20 I get FOS=8,Providing information
+"wonderful system, this is.",NAN
+yeah,NAN
+Yeah but 45 should be fine if you dont want to go lower,Providing information
+Yeah but 45 should be good if you do not want to go lower,Providing information
+Yeah i have the connecting rod at minimum thickness,Providing information
+Yeah I have the liaison rod at the minimum thickness,Providing information
+yeah i just realized what you meant i see that as well,NAN
+Yeah I noticed the same thing,NAN
+yeah it does but all of the fos have been over 2 except one of them,Providing information
+yeah the overall mass went up so I am about to raise my mass and drop the factorofsafety one of the other designers asked me to,Providing information
+"yeah, I haven't changed anything ",Providing information
+"yeah, leave yours in a safe config",Providing information
+"Yeah, that's not on me.",NAN
+"yeah, the overall mass went up, so Im about to raise my mass and drop the fos one of the other designers asked me to",Providing information
+yep,NAN
+"yep, just give me a sec",NAN
+"Yes, but I am iterant to determine addiction to other RN parameters",Providing information
+"Yes, but Im iterating to determine dependence on other parameters rn",Providing information
+"yes, currently it is at 2.27",Providing information
+"yes, that's when it was excellent",Providing information
+"Yes, the global mass has risen, so I'm about to raise my mass and drop the FOS one of the other designers asked me to",Providing information
+"Yes, the global mass went upstairs then I am about to raise my mass and drop the factor of one of the other designers asked me to",Providing information
+"Yes, the global mass went upstairs then I am about to raise my mass and drop the factor of one of the other designers asked me to",Providing information
+your mass is 25.98?,Asking for information
