@@ -16,11 +16,11 @@ python -u /content/drive/MyDrive/projects/Capstone_Project/Checkpoint_5/GAN-BERT
         --task_name=general \
         --label_rate=${LABEL_RATE} \
         --do_train=true \
-		    --do_test=true \
+    	--do_test=true \
         --do_val=true \
         --do_predict=false \
-		    --do_eval_predict=false \
-		    --pred_OOS=false \
+    	--do_eval_predict=false \
+    	--pred_OOS=false \
         --data_dir=${cur_dir} \
         --vocab_file=$BERT_BASE_DIR/vocab.txt \
         --bert_config_file=$BERT_BASE_DIR/bert_config.json \
