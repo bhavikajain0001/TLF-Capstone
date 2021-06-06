@@ -36,11 +36,11 @@ For Intent 1:
 	Validation				0.93		0.93		0.9	0.91		0.93		0.04
 							
 							
-							
 For Intent 2:							
-	GAN-BERT Technique	Accuracy 	Precision 	Recall		F1-score macro		F1-score micro	Loss
-	Training		0.5777778	0.5777778	0.5777778	0.2847222		0.5777778	2.3498979
-	Validation		0.59090906	0.59090906	0.59090906	0.286715		0.59090906	2.9002342
+							
+	GAN-BERT Technique	Accuracy 	Precision 	Recall	F	1-score macro	F1-score micro	Loss
+	Training		0.5777778	0.5777778	0.5777778	0.2847222	0.5777778	2.3498979
+	Validation		0.59090906	0.59090906	0.59090906	0.286715	0.59090906	2.9002342
 							
 							
 	Self-Training with Data Augmentation	Accuracy 	Precision 	Recall	F1-score macro	F1-score micro	Loss
