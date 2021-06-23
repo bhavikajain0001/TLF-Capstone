@@ -24,6 +24,7 @@ For the purpose of Semi-Supervised Intent Classification, 372 data instances wer
 2. Usage of Self-Training using a deep learning model on top of Data Augmentation 
 
 To compare both the methods, below is a table describing different performance metrics:
+
 For Intent 1:							
 							
 	GAN-BERT Technique			Accuracy 	Precision 	Recall		F1-score macro	F1-score Micro	Loss
